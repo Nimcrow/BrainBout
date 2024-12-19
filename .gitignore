@@ -40,13 +40,10 @@ env/
 build/
 
 # Project-specific
-*.pkl
-*.model
-*.h5
-data/raw/*
-!data/raw/.gitkeep
-data/processed/*
-!data/processed/.gitkeep
+# Removing the data exclusions to allow data files to be tracked
+# *.pkl
+# *.model
+# *.h5
 
 # System Files
 .DS_Store

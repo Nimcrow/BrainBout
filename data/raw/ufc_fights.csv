@@ -1,0 +1,2468 @@
+Year,Rank,Fight,Event,Date,Result,Is UFC
+2014,1,Hendricks vs. Lawler,UFC 171,Mar 2014,1,True
+2014,2,Aldo vs. Mendes II,UFC 179,Oct 2014,2,True
+2014,3,Weidman vs. Machida,UFC 175,Jul 2014,3,True
+2014,4,Brown vs. Silva,UFC Fight Night 40,May 2014,4,True
+2014,5,Rua vs. Henderson II,UFC Fight Night 38,Mar 2014,5,True
+2014,6,Barão vs. Dillashaw,UFC 173,May 2014,6,True
+2014,7,dos Santos vs. Miocic,UFC on FOX 13,Dec 2014,7,True
+2014,8,Lawler vs. Brown,UFC on FOX 12,Jul 2014,8,True
+2014,9,Kennedy vs. Romero,UFC 178,Sep 2014,9,True
+2014,10,Varner vs. Trujillo,UFC 169,Feb 2014,10,True
+2014,11,Saffiedine vs. Lim,UFC Fight Night 34,Jan 2014,11,True
+2014,12,Brunson vs. Romero,UFC Fight Night 35,Jan 2014,12,True
+2014,13,Pettis vs. Caceres,UFC on FOX 10,Jan 2014,13,True
+2014,14,Swanson vs. Stephens,UFC Fight Night 44,Jun 2014,14,True
+2014,15,Alvarez vs. Cerrone,UFC 178,Sep 2014,15,True
+2014,16,Ozkilic vs. Smolka,UFC Fight Night 35,Jan 2014,16,True
+2014,17,Gadelha vs. Jędrzejczyk,UFC on FOX 13,Dec 2014,17,True
+2014,18,Straus vs. Curran III,Bellator 112,Mar 2014,18,False
+2014,19,Hendricks vs. Lawler II,UFC 181,Dec 2014,19,True
+2014,20,Henderson vs. Thomson,UFC on FOX 10,Jan 2014,20,True
+2014,21,MacDonald vs. Maia,UFC 170,Feb 2014,21,True
+2014,22,Zingano vs. Nunes,UFC 178,Sep 2014,22,True
+2014,23,Dillashaw vs. Easton,UFC Fight Night 35,Jan 2014,23,True
+2014,24,Poirier vs. Corassani,UFC Fight Night,Apr 2014,24,True
+2014,25,Werdum vs. Hunt,UFC 180,Nov 2014,25,True
+2014,26,Whittaker vs. Hester,UFC Fight Night 55,Nov 2014,26,True
+2014,27,Siver vs. Rosa,UFC Fight Night 53,Oct 2014,27,True
+2014,28,Makovsky vs. Sampo,UFC 170,Feb 2014,28,True
+2014,29,Gastelum vs. Story,UFC 171,Mar 2014,29,True
+2014,30,Jones vs. Teixeira,UFC 172,Apr 2014,30,True
+2014,31,Hioki vs. Oliveira,UFC Fight Night 43,Jun 2014,31,True
+2014,32,Rousey vs. Davis,UFC 175,Jul 2014,32,True
+2014,34,Lauzon vs. Chiesa,UFC Fight Night 50,Sep 2014,34,True
+2014,33,Baczynski vs. Jouban,UFC Fight Night 47,Aug 2014,33,True
+2014,36,Doane vs. Issa,UFC Fight Night 34,Jan 2014,36,True
+2014,35,Hathaway vs. Kim,UFC Fight Night,Mar 2014,35,True
+2014,37,Alcântara vs. Reis,UFC Fight Night 36,Feb 2014,37,True
+2014,38,Machida vs. Mousasi,UFC Fight Night 36,Feb 2014,38,True
+2014,39,Hunt vs. Nelson,UFC Fight Night 52,Sep 2014,39,True
+2014,40,Condit vs. Woodley,UFC 171,Mar 2014,40,True
+2014,41,Lineker vs. Ozkilic,UFC Fight Night 45,Jul 2014,41,True
+2014,43,Thomson vs. Green,UFC on FOX 12,Jul 2014,43,True
+2014,42,Ortega vs. Koch,RFA 12,Jan 2014,42,False
+2014,45,Nam vs. Tokudome,UFC Fight Night,Mar 2014,45,True
+2014,44,Gomi vs. Vallie-Flagg,UFC 172,Apr 2014,44,True
+2014,46,Garcia vs. Spencer,UFC 171,Mar 2014,46,True
+2014,48,Gibson vs. Sterling,UFC 170,Feb 2014,48,True
+2014,47,Cerrone vs. Barboza,UFC on FOX 11,Apr 2014,47,True
+2014,49,Pickett vs. Seery,UFC Fight Night 37,Mar 2014,49,True
+2014,51,Cerrone vs. Miller,UFC Fight Night 45,Jul 2014,51,True
+2014,50,VanZant vs. Curran,UFC Fight Night 57,Nov 2014,50,True
+2014,52,Holloway vs. Chope,UFC Fight Night 34,Jan 2014,52,True
+2014,53,Pettis vs. Melendez,UFC 181,Dec 2014,53,True
+2014,54,Gaethje vs. Guillard,WSOF 15,Nov 2014,54,False
+2014,56,Blanco vs. Hooker,UFC Fight Night 52,Sep 2014,56,True
+2014,55,Penne vs. Markos,The Ultimate Fighter 20 Finale,Dec 2014,55,False
+2014,58,Pennington vs. Andrade,UFC 171,Mar 2014,58,True
+2014,57,Nelson vs. Story,UFC Fight Night 53,Oct 2014,57,True
+2014,59,Kwon vs. Choi,Road FC 14,Feb 2014,59,False
+2014,60,Borg vs. Ortiz,UFC on FOX 11,Apr 2014,60,True
+2014,63,Newton vs. Vassell,Bellator 130,Oct 2014,63,False
+2014,62,Holloway vs. Fili,UFC 172,Apr 2014,62,True
+2014,61,Holloway vs. Collard,UFC Fight Night 49,Aug 2014,61,True
+2014,65,Gaethje vs. Patishnock,WSOF 8,Jan 2014,65,False
+2014,64,Davis vs. Eye,UFC 170,Feb 2014,64,True
+2014,66,Waterson-Gomez vs. Tiburcio,Invicta FC 10,Dec 2014,66,False
+2014,67,Almeida vs. Gorman,UFC Fight Night 56,Nov 2014,67,True
+2014,71,Benavidez vs. Ortiz,UFC Fight Night 57,Nov 2014,71,True
+2014,70,Lineker vs. Bagautinov,UFC 169,Feb 2014,70,True
+2014,69,Materla vs. Silva III,KSW 26,Mar 2014,69,False
+2014,68,Kaufman vs. Smith II,UFC Fight Night,Apr 2014,68,True
+2014,74,Carter vs. Wilde,Cage Warriors 74,Nov 2014,74,False
+2014,73,Ortiz vs. Scoggins,The Ultimate Fighter 19 Finale,Jul 2014,73,False
+2014,72,Kikuno vs. Mulhern,UFC Fight Night 34,Jan 2014,72,True
+2014,75,Kawajiri vs. Guida,UFC Fight Night 39,Apr 2014,75,True
+2014,79,Tavares vs. Boetsch,UFC Fight Night 47,Aug 2014,79,True
+2014,78,Lombard vs. Shields,UFC 171,Mar 2014,78,True
+2014,77,McGregor vs. Poirier,UFC 178,Sep 2014,77,True
+2014,76,Werdum vs. Browne,UFC on FOX 11,Apr 2014,76,True
+2014,80,Létourneau vs. Phillips,UFC 174,Jun 2014,80,True
+2014,84,Miller vs. Sicilia,UFC Fight Night 35,Jan 2014,84,True
+2014,83,Shlemenko vs. Ward,Bellator 114,Mar 2014,83,False
+2014,82,Curran vs. Pitbull II,Bellator 123,Sep 2014,82,False
+2014,81,Namajunas vs. Esparza,The Ultimate Fighter 20 Finale,Dec 2014,81,False
+2014,86,Chandler vs. Brooks,Bellator 120,May 2014,86,False
+2014,85,Wood vs. Namajunas,The Ultimate Fighter Season 20,Aug 2014,85,False
+2012,1,Poirier vs. Jung,UFC on FUEL TV 3,May 2012,1,True
+2012,2,Edgar vs. Henderson,UFC 144,Feb 2012,2,True
+2012,3,St-Pierre vs. Condit,UFC 154,Nov 2012,3,True
+2012,4,Lauzon vs. Miller,UFC 155,Dec 2012,4,True
+2012,5,Lauzon vs. Varner,UFC on FOX 4,Aug 2012,5,True
+2012,6,Tate vs. Rousey,Strikeforce,Mar 2012,6,False
+2012,7,Diaz vs. Condit,UFC 143,Feb 2012,7,True
+2012,8,Ellenberger vs. Sanchez,UFC on FUEL TV 1,Feb 2012,8,True
+2012,9,Johnson vs. McCall I,UFC on FX 2,Mar 2012,9,True
+2012,10,Barboza vs. Etim,UFC 142,Jan 2012,10,True
+2012,11,Aldo vs. Mendes,UFC 142,Jan 2012,11,True
+2012,12,Rua vs. Vera,UFC on FOX 4,Aug 2012,12,True
+2012,13,Silva vs. Sonnen II,UFC 148,Jul 2012,13,True
+2012,14,Belfort vs. Johnson,UFC 142,Jan 2012,14,True
+2012,15,Nelson vs. Werdum,UFC 143,Feb 2012,15,True
+2012,16,Fitch vs. Silva,UFC 153,Oct 2012,16,True
+2012,17,Cerrone vs. Guillard,UFC 150,Aug 2012,17,True
+2012,18,Okami vs. Boetsch,UFC 144,Feb 2012,18,True
+2012,19,Menjivar vs. Albert,UFC on FUEL TV 1,Feb 2012,19,True
+2012,20,Barnett vs. Cormier,Strikeforce,May 2012,20,False
+2012,21,Alves vs. Kampmann,UFC on FX 2,Mar 2012,21,True
+2012,22,Marquardt vs. Woodley,Strikeforce,Jul 2012,22,False
+2012,24,Belcher vs. Palhares,UFC on FOX 3,May 2012,24,True
+2012,23,Ellenberger vs. Kampmann,The Ultimate Fighter 15 Finale,Jun 2012,23,False
+2012,25,Benavidez vs. Johnson,UFC 152,Sep 2012,25,True
+2012,26,Jones vs. Belfort,UFC 152,Sep 2012,26,True
+2012,27,Diaz vs. Miller,UFC on FOX 3,May 2012,27,True
+2012,28,Gaudinot vs. Lineker,UFC on FOX 3,May 2012,28,True
+2012,29,Guillard vs. Miller,UFC on FX 1,Jan 2012,29,True
+2012,30,Silva vs. Franklin II,UFC 147,Jun 2012,30,True
+2012,31,Dunham vs. Grant,UFC 152,Sep 2012,31,True
+2012,32,Barry vs. Morecraft,UFC on FX 1,Jan 2012,32,True
+2012,33,Melendez vs. Thomson III,Strikeforce,May 2012,33,False
+2012,34,Thompson vs. Brown,UFC 145,Apr 2012,34,True
+2012,35,Pitbull vs. Mix,Bellator 62,Mar 2012,35,False
+2012,36,Griffin vs. Ortiz III,UFC 148,Jul 2012,36,True
+2012,37,Sonnen vs. Bisping,UFC on FOX 2,Jan 2012,37,True
+2012,38,Pokrajac vs. Maldonado,UFC on FUEL TV 3,May 2012,38,True
+2012,39,Rockhold vs. Jardine,Strikeforce,Jan 2012,39,False
+2012,40,Hominick vs. Yagin,UFC 145,Apr 2012,40,True
+2012,41,dos Santos vs. Velasquez II,UFC 155,Dec 2012,41,True
+2012,42,Swanson vs. Roop,UFC on FOX 2,Jan 2012,42,True
+2012,43,Swick vs. Johnson,UFC on FOX 4,Aug 2012,43,True
+2012,44,Neer vs. Ludwig,UFC on FX 1,Jan 2012,44,True
+2012,45,Lawler vs. Amagov,Strikeforce,Jan 2012,45,False
+2012,46,Pickett vs. Page,UFC on FUEL TV 2,Apr 2012,46,True
+2012,47,Beltran vs. Te Huna,UFC on FUEL TV 4,Jul 2012,47,True
+2012,48,Jones vs. Evans,UFC 145,Apr 2012,48,True
+2012,50,Tate vs. Kedzie,Strikeforce,Aug 2012,50,False
+2012,49,Jorgensen vs. Wineland,UFC on FX 3,Jun 2012,49,True
+2012,51,Silva vs. Bonnar,UFC 153,Oct 2012,51,True
+2012,52,Dunham vs. Lentz,UFC on FOX 2,Jan 2012,52,True
+2012,53,Henderson vs. Diaz,UFC on FOX 5,Dec 2012,53,True
+2012,54,Kaufman vs. Davis,Strikeforce,Mar 2012,54,False
+2012,56,Henderson vs. Edgar II,UFC 150,Aug 2012,56,True
+2012,55,Struve vs. Miocic,UFC on FUEL TV 5,Sep 2012,55,True
+2012,57,dos Santos vs. Mir,UFC 146,May 2012,57,True
+2012,58,Zwicker vs. Inocente,Strikeforce,May 2012,58,False
+2012,59,Easton vs. Papazian,UFC on FX 1,Jan 2012,59,True
+2012,60,Gomi vs. Mitsuoka,UFC 144,Feb 2012,60,True
+2012,61,Poirier vs. Holloway,UFC 143,Feb 2012,61,True
+2012,62,Johnson vs. McCall II,UFC on FX 3,Jun 2012,62,True
+2012,63,Machida vs. Bader,UFC on FOX 4,Aug 2012,63,True
+2012,64,Denis vs. Delorme,UFC on FOX 3,May 2012,64,True
+2012,65,Warren vs. Curran,Bellator 60,Mar 2012,65,False
+2012,66,Palhares vs. Massenzio,UFC 142,Jan 2012,66,True
+2012,67,Rousey vs. Kaufman,Strikeforce,Aug 2012,67,False
+2012,68,Yamamoto vs. Lee,UFC 144,Feb 2012,68,True
+2012,69,Barboza vs. Varner,UFC 146,May 2012,69,True
+2012,70,Pickett vs. Jabouin,UFC on FUEL TV 5,Sep 2012,70,True
+2012,71,Schaub vs. Rothwell,UFC 145,Apr 2012,71,True
+2012,72,Pettis vs. Lauzon,UFC 144,Feb 2012,72,True
+2012,73,Pearson vs. Swanson,UFC on FX 4,Jun 2012,73,True
+2012,74,Nelson vs. Mitrione,The Ultimate Fighter 16 Finale,Dec 2012,74,False
+2012,75,Rogers vs. Spang,Bellator 66,Apr 2012,75,False
+2012,76,Barry vs. Del Rosario,The Ultimate Fighter 16 Finale,Dec 2012,76,False
+2012,77,Alvarez vs. Pitbull,Bellator 76,Oct 2012,77,False
+2012,78,Brookins vs. Poirier,The Ultimate Fighter 16 Finale,Dec 2012,78,False
+2012,80,Holloway vs. Garcia,UFC 155,Dec 2012,80,True
+2012,79,Kongo vs. Hunt,UFC 144,Feb 2012,79,True
+2012,81,Rivera vs. Schafer,UFC on FX 1,Jan 2012,81,True
+2012,82,Riddle vs. Martinez,UFC 143,Feb 2012,82,True
+2012,83,Guillard vs. Varner,UFC 155,Dec 2012,83,True
+2012,84,Pickett vs. Wineland,UFC 155,Dec 2012,84,True
+2012,85,Alvarez vs. Aoki II,Bellator 66,Apr 2012,85,False
+2012,86,McGregor vs. Buchinger,Cage Warriors 51,Dec 2012,86,False
+2012,87,Hill vs. McGregor,Cage Warriors 47,Jun 2012,87,False
+2012,88,De Fries vs. Miocic,UFC on FUEL TV 1,Feb 2012,88,True
+2012,89,Souza vs. Brunson,Strikeforce,Aug 2012,89,False
+2012,90,Teixeira vs. Maldonado,UFC 153,Oct 2012,90,True
+2012,91,Lombard vs. Palhares,UFC on FX 6,Dec 2012,91,True
+2012,92,Barry vs. Johnson,UFC on FOX 3,May 2012,92,True
+2012,93,Benavidez vs. Urushitani,UFC on FX 2,Mar 2012,93,True
+2012,94,Browne vs. Silva,UFC on FX 5,Oct 2012,94,True
+2012,96,Edwards vs. Stephens,UFC on FOX 5,Dec 2012,96,True
+2012,95,Stittgen vs. Thompson,UFC 143,Feb 2012,95,True
+2012,97,Hardy vs. Ludwig,UFC 146,May 2012,97,True
+2012,99,Kingsbury vs. Teixeira,UFC 146,May 2012,99,True
+2012,98,Holloway vs. Lawrence,UFC 150,Aug 2012,98,True
+2012,100,Dodson vs. Formiga,UFC on FX 5,Oct 2012,100,True
+2012,101,Swick vs. Brown,UFC on FOX 5,Dec 2012,101,True
+2012,103,Bermudez vs. Hayden,UFC 150,Aug 2012,103,True
+2012,102,Shalorus vs. Nurmagomedov,UFC on FX 1,Jan 2012,102,True
+2012,104,Chandler vs. Gono,Bellator 67,May 2012,104,False
+2012,105,Stone vs. Perez,UFC 150,Aug 2012,105,True
+2012,108,Jimmo vs. Perosh,UFC 149,Jul 2012,108,True
+2012,107,Lawal vs. Larkin,Strikeforce,Jan 2012,107,False
+2012,106,Gomi vs. Danzig,UFC on FUEL TV 6,Nov 2012,106,True
+2012,109,Larkin vs. Lawler,Strikeforce,Jul 2012,109,False
+2012,110,Muñoz vs. Weidman,UFC on FUEL TV 4,Jul 2012,110,True
+2012,111,Salas vs. Means,UFC on FX 3,Jun 2012,111,True
+2012,112,Oliveira vs. Wisely,UFC on FOX 2,Jan 2012,112,True
+2012,114,Beltran vs. Johnson,UFC on FOX 2,Jan 2012,114,True
+2012,113,Omigawa vs. Alcântara,UFC 142,Jan 2012,113,True
+2012,115,Swanson vs. Oliveira,UFC 152,Sep 2012,115,True
+2012,117,Nogueira vs. Herman,UFC 153,Oct 2012,117,True
+2012,116,Saffiedine vs. Stinson,Strikeforce,Jan 2012,116,False
+2012,118,St. Preux vs. Cook,Strikeforce,Aug 2012,118,False
+2012,119,Stann vs. Sakara,UFC on FUEL TV 2,Apr 2012,119,True
+2012,120,O'Keefe vs. McGregor,Cage Warriors 45,Feb 2012,120,False
+2012,121,Dillashaw vs. Lee,UFC on FUEL TV 4,Jul 2012,121,True
+2012,122,Koscheck vs. Hendricks,UFC on FOX 3,May 2012,122,True
+2012,123,Young vs. Smith,Invicta FC 1,Apr 2012,123,False
+2012,124,Holloway vs. Schilling,The Ultimate Fighter 15 Finale,Jun 2012,124,False
+2012,126,Johnson vs. Castillo,UFC on FX 5,Oct 2012,126,True
+2012,125,Jorgensen vs. Albert,UFC on FOX 5,Dec 2012,125,True
+2012,127,Del Rosario vs. Miocic,UFC 146,May 2012,127,True
+2012,128,Pearson vs. Sotiropoulos,UFC on FX 6,Dec 2012,128,True
+2012,130,Burrell vs. Spang,Strikeforce,May 2012,130,False
+2012,129,D'Alelio vs. Porto,Invicta FC 2,Jul 2012,129,False
+2012,132,Pineda vs. Carvalho,UFC 149,Jul 2012,132,True
+2012,131,Franklin vs. Le,UFC on FUEL TV 6,Nov 2012,131,True
+2012,135,Natal vs. Craig,UFC on FUEL TV 4,Jul 2012,135,True
+2012,134,Nunes vs. Canuto,Invicta FC 2,Jul 2012,134,False
+2012,133,Bowling vs. Saling,Strikeforce,Mar 2012,133,False
+2012,136,Elliott vs. Papazian,The Ultimate Fighter 16 Finale,Dec 2012,136,False
+2012,137,Jorgensen vs. Barão,UFC 143,Feb 2012,137,True
+2012,138,Neer vs. Pyle,UFC on FX 3,Jun 2012,138,True
+2012,139,Brown vs. Cope,UFC 143,Feb 2012,139,True
+2012,140,Brown vs. Ramos,UFC on FX 4,Jun 2012,140,True
+2012,141,Penn vs. MacDonald,UFC on FOX 5,Dec 2012,141,True
+2012,142,Jason vs. Sicilia,UFC 153,Oct 2012,142,True
+2012,143,Maia vs. Story,UFC 153,Oct 2012,143,True
+2012,144,Rockhold vs. Kennedy,Strikeforce,Jul 2012,144,False
+2012,146,Cruickshank vs. Martinez,UFC on FOX 5,Dec 2012,146,True
+2012,145,Petz vs. Juskevic,Score Fighting Series 4,Mar 2012,145,False
+2012,147,Cerrone vs. Stephens,UFC on FUEL TV 3,May 2012,147,True
+2012,148,Hendricks vs. Kampmann,UFC 154,Nov 2012,148,True
+2012,149,Frausto vs. Eye,Bellator 83,Dec 2012,149,False
+2012,150,Caraway vs. Gagnon,UFC 149,Jul 2012,150,True
+2012,151,Masvidal vs. Wilcox,Strikeforce,Jul 2012,151,False
+2012,153,Izquierdo vs. Madadi,UFC on FUEL TV 2,Apr 2012,153,True
+2012,152,Struve vs. Herman,UFC on FUEL TV 1,Feb 2012,152,True
+2012,155,Watson vs. Dillashaw,UFC on FUEL TV 1,Feb 2012,155,True
+2012,154,Herman vs. Starks,UFC 143,Feb 2012,154,True
+2012,156,Queiroz vs. Volkov,Bellator 80,Nov 2012,156,False
+2012,157,Iaquinta vs. Chiesa,The Ultimate Fighter 15 Finale,Jun 2012,157,False
+2012,158,Leroux vs. Nadon,Hybrid 15,Nov 2012,158,False
+2012,159,Watson vs. Gagnon,UFC 152,Sep 2012,159,True
+2012,160,Baroud vs. Albert,Hybrid 15,Nov 2012,160,False
+2012,162,Souza vs. Marunde,Strikeforce,Mar 2012,162,False
+2012,161,Whittaker vs. Scott,UFC on FX 6,Dec 2012,161,True
+2012,164,Carmouche vs. Young,Invicta FC 2,Jul 2012,164,False
+2012,163,Hardy vs. Sadollah,UFC on FUEL TV 5,Sep 2012,163,True
+2012,165,Koreshkov vs. Howard,Bellator 63,Mar 2012,165,False
+2012,166,Koreshkov vs. Krantz,Bellator 69,May 2012,166,False
+2012,167,Stout vs. Tavares,UFC 142,Jan 2012,167,True
+2012,168,Couture vs. Heun,Strikeforce,Mar 2012,168,False
+2012,170,MacDonald vs. Mills,UFC 145,Apr 2012,170,True
+2012,169,Evans vs. Davis,UFC on FOX 2,Jan 2012,169,True
+2012,171,Johnson vs. Struve,UFC 146,May 2012,171,True
+2012,172,Young vs. Smith II,Invicta FC 3,Oct 2012,172,False
+2012,173,Penne vs. Sugiyama,Invicta FC 3,Oct 2012,173,False
+2012,174,Rickels vs. Smith,Bellator 63,Mar 2012,174,False
+2012,175,Amoussou vs. Lozano,Bellator 63,Mar 2012,175,False
+2012,176,Penne vs. Ellis,Invicta FC 1,Apr 2012,176,False
+2012,178,Sayers vs. Smith,Strikeforce,Aug 2012,178,False
+2012,177,Hamman vs. Kuiper,UFC 150,Aug 2012,177,True
+2012,181,Green vs. Terry,Strikeforce,May 2012,181,False
+2012,180,Gonzaga vs. Oliveira,UFC 142,Jan 2012,180,True
+2012,179,McMann vs. Baszler,Invicta FC 2,Jul 2012,179,False
+2012,182,Hettes vs. Brimage,UFC 152,Sep 2012,182,True
+2012,184,Simpson vs. Pierce,UFC on FX 5,Oct 2012,184,True
+2012,183,Hioki vs. Palaszewski,UFC 144,Feb 2012,183,True
+2012,185,Rua vs. Gustafsson,UFC on FOX 5,Dec 2012,185,True
+2012,186,Tibau vs. Nurmagomedov,UFC 148,Jul 2012,186,True
+2012,187,Malungahu vs. Gomes,Invicta FC 3,Oct 2012,187,False
+2012,188,Rogers vs. Volkov,Bellator 75,Oct 2012,188,False
+2012,189,Amagov vs. Berry,Strikeforce,Aug 2012,189,False
+2012,190,Yvel vs. Alexander,RFA 2,Mar 2012,190,False
+2012,191,Ford vs. Santos,Bellator 67,May 2012,191,False
+2012,194,Boughton vs. Newton,Bellator 71,Jun 2012,194,False
+2012,193,Phan vs. Miller,UFC on FOX 4,Aug 2012,193,True
+2012,192,Caceres vs. Figueroa,UFC 143,Feb 2012,192,True
+2012,195,Clementi vs. Held,Bellator 81,Nov 2012,195,False
+2012,197,Rickels vs. Amoussou,Bellator 69,May 2012,197,False
+2012,196,Ricci vs. Ronson,Score Fighting Series 5,Aug 2012,196,False
+2012,198,Cavalcante vs. Kyle II,Strikeforce,May 2012,198,False
+2012,200,de Randamie vs. Yamanaka,Strikeforce,Aug 2012,200,False
+2012,199,Santos vs. Hale,Bellator 79,Nov 2012,199,False
+2012,201,Silva vs. Nedkov,UFC on FUEL TV 6,Nov 2012,201,True
+2012,203,Nunes vs. Palaszewski,UFC on FX 5,Oct 2012,203,True
+2012,202,Schermerhorn vs. Gambill,ProElite 3,Jan 2012,202,False
+2012,205,Johnson vs. Nelson,UFC on FUEL TV 5,Sep 2012,205,True
+2012,204,Schilling vs. Pineda,UFC on FX 1,Jan 2012,204,True
+2012,207,Velasquez vs. Silva,UFC 146,May 2012,207,True
+2012,206,Nijem vs. Proctor,UFC on FOX 5,Dec 2012,206,True
+2012,209,Makovsky vs. Dantas,Bellator 65,Apr 2012,209,False
+2012,208,Parker vs. Kelleher,NEF 1,Feb 2012,208,False
+2012,211,West vs. Budd,Invicta FC 3,Oct 2012,211,False
+2012,210,Jones vs. Kelleher,WCMMA 1,Sep 2012,210,False
+2012,213,Romero vs. Veal,Bellator 67,May 2012,213,False
+2012,212,Chavez vs. Kelleher,CFFC 14,Apr 2012,212,False
+2012,214,Kelleher vs. Vaccaro,Rock Out Knock Out,Jun 2012,214,False
+2016,1,Lawler vs. Condit,UFC 195,Jan 2016,1,True
+2016,2,Diaz vs. McGregor II,UFC 202,Aug 2016,2,True
+2016,3,McGregor vs. Diaz,UFC 196,Mar 2016,3,True
+2016,4,Swanson vs. Choi,UFC 206,Dec 2016,4,True
+2016,5,Dillashaw vs. Cruz,UFC Fight Night 81,Jan 2016,5,True
+2016,6,Silva vs. Bisping,UFC Fight Night 84,Feb 2016,6,True
+2016,7,Cruz vs. Garbrandt,UFC 207,Dec 2016,7,True
+2016,8,Ferguson vs. Vannata,UFC Fight Night 91,Jul 2016,8,True
+2016,9,Jędrzejczyk vs. Gadelha II,The Ultimate Fighter 23 Finale,Jul 2016,9,False
+2016,10,Bisping vs. Henderson II,UFC 204,Oct 2016,10,True
+2016,11,Holm vs. Tate,UFC 196,Mar 2016,11,True
+2016,12,Woodley vs. Thompson,UFC 205,Nov 2016,12,True
+2016,13,Bossé vs. O'Connell,UFC Fight Night 89,Jun 2016,13,True
+2016,14,Poirier vs. Duffy,UFC 195,Jan 2016,14,True
+2016,15,dos Anjos vs. Ferguson,UFC Fight Night 98,Nov 2016,15,True
+2016,16,Cerrone vs. Brown,UFC 206,Dec 2016,16,True
+2016,17,Miocic vs. Overeem,UFC 203,Sep 2016,17,True
+2016,18,Rockhold vs. Bisping II,UFC 199,Jun 2016,18,True
+2016,19,Akhmedov vs. Zaleski,UFC on FOX 19,Apr 2016,19,True
+2016,20,Henderson vs. Lombard,UFC 199,Jun 2016,20,True
+2016,21,Ma vs. Reyes,UFC 199,Jun 2016,21,True
+2016,22,Rodriguez vs. Caceres,UFC Fight Night 92,Aug 2016,22,True
+2016,23,Brunson vs. Whittaker,UFC Fight Night 101,Nov 2016,23,True
+2016,24,Jouban vs. Muhammad,UFC Fight Night 90,Jul 2016,24,True
+2016,26,Cannonier vs. Cutelaba,The Ultimate Fighter 24 Finale,Dec 2016,26,False
+2016,25,Lombard vs. Magny,UFC Fight Night 85,Mar 2016,25,True
+2016,27,Jędrzejczyk vs. Kowalkiewicz II,UFC 205,Nov 2016,27,True
+2016,28,Perry vs. Roberts,UFC 204,Oct 2016,28,True
+2016,29,Holloway vs. Lamas,UFC 199,Jun 2016,29,True
+2016,30,Cerrone vs. Cote,UFC Fight Night 89,Jun 2016,30,True
+2016,31,Chandler vs. Henderson,Bellator 165,Nov 2016,31,False
+2016,33,Almeida vs. Garbrandt,UFC Fight Night 88,May 2016,33,True
+2016,32,Alers vs. Knight,UFC on FOX 20,Jul 2016,32,True
+2016,36,Benavidez vs. Cejudo,The Ultimate Fighter 24 Finale,Dec 2016,36,False
+2016,35,Rodriguez vs. Fili,UFC 197,Apr 2016,35,True
+2016,34,Gaethje vs. Firmino,WSOF 34,Dec 2016,34,False
+2016,37,Lee vs. Yamaguchi,ONE Championship,May 2016,37,False
+2016,38,Miller vs. Lauzon II,UFC on FOX 21,Aug 2016,38,True
+2016,41,Aldo vs. Edgar II,UFC 200,Jul 2016,41,True
+2016,40,Yahya vs. Lopez,UFC Fight Night 91,Jul 2016,40,True
+2016,39,Tokov vs. Aguev,Absolute Championship Berkut 38,May 2016,39,False
+2016,42,Chiesa vs. Dariush,UFC on FOX 19,Apr 2016,42,True
+2016,44,Yan vs. Magomedov,Absolute Championship Berkut 32,Mar 2016,44,False
+2016,43,Ortega vs. Brandão,UFC 195,Jan 2016,43,True
+2016,47,Campbell vs. Krause,UFC Fight Night 83,Feb 2016,47,True
+2016,46,McDonald vs. Kanehara,UFC 195,Jan 2016,46,True
+2016,45,Pettis vs. Oliveira,UFC on FOX 21,Aug 2016,45,True
+2016,48,Pennington vs. Namajunas II,UFC on FOX 19,Apr 2016,48,True
+2016,51,Larkin vs. Tumenov,UFC 195,Jan 2016,51,True
+2016,50,Guida vs. Ortega,UFC 199,Jun 2016,50,True
+2016,49,Lineker vs. Dodson,UFC Fight Night 96,Oct 2016,49,True
+2016,53,Trator vs. Burgos,UFC Fight Night 102,Dec 2016,53,True
+2016,52,McDonald vs. Lineker,UFC Fight Night 91,Jul 2016,52,True
+2016,56,Létourneau vs. Wood,UFC Fight Night 89,Jun 2016,56,True
+2016,55,Alvarez vs. McGregor,UFC 205,Nov 2016,55,True
+2016,54,Felder vs. Cruickshank,UFC Fight Night 81,Jan 2016,54,True
+2016,58,Arlovski vs. Barnett,UFC Fight Night 93,Sep 2016,58,True
+2016,57,Slice vs. 5000,Bellator 149,Feb 2016,57,False
+2016,59,Pokrajac vs. Błachowicz,UFC Fight Night 86,Apr 2016,59,True
+2016,60,Lawler vs. Woodley,UFC 201,Jul 2016,60,True
+2016,62,Briones vs. Silva de Andrade,UFC Fight Night 98,Nov 2016,62,True
+2016,61,Kennedy vs. Gastelum,UFC 206,Dec 2016,61,True
+2016,63,Alcântara vs. Rivera,UFC on FOX 18,Jan 2016,63,True
+2016,64,Bader vs. Latifi,UFC Fight Night 93,Sep 2016,64,True
+2016,66,Trinaldo vs. Medeiros,UFC 198,May 2016,66,True
+2016,65,Johnson vs. Elliott,The Ultimate Fighter 24 Finale,Dec 2016,65,False
+2016,67,Barão vs. Stephens,UFC Fight Night 88,May 2016,67,True
+2016,68,Rothwell vs. dos Santos,UFC Fight Night 86,Apr 2016,68,True
+2016,71,Nguyen vs. Smolka,UFC Fight Night 91,Jul 2016,71,True
+2016,70,Júnior vs. Kelly,UFC Fight Night 85,Mar 2016,70,True
+2016,69,Emelianenko vs. Maldonado,Fight Nights Global 50,Jun 2016,69,False
+2016,72,Roberts vs. Steele,UFC 197,Apr 2016,72,True
+2016,74,Northcutt vs. Barberena,UFC on FOX 18,Jan 2016,74,True
+2016,73,Sterling vs. Caraway,UFC Fight Night 88,May 2016,73,True
+2016,77,Murphy vs. Faszholz,UFC Fight Night 83,Feb 2016,77,True
+2016,76,Lesnar vs. Hunt,UFC 200,Jul 2016,76,True
+2016,75,Villante vs. Safarov,UFC Fight Night 102,Dec 2016,75,True
+2016,79,Cormier vs. Silva,UFC 200,Jul 2016,79,True
+2016,78,Rosa vs. Bochniak,UFC Fight Night 81,Jan 2016,78,True
+2023,1,Makhachev vs. Volkanovski,UFC 284,Feb 2023,1,True
+2023,2,Neal vs. Rakhmonov,UFC 285,Mar 2023,2,True
+2023,3,Gaethje vs. Fiziev,UFC 286,Mar 2023,3,True
+2023,4,Teixeira vs. Hill,UFC 283,Jan 2023,4,True
+2023,5,Hooker vs. Turner,UFC 290,Jul 2023,5,True
+2023,6,Pereira vs. Adesanya II,UFC 287,Apr 2023,6,True
+2023,7,Shevchenko vs. Grasso,UFC 285,Mar 2023,7,True
+2023,8,Poirier vs. Gaethje II,UFC 291,Jul 2023,8,True
+2023,9,Rodriguez vs. Emmett,UFC 284,Feb 2023,9,True
+2023,10,Holloway vs. Jung,UFC Fight Night,Aug 2023,10,True
+2023,11,Usman vs. Chimaev,UFC 294,Oct 2023,11,True
+2023,12,Vergara vs. Lacerda,UFC Fight Night,Mar 2023,12,True
+2023,13,Jones vs. Gane,UFC 285,Mar 2023,13,True
+2023,14,Figueiredo vs. Moreno IV,UFC 283,Jan 2023,14,True
+2023,15,Moreno vs. Pantoja III,UFC 290,Jul 2023,15,True
+2023,16,Grasso vs. Shevchenko II,UFC Fight Night,Sep 2023,16,True
+2023,17,Oliveira vs. Dariush,UFC 289,Jun 2023,17,True
+2023,18,Yusuff vs. Barboza,UFC Fight Night,Oct 2023,18,True
+2023,19,Font vs. Yanez,UFC 287,Apr 2023,19,True
+2023,20,Pavlovich vs. Aspinall,UFC 295,Nov 2023,20,True
+2023,21,Procházka vs. Pereira,UFC 295,Nov 2023,21,True
+2023,22,Kape vs. dos Santos,UFC 293,Sep 2023,22,True
+2023,23,Sterling vs. O'Malley,UFC 292,Aug 2023,23,True
+2023,24,Saint-Denis vs. Bonfim,UFC Fight Night,Jul 2023,24,True
+2023,25,Frevola vs. Saint-Denis,UFC 295,Nov 2023,25,True
+2023,26,Collard vs. Burgos,PFL 9,Aug 2023,26,False
+2023,27,McKinney vs. Bonfim,UFC 283,Jan 2023,27,True
+2023,28,Garcia vs. Costa,UFC Fight Night,Dec 2023,28,True
+2023,29,Alvarez vs. Perry,BKFC 56,Dec 2023,29,False
+2023,31,Miller vs. Butler,UFC Fight Night,Jun 2023,31,True
+2023,30,Lawler vs. Price,UFC 290,Jul 2023,30,True
+2023,32,Saint-Denis vs. Moisés,UFC Fight Night,Sep 2023,32,True
+2023,33,Fairtex vs. Anderson,ONE Fight Night 10,May 2023,33,False
+2023,34,Barboza vs. Quarantillo,UFC Fight Night,Apr 2023,34,True
+2023,35,Aldana vs. Rosa,UFC 296,Dec 2023,35,True
+2023,36,Garcia vs. Nuerdanbieke,UFC 287,Apr 2023,36,True
+2023,37,Peek vs. Mariscal,UFC on ABC 5,Jun 2023,37,True
+2023,38,Ferguson vs. Green,UFC 291,Jul 2023,38,True
+2023,39,Lewis vs. Rogério de Lima,UFC 291,Jul 2023,39,True
+2023,40,Kutateladze vs. Brener,UFC Fight Night,Jul 2023,40,True
+2023,41,Edwards vs. Usman III,UFC 286,Mar 2023,41,True
+2023,42,Brown vs. McGee,UFC on ABC 4,May 2023,42,True
+2023,43,Brown vs. Maddalena,UFC 284,Feb 2023,43,True
+2023,45,YokkaoSaenchai vs. Chor.Hapayak,One Friday Fights 30,Aug 2023,45,False
+2023,44,Vettori vs. Cannonier,UFC Fight Night,Jun 2023,44,True
+2023,46,Bravo vs. Hansen,One Friday Fights 40,Nov 2023,46,False
+2023,48,Jenkins vs. Pinedo,PFL 7,Aug 2023,48,False
+2023,47,Soldić vs. Kadestam,ONE Fight Night 10,May 2023,47,False
+2023,49,Ige vs. Jackson,UFC Fight Night,Jan 2023,49,True
+2023,50,Gibson vs. Katona,UFC 292,Aug 2023,50,True
+2023,51,Volkanovski vs. Rodriguez,UFC 290,Jul 2023,51,True
+2023,52,Dawson vs. Green,UFC Fight Night,Oct 2023,52,True
+2023,53,Alvarez vs. Mendes,BKFC 41,Apr 2023,53,False
+2023,54,Godinez vs. Reed,UFC Fight Night,Sep 2023,54,True
+2023,56,Ribas vs. Pinheiro,UFC Fight Night,Nov 2023,56,True
+2023,55,Bonfim vs. Dalby,UFC Fight Night,Nov 2023,55,True
+2023,58,Perry vs. Rockhold,BKFC 41,Apr 2023,58,False
+2023,57,Knight vs. Holobaugh,The Ultimate Fighter 31,Mar 2023,57,False
+2023,59,Andrade vs. Blanchfield,UFC Fight Night,Feb 2023,59,True
+2023,61,Krylov vs. Spann,UFC Fight Night,Mar 2023,61,True
+2023,60,Means vs. Fialho,UFC Fight Night,Sep 2023,60,True
+2023,62,Jitmuangnon vs. Tabares,ONE Fight Night 10,May 2023,62,False
+2023,63,Kang vs. Quiñonez,UFC Fight Night,Jun 2023,63,True
+2023,65,Andrade vs. Dern,UFC 295,Nov 2023,65,True
+2023,64,Maddalena vs. Hafez,UFC Fight Night,Jul 2023,64,True
+2023,67,Le vs. Freymanov,ONE Fight Night 15,Oct 2023,67,False
+2023,66,Assunção vs. Grant,UFC Fight Night,Mar 2023,66,True
+2023,68,Fairtex vs. Ham,ONE Fight Night 14,Sep 2023,68,False
+2023,69,Kiatchachanan vs. Jitmuangnon,One Friday Fights 30,Aug 2023,69,False
+2023,70,Jubli vs. Breeden,UFC 294,Oct 2023,70,True
+2023,71,Clark vs. Nzechukwu,UFC 288,May 2023,71,True
+2023,73,Apichat vs. Jitmuangnon,One Friday Fights 30,Aug 2023,73,False
+2023,72,Dober vs. Glenn,UFC Fight Night,Oct 2023,72,True
+2023,75,Brown vs. Algeo,UFC Fight Night,Apr 2023,75,True
+2023,74,Holland vs. Ponzinibbio,UFC 287,Apr 2023,74,True
+2023,76,Stots vs. Mix,Bellator 295,Apr 2023,76,False
+2023,78,Nurmagomedov vs. Henderson,Bellator 292,Mar 2023,78,False
+2023,77,Tuivasa vs. Volkov,UFC 293,Sep 2023,77,True
+2023,79,Eblen vs. Edwards,Bellator 299,Sep 2023,79,False
+2023,80,Means vs. Morono,UFC on ABC 4,May 2023,80,True
+2023,81,Lee vs. Fakhretdinov,UFC Fight Night,Jul 2023,81,True
+2023,82,Motta vs. Torres,UFC Fight Night,Jun 2023,82,True
+2023,83,Larkin vs. Berkhamov,Bellator 290,Feb 2023,83,False
+2023,84,Northcutt vs. Mujtaba,ONE Fight Night 10,May 2023,84,False
+2023,85,Herman vs. Cummings,UFC Fight Night,Apr 2023,85,True
+2023,86,Dober vs. Frevola,UFC 288,May 2023,86,True
+2023,87,Cyborg vs. Zingano,Bellator 300,Oct 2023,87,False
+2023,88,Bautista vs. Cannetti,UFC Fight Night,Mar 2023,88,True
+2023,89,Adesanya vs. Strickland,UFC 293,Sep 2023,89,True
+2023,90,Doğan vs. Yu,One Friday Fights 42,Nov 2023,90,False
+2023,91,Roberts vs. Parsons,UFC Fight Night,Jul 2023,91,True
+2023,92,Martinez vs. Yanez,UFC Fight Night,Oct 2023,92,True
+2023,94,Marquez vs. Barriault,UFC 285,Mar 2023,94,True
+2023,93,Loughnane vs. Pinedo,PFL 4,Jun 2023,93,False
+2023,95,Dodson vs. Ridge,BKFC 48,Aug 2023,95,False
+2023,96,Ribas vs. Barber,UFC on ABC 5,Jun 2023,96,True
+2023,97,Sundell vs. Rodrigues,ONE Fight Night 14,Sep 2023,97,False
+2023,98,Banchamek vs. Allazov,ONE Fight Night 6,Jan 2023,98,False
+2023,99,Smith vs. Rountree Jr.,UFC Fight Night,Dec 2023,99,True
+2023,101,Taveras vs. Romious,Contender Series 2023,Oct 2023,101,False
+2023,100,Brunson vs. Du Plessis,UFC 285,Mar 2023,100,True
+2023,102,Landwehr vs. Lingo,UFC Fight Night,Mar 2023,102,True
+2023,103,Allen vs. Silva,UFC on ABC 5,Jun 2023,103,True
+2023,104,Cunningham vs. Nguyen,Contender Series 2023,Sep 2023,104,False
+2023,105,Kinoshita vs. Fugitt,UFC Fight Night,Feb 2023,105,True
+2023,106,Jitmuangnon vs. Kiatmoo9,One Friday Fights 34,Sep 2023,106,False
+2023,107,Sumudaerji vs. Elliott,UFC Fight Night,Dec 2023,107,True
+2023,108,Costa vs. Knight,Gamebred Bareknuckle MMA,Nov 2023,108,False
+2023,109,O'Neill vs. Lipski da Silva,UFC 296,Dec 2023,109,True
+2023,111,Muniz vs. Allen,UFC Fight Night,Feb 2023,111,True
+2023,110,Sor Dechapan vs. Zolfaghari,One Friday Fights 40,Nov 2023,110,False
+2023,112,Matsumoto vs. Tanner,Contender Series 2023,Sep 2023,112,False
+2023,113,Nolan vs. Grad,Contender Series 2023,Aug 2023,113,False
+2023,114,Rakhmonov vs. Thompson,UFC 296,Dec 2023,114,True
+2023,115,Gonzalez vs. Peek,UFC Fight Night,Feb 2023,115,True
+2023,116,Nakamura vs. Kazama,UFC Fight Night,Feb 2023,116,True
+2023,117,McGrillen-Evans vs. Saydoshurov,PFL Europe 2,Jul 2023,117,False
+2023,118,Shurkevich vs. Kikuiri,Bellator 295,Apr 2023,118,False
+2023,119,Elliott vs. Brito,Contender Series 2023,Aug 2023,119,False
+2023,120,Garbrandt vs. Kelleher,UFC 296,Dec 2023,120,True
+2023,121,Rothwell vs. Copeland,BKFC 41,Apr 2023,121,False
+2023,122,Royval vs. Nicolau,UFC Fight Night,Apr 2023,122,True
+2023,123,Leonardo vs. Silva,UFC Fight Night,May 2023,123,True
+2023,124,Leal vs. Zawada,PFL 3,Apr 2023,124,False
+2023,125,Shahbazyan vs. Hernandez,UFC Fight Night,May 2023,125,True
+2023,127,Nurmagomedov vs. Barcelos,UFC Fight Night,Jan 2023,127,True
+2023,126,Nam vs. Silva,UFC Fight Night,Mar 2023,126,True
+2023,128,Kopylov vs. Ribeiro,UFC 291,Jul 2023,128,True
+2023,129,Rodrigues vs. Ross,UFC 284,Feb 2023,129,True
+2023,130,Miller vs. Santos,UFC Fight Night,Aug 2023,130,True
+2023,131,Njokuani vs. Oleksiejczuk,UFC Fight Night,Aug 2023,131,True
+2023,132,Hayisaer vs. Borshchev,UFC Fight Night,May 2023,132,True
+2023,133,Salvador vs. Oki,Contender Series 2023,Aug 2023,133,False
+2023,134,Renato Jr. vs. Aslan,Contender Series 2023,Aug 2023,134,False
+2023,135,Aliskerov vs. Hawes,UFC 288,May 2023,135,True
+2023,136,Pickett vs. Nickal,UFC 285,Mar 2023,136,True
+2023,137,Jindrová vs. Leibrock,PFL 2,Apr 2023,137,False
+2023,138,Green vs. Battle,UFC on ABC 4,May 2023,138,True
+2023,139,Pitbull vs. Suzuki,Super RIZIN 2,Jul 2023,139,False
+2023,140,Clark vs. Lisboa,UFC on ABC 4,May 2023,140,True
+2023,141,Buntan vs. Martin,ONE Fight Night 10,May 2023,141,False
+2023,142,Nunes vs. Aldana,UFC 289,Jun 2023,142,True
+2023,143,Golm vs. James,Bellator 293,Mar 2023,143,False
+2023,145,McCann vs. Stoliarenko,UFC Fight Night,Jul 2023,145,True
+2023,144,Yan vs. Dvalishvili,UFC Fight Night,Mar 2023,144,True
+2023,146,Johnson vs. Moraes III,ONE Fight Night 10,May 2023,146,False
+2023,147,Erosa vs. Padilla,UFC Fight Night,Apr 2023,147,True
+2023,148,Rua vs. Potieria,UFC 283,Jan 2023,148,True
+2023,149,Pinedo vs. Braga II,PFL 10,Nov 2023,149,False
+2023,150,Sor Terapat vs. Wor Wantawee,One Friday Fights 36,Oct 2023,150,False
+2023,152,Strickland vs. Magomedov,UFC Fight Night,Jul 2023,152,True
+2023,151,Zaleski vs. Fakhretdinov,UFC Fight Night,Nov 2023,151,True
+2023,153,Por Yenying vs. Panther,One Friday Fights 35,Sep 2023,153,False
+2023,154,Haggerty vs. de Andrade,ONE Fight Night 16,Nov 2023,154,False
+2023,155,Lineker vs. Kim,ONE Fight Night 13,Aug 2023,155,False
+2023,156,Moroz vs. Silva II,UFC 292,Aug 2023,156,True
+2023,157,Taira vs. Hernandez,UFC Fight Night,Dec 2023,157,True
+2023,158,Holobaugh vs. Hubbard,UFC 292,Aug 2023,158,True
+2023,159,Muniz vs. Craig,UFC Fight Night,Jul 2023,159,True
+2023,160,Montalvan vs. Nunez,Combate Global,Sep 2023,160,False
+2023,161,Bonfim vs. Lazzez,UFC 283,Jan 2023,161,True
+2023,162,Sermpornwiwat vs. Kiatsongrit,One Friday Fights 34,Sep 2023,162,False
+2023,163,Andrade vs. Murphy,UFC 283,Jan 2023,163,True
+2023,164,Wor.Wantawee vs. MU Den,One Friday Fights 39,Nov 2023,164,False
+2023,165,Sadykhov vs. Borshchev,UFC 295,Nov 2023,165,True
+2023,166,Wells vs. Harris,UFC Fight Night,Aug 2023,166,True
+2023,167,Por Yenying vs. Pakornpornsurin,One Friday Fights 41,Nov 2023,167,False
+2023,168,Ogasawara vs. Tor.Sangtiennoi,One Friday Fights 46,Dec 2023,168,False
+2023,169,Sor.Jor.Piek Uthai vs. Aminipour,One Friday Fights 46,Dec 2023,169,False
+2023,170,Or.Pimonsri vs. Balyko,One Friday Fights 33,Sep 2023,170,False
+2023,172,Soriano vs. Kopylov,UFC Fight Night,Jan 2023,172,True
+2023,171,Ward vs. Babene,Bellator 299,Sep 2023,171,False
+2023,173,Patterson vs. Ashmouz,UFC 286,Mar 2023,173,True
+2023,174,Crute vs. Menifield,UFC 284,Feb 2023,174,True
+2023,175,Holm vs. Bueno Silva,UFC Fight Night,Jul 2023,175,True
+2023,178,Alves vs. Dalby,UFC 283,Jan 2023,178,True
+2023,177,Tafa vs. Porter,UFC 284,Feb 2023,177,True
+2023,176,Potieria vs. Bellato,UFC Fight Night,Dec 2023,176,True
+2023,179,Vergara vs. Salvador,UFC 291,Jul 2023,179,True
+2023,180,Evloev vs. Lopes,UFC 288,May 2023,180,True
+2023,181,Brundage vs. Vieira,UFC Fight Night,Apr 2023,181,True
+2023,183,Alvarado vs. Brown,BKFC 41,Apr 2023,183,False
+2023,182,Brennan vs. Almeida,Bellator 298,Aug 2023,182,False
+2023,184,Pavlovich vs. Blaydes,UFC Fight Night,Apr 2023,184,True
+2023,185,Onama vs. Santos,UFC on ABC 5,Jun 2023,185,True
+2023,186,Gastelum vs. Curtis,UFC 287,Apr 2023,186,True
+2023,187,Cosce vs. Urbina,UFC Fight Night,May 2023,187,True
+2023,188,Filho vs. Barez,UFC Fight Night,Jul 2023,188,True
+2023,189,Magomedkerimov vs. Egli,PFL 3,Apr 2023,189,False
+2023,190,Malott vs. Fugitt,UFC 289,Jun 2023,190,True
+2023,191,Mullarkey vs. Naimov,UFC Fight Night,Jun 2023,191,True
+2023,192,Holloway vs. Allen,UFC Fight Night,Apr 2023,192,True
+2023,193,Jacoby vs. Nzechukwu,UFC Fight Night,Aug 2023,193,True
+2023,194,Danaa vs. Hiestand,UFC Fight Night,Apr 2023,194,True
+2023,195,Jauregui vs. Gomes,UFC 290,Jul 2023,195,True
+2023,196,Pearce vs. Brito,UFC Fight Night,Nov 2023,196,True
+2023,197,Ditcheva vs. Scatizzi,PFL Europe 4,Dec 2023,197,False
+2023,198,Nedoh vs. Powell,PFL Europe 4,Dec 2023,198,False
+2023,199,Turman vs. Gooden,UFC Fight Night,Dec 2023,199,True
+2023,201,Vieira vs. Pennington,UFC Fight Night,Jan 2023,201,True
+2023,200,Or Kwanmuang vs. Şen,One Friday Fights 45,Dec 2023,200,False
+2023,202,Tate vs. Avila,UFC Fight Night,Dec 2023,202,True
+2023,203,Turrey vs. Smolkova,United Fight League 1,Feb 2023,203,False
+2023,204,Ruziboev vs. Ferreira,UFC Fight Night,Jul 2023,204,True
+2023,205,Razak Alhassan vs. Ribeiro,UFC Fight Night,Jan 2023,205,True
+2023,206,Prates vs. Ramirez,Contender Series 2023,Aug 2023,206,False
+2023,207,Lookboonmee vs. Reed,UFC 284,Feb 2023,207,True
+2023,208,Isakov vs. Mederos,Contender Series 2023,Oct 2023,208,False
+2023,209,Pérez vs. Cannetti,Combate Global,Jun 2023,209,False
+2023,210,Nong-O vs. Carrillo,One Friday Fights 46,Dec 2023,210,False
+2023,212,Ige vs. Landwehr,UFC 289,Jun 2023,212,True
+2023,211,Castillo vs. Hammond,Combate Global,Dec 2023,211,False
+2023,213,Rozenstruik vs. Almeida,UFC on ABC 4,May 2023,213,True
+2023,214,Collard vs. Nishikawa,PFL 3,Apr 2023,214,False
+2023,215,Newson vs. McGhee,UFC Fight Night,Apr 2023,215,True
+2023,216,Ring vs. Pajuelo,Contender Series 2023,Aug 2023,216,False
+2023,218,Culibao vs. Baghdasaryan,UFC 284,Feb 2023,218,True
+2023,217,Jackson vs. Veretennikov,United Fight League 2,May 2023,217,False
+2023,219,Ribeiro vs. Goodwin,United Fight League 1,Feb 2023,219,False
+2023,221,Hamlet vs. Kasanganay,PFL 7,Aug 2023,221,False
+2023,220,La N Sang vs. Fan,ONE Fight Night 10,May 2023,220,False
+2023,223,Moraes vs. Braga,PFL 4,Jun 2023,223,False
+2023,222,Gamrot vs. Turner,UFC 285,Mar 2023,222,True
+2023,224,Oliveira vs. Madrigal,Contender Series 2023,Sep 2023,224,False
+2023,226,Collard vs. Ray,PFL 6,Jun 2023,226,False
+2023,225,Song vs. Simón,UFC Fight Night,Apr 2023,225,True
+2023,227,Sy vs. Mitchell,PFL 6,Jun 2023,227,False
+2023,228,Salamone vs. Nedoh,PFL Europe 3,Sep 2023,228,False
+2023,229,Ferreira vs. Goltsov,PFL 10,Nov 2023,229,False
+2023,230,Wade vs. Kudo,PFL 4,Jun 2023,230,False
+2023,231,Willis vs. Kuramagomedov,Bellator 297,Jun 2023,231,False
+2023,232,Juusola vs. Jenkins,PFL 3,Apr 2023,232,False
+2023,233,Mlambo vs. Kakhorov,PFL Europe 4,Dec 2023,233,False
+2023,234,Aspinall vs. Tybura,UFC Fight Night,Jul 2023,234,True
+2023,235,Cutelaba vs. Boser,UFC Fight Night,Apr 2023,235,True
+2023,236,Sy vs. Al-Silawi,PFL 3,Apr 2023,236,False
+2023,237,Umalatov vs. Taylor,PFL 3,Apr 2023,237,False
+2023,238,Barlow vs. Forest,Contender Series 2023,Sep 2023,238,False
+2023,239,Acosta vs. Juaneda,Combate Global,Aug 2023,239,False
+2023,240,Chor.Worapon vs. Singha Mawynn,One Friday Fights 45,Dec 2023,240,False
+2023,241,Fairtex vs. Younes Rabah,ONE Fight Night 17,Dec 2023,241,False
+2023,242,Menshikov vs. Chafi,ONE Fight Night 17,Dec 2023,242,False
+2023,243,Pico vs. Carvalho,Bellator 299,Sep 2023,243,False
+2023,245,Mokaev vs. Filho,UFC 286,Mar 2023,245,True
+2023,244,Chokheli vs. Homasi,Bellator 299,Sep 2023,244,False
+2023,246,Carmouche vs. Macfarlane,Bellator 300,Oct 2023,246,False
+2023,247,Ferreira vs. Scheffel,PFL 5,Jun 2023,247,False
+2023,248,Goltsov vs. De Castro,PFL 5,Jun 2023,248,False
+2023,249,Doumbé vs. Zébo,PFL Europe 3,Sep 2023,249,False
+2023,250,McGrillen-Evans vs. Kulucan,PFL Europe 1,Mar 2023,250,False
+2023,402,Araujo vs. Ribas,UFC 285,Mar 2023,402,True
+2023,401,Jacoby vs. Murzakanov,UFC Fight Night,Apr 2023,401,True
+2023,400,Stamann vs. Silva de Andrade,UFC on ABC 4,May 2023,400,True
+2023,406,Johnson vs. Ferreira,UFC Fight Night,May 2023,406,True
+2023,405,Cappelozza vs. Scheffel II,PFL 2,Apr 2023,405,False
+2023,404,Weidman vs. Tavares,UFC 292,Aug 2023,404,True
+2023,407,Johnson vs. Williams,PFL Challenger Series 2023,Mar 2023,407,False
+2023,410,Nam vs. Maksum,UFC Fight Night,Jul 2023,410,True
+2023,409,Emmett vs. Mitchell,UFC 296,Dec 2023,409,True
+2023,408,Jorand vs. Perez,Combate Global,Jul 2023,408,False
+2023,413,Rodriguez vs. Machado Garry,UFC on ABC 4,May 2023,413,True
+2023,412,Yizha vs. Lee,UFC Fight Night,Feb 2023,412,True
+2023,411,Ali Walsh vs. Figueroa,PFL 2,Apr 2023,411,False
+2023,415,Tsarukyan vs. Silva,UFC Fight Night,Jun 2023,415,True
+2023,414,Ronderos vs. Carpenter,UFC Fight Night,Feb 2023,414,True
+2023,416,Nunes vs. Fairn,UFC 283,Jan 2023,416,True
+2023,418,Rodriguez vs. Saaiman,UFC Fight Night,Oct 2023,418,True
+2023,417,Edwards vs. Covington,UFC 296,Dec 2023,417,True
+2023,419,Cuamba vs. Vogel,Contender Series 2023,Aug 2023,419,False
+2023,422,Magny vs. Machado Garry,UFC 292,Aug 2023,422,True
+2023,421,Riley vs. Lööf,Cage Warriors 160,Sep 2023,421,False
+2023,420,Por Kobkua vs. F.A.Group,One Friday Fights 44,Dec 2023,420,False
+2023,423,Rubin vs. Guthrie,Invicta FC 53,May 2023,423,False
+2023,425,Gaforov vs. Asatryan,ACA 161,Aug 2023,425,False
+2023,424,Anglickas vs. Yagshimuradov,Bellator 292,Mar 2023,424,False
+2023,426,Topuria vs. Segas,WOW 9,May 2023,426,False
+2023,427,Yamauchi vs. Arai,Shooto 2023 Vol.7,Nov 2023,427,False
+2020,1,Zhang vs. Jędrzejczyk,UFC 248,Mar 2020,1,True
+2020,2,Poirier vs. Hooker,UFC Fight Night,Jun 2020,2,True
+2020,3,Ferguson vs. Gaethje,UFC 249,May 2020,3,True
+2020,4,Figueiredo vs. Moreno,UFC 256,Dec 2020,4,True
+2020,5,Felder vs. Hooker,UFC on ESPN+ 26,Feb 2020,5,True
+2020,6,Emmett vs. Burgos,UFC Fight Night,Jun 2020,6,True
+2020,7,Miocic vs. Cormier III,UFC 252,Aug 2020,7,True
+2020,8,Luque vs. Price II,UFC 249,May 2020,8,True
+2020,9,Yan vs. Aldo,UFC 251,Jul 2020,9,True
+2020,10,Dariush vs. Klose,UFC 248,Mar 2020,10,True
+2020,11,Andrade vs. Namajunas II,UFC 251,Jul 2020,11,True
+2020,12,Benavidez vs. Figueiredo,UFC on ESPN+ 27,Feb 2020,12,True
+2020,13,Jones vs. Reyes,UFC 247,Feb 2020,13,True
+2020,14,Lee vs. Oliveira,UFC on ESPN+ 28,Mar 2020,14,True
+2020,15,Elliott vs. Askarov,UFC 246,Jan 2020,15,True
+2020,16,Krause vs. Giles,UFC 247,Feb 2020,16,True
+2020,17,Quarantillo vs. Carlyle,UFC Fight Night,May 2020,17,True
+2020,18,Hermansson vs. Vettori,UFC Fight Night,Dec 2020,18,True
+2020,19,Kasanganay vs. Buckley,UFC Fight Night,Oct 2020,19,True
+2020,20,Elkins vs. Landwehr,UFC Fight Night,May 2020,20,True
+2020,21,Barboza vs. Ige,UFC Fight Night,May 2020,21,True
+2020,22,Fili vs. Yusuff,UFC 246,Jan 2020,22,True
+2020,23,Kara-France vs. Royval,UFC 253,Sep 2020,23,True
+2020,24,Nurmagomedov vs. Gaethje,UFC 254,Oct 2020,24,True
+2020,25,Munhoz vs. Edgar,UFC Fight Night,Aug 2020,25,True
+2020,26,McGregor vs. Cerrone,UFC 246,Jan 2020,26,True
+2020,27,Song vs. Vera,UFC Fight Night,May 2020,27,True
+2020,28,Oezdemir vs. Procházka,UFC 251,Jul 2020,28,True
+2020,29,Pettis vs. Ferreira,UFC 246,Jan 2020,29,True
+2020,30,Stephens vs. Kattar,UFC 249,May 2020,30,True
+2020,31,Barber vs. Modafferi,UFC 246,Jan 2020,31,True
+2020,32,Overeem vs. Harris,UFC Fight Night,May 2020,32,True
+2020,33,Landwehr vs. Burns,UFC on ESPN+ 24,Jan 2020,33,True
+2020,34,Allen vs. Daukaus,UFC Fight Night,Jun 2020,34,True
+2020,35,Woodson vs. Erosa,UFC Fight Night,Jun 2020,35,True
+2020,37,Cerrone vs. Pettis II,UFC 249,May 2020,37,True
+2020,36,Rosa vs. Mitchell,UFC 249,May 2020,36,True
+2020,38,Lamas vs. Algeo,UFC Fight Night,Aug 2020,38,True
+2020,39,Johns vs. Gravely,UFC on ESPN+ 24,Jan 2020,39,True
+2020,40,Cosce vs. Palatnikov,UFC 255,Nov 2020,40,True
+2020,41,Dodson vs. Wood,UFC on ESPN+ 25,Feb 2020,41,True
+2020,43,Formiga vs. Moreno,UFC on ESPN+ 28,Mar 2020,43,True
+2020,42,Volkanovski vs. Holloway II,UFC 251,Jul 2020,42,True
+2020,44,Kamaka III vs. Kelley,UFC 252,Aug 2020,44,True
+2020,45,Holtzman vs. Miller,UFC on ESPN+ 25,Feb 2020,45,True
+2020,46,Budd vs. Cyborg,Bellator 238,Jan 2020,46,False
+2020,47,Ige vs. Bektić,UFC 247,Feb 2020,47,True
+2020,48,Allen vs. Lentz,UFC on ESPN+ 24,Jan 2020,48,True
+2020,50,Oleinik vs. Greene,UFC 246,Jan 2020,50,True
+2020,49,Verzosa vs. Stoliarenko,Invicta FC,Mar 2020,49,False
+2020,51,Winn vs. Meerschaert,UFC 248,Mar 2020,51,True
+2020,53,Santos vs. Teixeira,UFC Fight Night,Nov 2020,53,True
+2020,52,Whittaker vs. Till,UFC Fight Night,Jul 2020,52,True
+2020,54,Valiev vs. Jones,UFC Fight Night,Aug 2020,54,True
+2020,55,Trinaldo vs. Herbert,UFC Fight Night,Jul 2020,55,True
+2020,56,Bueno Silva vs. Moroz,UFC on ESPN+ 28,Mar 2020,56,True
+2020,57,Waterson-Gomez vs. Hill,UFC Fight Night,Sep 2020,57,True
+2020,58,Scroggin vs. Overvig,Shamrock FC 328,Feb 2020,58,False
+2020,59,Riku vs. Takenaka,Overheat Boxers Night 93,Sep 2020,59,False
+2020,60,Salčák vs. Polivka,Oktagon Underground 1,May 2020,60,False
+2020,61,Hromek vs. Polivka,Oktagon,Jul 2020,61,False
+2020,62,Kenney vs. Wood,UFC 254,Oct 2020,62,True
+2020,63,Watanabe vs. Horiguchi,BOM WAVE 03,Dec 2020,63,False
+2020,64,Watanabe vs. Akihiko,BOM WAVE 01,Jun 2020,64,False
+2020,65,Takiguchi vs. YOUTA,BOM WAVE 03,Dec 2020,65,False
+2020,66,Takahashi vs. Yasuda,KROSS×OVER 10,Dec 2020,66,False
+2020,68,Zuzák vs. Polivka,Oktagon 16,Sep 2020,68,False
+2020,67,Ogawa vs. Sen,KROSS×OVER 10,Dec 2020,67,False
+2020,70,Umezawa vs. Tsuboi,BOM WAVE 03,Dec 2020,70,False
+2020,69,Kawano vs. Matsuura,Overheat Boxers Night 93,Sep 2020,69,False
+2020,71,Chibana vs. Kato,BOM WAVE 01,Jun 2020,71,False
+2020,72,Nakahira vs. Park,KROSS×OVER 10,Dec 2020,72,False
+2020,74,Park vs. Imai,KROSS×OVER 8,Feb 2020,74,False
+2020,73,Tomizawa vs. Ishizuki,KROSS×OVER 8,Feb 2020,73,False
+2020,75,Nakamura vs. Morioka,BOM WAVE 02,Oct 2020,75,False
+2020,76,Pacio vs. Silva,ONE Championship,Jan 2020,76,False
+2020,77,Ishizuki vs. Ashikaga,KROSS×OVER 9,Oct 2020,77,False
+2020,78,Hasegawa vs. Fujimoto,KROSS×OVER 8,Feb 2020,78,False
+2020,80,Sejima vs. Furuyama,BOM WAVE 02,Oct 2020,80,False
+2020,79,Blaydes vs. dos Santos,UFC on ESPN+ 24,Jan 2020,79,True
+2020,81,Ovchynnikova vs. Semal,Road to WWFC,Mar 2020,81,False
+2020,82,De La Rosa vs. Araujo,UFC Fight Night,Sep 2020,82,True
+2020,83,Tenma vs. Wada,BOM WAVE 02,Oct 2020,83,False
+2020,85,Masanobu vs. Tomizawa,KROSS×OVER 10,Dec 2020,85,False
+2020,84,dos Anjos vs. Chiesa,UFC on ESPN+ 24,Jan 2020,84,True
+2020,87,Overvig vs. Needy,Cage of Honor 79,Jun 2020,87,False
+2020,86,Smith vs. Teixeira,UFC Fight Night,May 2020,86,True
+2020,88,Nagao vs. Kato,Overheat Boxers Night 93,Sep 2020,88,False
+2020,89,Kamishiro vs. Ishiguro,KROSS×OVER 8,Feb 2020,89,False
+2020,90,Ishida vs. Umeda,KROSS×OVER 9,Oct 2020,90,False
+2020,91,Danna vs. Ishida,KROSS×OVER 8,Feb 2020,91,False
+2020,93,Usui vs. Hosogoe,KROSS×OVER 8,Feb 2020,93,False
+2020,92,Ewell vs. Martinez,UFC 247,Feb 2020,92,True
+2020,94,Takahashi vs. Hasegawa,KROSS×OVER 9,Oct 2020,94,False
+2020,95,Tenma vs. Yoshinari,BOM WAVE 03,Dec 2020,95,False
+2020,97,Yoshinari vs. Iimura,BOM WAVE 02,Oct 2020,97,False
+2020,96,Mustafaev vs. Riddell,UFC on ESPN+ 26,Feb 2020,96,True
+2020,98,Kai vs. Watanabe,BOM WAVE 02,Oct 2020,98,False
+2020,100,Shinohara vs. Usui,KROSS×OVER 10,Dec 2020,100,False
+2020,99,Walker vs. Spann,UFC Fight Night,Sep 2020,99,True
+2020,101,Okuwaki vs. Nakamura,BOM WAVE 01,Jun 2020,101,False
+2020,103,Rosenthal vs. Mumme,Jiu-Jitsu Over Time,Jul 2020,103,False
+2020,102,Jackson vs. Colares,UFC on ESPN+ 24,Jan 2020,102,True
+2020,104,Ito vs. Shoko,BOM WAVE 03,Dec 2020,104,False
+2020,105,Shuto vs. Ranmaru,KROSS×OVER 10,Dec 2020,105,False
+2020,106,Okuwaki vs. Abe,BOM WAVE 03,Dec 2020,106,False
+2020,108,Okuwaki vs. Wor. Wanchai,BOM WAVE 02,Oct 2020,108,False
+2020,107,Kara-France vs. Nam,UFC on ESPN+ 26,Feb 2020,107,True
+2020,109,Mayes vs. Nascimento,UFC Fight Night,May 2020,109,True
+2020,110,Kawahara vs. Kato,BOM WAVE 03,Dec 2020,110,False
+2020,111,Kikuchi vs. Ishiguro,KROSS×OVER 10,Dec 2020,111,False
+2020,113,Morita vs. Chop Lee,KROSS×OVER 8,Feb 2020,113,False
+2020,112,Suleymanov vs. Yibugele,Rebel FC 10,Jan 2020,112,False
+2020,114,Alfonso vs. Currier,Jiu-Jitsu Over Time,Jul 2020,114,False
+2020,116,Quinones vs. Alfonso,Jiu-Jitsu Over Time,Jul 2020,116,False
+2020,115,Pessoa vs. Machado,SFT 20,Jan 2020,115,False
+2020,117,St. Preux vs. Menifield,UFC Fight Night,Sep 2020,117,True
+2020,119,Jurginas vs. Makowski,KoK Classic 4,Dec 2020,119,False
+2020,118,Garcia vs. Mariscal,LFA 80,Jan 2020,118,False
+2020,120,Yoshinari vs. Wada,BOM WAVE 01,Jun 2020,120,False
+2020,121,Yoshinari vs. Abe,BOM WAVE 02,Oct 2020,121,False
+2020,122,Goncharova vs. Ovchinennkova,GCFC 10,Aug 2020,122,False
+2020,123,Masanobu vs. Sojiro,KROSS×OVER 8,Feb 2020,123,False
+2020,124,Makoto vs. Kiatkumphon,BOM WAVE 03,Dec 2020,124,False
+2020,126,Inoue vs. Tajima,KROSS×OVER 9,Oct 2020,126,False
+2020,125,Gamrot vs. Kutateladze,UFC Fight Night,Oct 2020,125,True
+2020,127,Hayashi vs. Nakano,Overheat Boxers Night 93,Sep 2020,127,False
+2020,128,Hayashi vs. Miyahara,KROSS×OVER 10,Dec 2020,128,False
+2020,129,Kunimoto vs. Shimizu,BOM WAVE 03,Dec 2020,129,False
+2020,130,Davila vs. Real,Jiu-Jitsu Over Time,Jul 2020,130,False
+2020,131,Cohen vs. Currier,Jiu-Jitsu Over Time,Jul 2020,131,False
+2020,132,Brown vs. Baeza,UFC Fight Night,May 2020,132,True
+2020,133,Gasha vs. Abe,KROSS×OVER 8,Feb 2020,133,False
+2020,135,Ávalos vs. Oviedo,Misiones Fight 1,Dec 2020,135,False
+2020,134,Lee vs. Murphy,UFC 247,Feb 2020,134,True
+2020,136,Kakinuma vs. Kuramitsugym,BOM WAVE 02,Oct 2020,136,False
+2020,137,Kikuchi vs. Hatanaka,KROSS×OVER 8,Feb 2020,137,False
+2020,139,Kiho vs. Ami,KROSS×OVER 10,Dec 2020,139,False
+2020,138,Werdum vs. Oleinik,UFC 249,May 2020,138,True
+2020,140,Shuto vs. Endo,KROSS×OVER 9,Oct 2020,140,False
+2020,141,Osaki vs. TEPPEN GYM,BOM WAVE 03,Dec 2020,141,False
+2020,142,Kohata vs. Tajima,KROSS×OVER 8,Feb 2020,142,False
+2020,144,Battle vs. Kirkorian,Jiu-Jitsu Over Time,Jul 2020,144,False
+2020,143,Felder vs. dos Anjos,UFC Fight Night,Nov 2020,143,True
+2020,145,Kirkorian vs. Owens,Jiu-Jitsu Over Time,Jul 2020,145,False
+2020,147,Anders vs. Jotko,UFC Fight Night,May 2020,147,True
+2020,146,Archuleta vs. Mix,Bellator 246,Sep 2020,146,False
+2020,148,Holland vs. Hernandez,UFC Fight Night,May 2020,148,True
+2020,149,Hale vs. Overton,Full Contact Promotions,Feb 2020,149,False
+2020,150,Fukuda vs. Yutto,BOM WAVE 02,Oct 2020,150,False
+2020,151,Tsuchiya vs. Sekine,Overheat Boxers Night 93,Sep 2020,151,False
+2020,152,Umeno vs. Flyskygym I,BOM WAVE 03,Dec 2020,152,False
+2020,155,Shimizu vs. Sano,BOM WAVE 01,Jun 2020,155,False
+2020,154,Green vs. Vannata II,UFC Fight Night,Aug 2020,154,True
+2020,153,Kokov vs. Magomadov,ACA 104,Feb 2020,153,False
+2020,156,Romero vs. Ovejero,Acevedo vs. Herrera,Mar 2020,156,False
+2020,157,St. Preux vs. Hill,UFC Fight Night,Dec 2020,157,True
+2020,158,Horowitz vs. Henry,Rite of Passage 11,Mar 2020,158,False
+2020,160,Battle vs. Ortego,Jiu-Jitsu Over Time,Jul 2020,160,False
+2020,159,Liu vs. Tubera,Combate 56,Feb 2020,159,False
+2020,162,J vs. Matsushima I,BOM WAVE 03,Dec 2020,162,False
+2020,161,Adesanya vs. Costa,UFC 253,Sep 2020,161,True
+2020,164,Ovsienko vs. Gudkov,Shamo Boxing 53,Jun 2020,164,False
+2020,163,Elliott vs. Royval,UFC Fight Night,May 2020,163,True
+2020,165,Nakano vs. Matsumoto,BOM WAVE 03,Dec 2020,165,False
+2020,167,Katashima vs. Ishii,BOM WAVE 03,Dec 2020,167,False
+2020,166,O'Malley vs. Vera,UFC 252,Aug 2020,166,True
+2020,171,Ishii vs. HIROYUKI,BOM WAVE 01,Jun 2020,171,False
+2020,170,Guzman vs. Martinez,Combate 56,Feb 2020,170,False
+2020,169,Overeem vs. Sakai,UFC Fight Night,Sep 2020,169,True
+2020,168,Barcelos vs. Taha,UFC Fight Night,Nov 2020,168,True
+2020,176,Hagiwara vs. Oki,KROSS×OVER 10,Dec 2020,176,False
+2020,175,Perez vs. Du Plessis,UFC Fight Night,Oct 2020,175,True
+2020,174,Struve vs. Tuivasa,UFC 254,Oct 2020,174,True
+2020,173,Wilder vs. Fury II,Wilder vs. Fury 2,Feb 2020,173,False
+2020,172,Diakiese vs. Fiziev,UFC Fight Night,Jul 2020,172,True
+2020,179,Seto vs. Wor Wanchai,BOM WAVE 01,Jun 2020,179,False
+2020,178,Silva vs. Vinicius,Future FC 11,Jan 2020,178,False
+2020,177,Razak Alhassan vs. Lazzez,UFC Fight Night,Jul 2020,177,True
+2020,184,Sameshima vs. Gang-G,BOM WAVE 03,Dec 2020,184,False
+2020,183,Lyapunov vs. Bobryshev,MMA Series 11,Jul 2020,183,False
+2020,182,Mathetha vs. Gillies,Eternal MMA 50,Feb 2020,182,False
+2020,181,Ankalaev vs. Cutelaba II,UFC 254,Oct 2020,181,True
+2020,180,Gilaniev vs. Kaiyrzhanuly,BFC International 3,Jan 2020,180,False
+2020,187,Sakamoto vs. Chan,KROSS×OVER 8,Feb 2020,187,False
+2020,186,Lungu vs. Hajdu,Colosseum Tournament 19,Sep 2020,186,False
+2020,185,Figueiredo vs. Benavidez II,UFC Fight Night,Jul 2020,185,True
+2020,190,Smith vs. Azure,UFC Fight Night,Sep 2020,190,True
+2020,189,Luster vs. Elichanov,Respect FC 20,Sep 2020,189,False
+2020,188,Agapova vs. Dobson,UFC Fight Night,Aug 2020,188,True
+2020,194,Crelinstein vs. Hernandez,Jiu-Jitsu Over Time,Jul 2020,194,False
+2020,193,Lyapunov vs. Nersesyan,MMA Series 21,Nov 2020,193,False
+2020,192,Rodriguez vs. Grant,UFC Fight Night,Aug 2020,192,True
+2020,191,Azure vs. Kelleher,UFC Fight Night,May 2020,191,True
+2020,197,Shevchenko vs. Cerminara,UFC 247,Feb 2020,197,True
+2020,196,Crelinstein vs. Kirkorian,Jiu-Jitsu Over Time,Jul 2020,196,False
+2020,195,Lyapunov vs. Volynets,GIT Sech Pro,Mar 2020,195,False
+2020,201,Anderson vs. Crelinstein,Jiu-Jitsu Over Time,Jul 2020,201,False
+2020,200,Sumudaerji vs. Gordon,UFC Fight Night,Nov 2020,200,True
+2020,199,Kamaka III vs. Pearce,UFC Fight Night,Nov 2020,199,True
+2020,198,Silva vs. Phillips,UFC on ESPN+ 27,Feb 2020,198,True
+2020,203,Shevchenko vs. Maia,UFC 255,Nov 2020,203,True
+2020,202,Daffron vs. Anderson,Jiu-Jitsu Over Time,Jul 2020,202,False
+2020,207,Bahamondes vs. Gomez,Contender Series 2020,Nov 2020,207,False
+2020,206,Kakinuma vs. Joseph,BOM WAVE 03,Dec 2020,206,False
+2020,205,Smith vs. Clark,UFC Fight Night,Nov 2020,205,True
+2020,204,Jackson vs. Topuria,UFC Fight Night,Dec 2020,204,True
+2020,209,Gadelha vs. Hill,UFC Fight Night,May 2020,209,True
+2020,208,Zalal vs. Topuria,UFC Fight Night,Oct 2020,208,True
+2020,210,Manhoef vs. Anderson,Bellator 251,Nov 2020,210,False
+2020,211,Casey vs. Borella,UFC Fight Night,May 2020,211,True
+2017,1,Gaethje vs. Johnson,The Ultimate Fighter 25 Finale,Jul 2017,1,False
+2017,2,Alvarez vs. Gaethje,UFC 218,Dec 2017,2,True
+2017,3,Romero vs. Whittaker,UFC 213,Jul 2017,3,True
+2017,4,Bektić vs. Elkins,UFC 209,Mar 2017,4,True
+2017,5,Aldo vs. Holloway,UFC 212,Jun 2017,5,True
+2017,6,Bisping vs. St-Pierre,UFC 217,Nov 2017,6,True
+2017,7,Garbrandt vs. Dillashaw,UFC 217,Nov 2017,7,True
+2017,8,Cormier vs. Jones II,UFC 214,Jul 2017,8,True
+2017,9,Oliveira vs. Medeiros,UFC 218,Dec 2017,9,True
+2017,10,Poirier vs. Pettis,UFC Fight Night 120,Nov 2017,10,True
+2017,11,Vannata vs. Teymur,UFC 209,Mar 2017,11,True
+2017,12,Vannata vs. Green,UFC 216,Oct 2017,12,True
+2017,13,Alvarez vs. Poirier,UFC 211,May 2017,13,True
+2017,14,Holloway vs. Aldo II,UFC 218,Dec 2017,14,True
+2017,15,Ferguson vs. Lee,UFC 216,Oct 2017,15,True
+2017,16,Ortega vs. Moicano,UFC 214,Jul 2017,16,True
+2017,17,Browne vs. Lewis,UFC Fight Night 105,Feb 2017,17,True
+2017,18,Ponzinibbio vs. Perry,UFC on FOX 26,Dec 2017,18,True
+2017,19,Gadelha vs. Andrade,UFC Fight Night 117,Sep 2017,19,True
+2017,20,Gustafsson vs. Teixeira,UFC Fight Night 109,May 2017,20,True
+2017,21,Li vs. Nash,UFC on FOX 23,Jan 2017,21,True
+2017,23,Smolka vs. Elliott,UFC on FOX 24,Apr 2017,23,True
+2017,22,Cerrone vs. Masvidal,UFC on FOX 23,Jan 2017,22,True
+2017,24,Andrade vs. Hill,UFC Fight Night 104,Feb 2017,24,True
+2017,25,Weidman vs. Gastelum,UFC on FOX 25,Jul 2017,25,True
+2017,26,Swanson vs. Ortega,UFC Fight Night 123,Dec 2017,26,True
+2017,28,Good vs. Zaleski,UFC on FOX 25,Jul 2017,28,True
+2017,27,Jotko vs. Hall,UFC Fight Night 116,Sep 2017,27,True
+2017,29,Saki vs. Henrique da Silva,UFC Fight Night 117,Sep 2017,29,True
+2017,30,Lawler vs. Cerrone,UFC 214,Jul 2017,30,True
+2017,31,Lewis vs. Hunt,UFC Fight Night 110,Jun 2017,31,True
+2017,32,Gillespie vs. Gonzalez,UFC Fight Night 116,Sep 2017,32,True
+2017,33,Coulter vs. Sherman,UFC 211,May 2017,33,True
+2017,35,Marquez vs. Stewart,UFC on FOX 26,Dec 2017,35,True
+2017,34,Shevchenko vs. Peña,UFC on FOX 23,Jan 2017,34,True
+2017,36,Brown vs. Camacho,UFC Fight Night 121,Nov 2017,36,True
+2017,37,Campos vs. Anderson,Bellator 170,Jan 2017,37,False
+2017,38,Miller vs. Poirier,UFC 208,Feb 2017,38,True
+2017,39,Saenz vs. Mendes,UFC Fight Night 103,Jan 2017,39,True
+2017,40,Rivera vs. Almeida,UFC on FOX 25,Jul 2017,40,True
+2017,42,Skelly vs. Knight,UFC 211,May 2017,42,True
+2017,41,Anderson vs. Tweet,Invicta FC 21,Jan 2017,41,False
+2017,44,Montenegro vs. Haga,Invicta FC 21,Jan 2017,44,False
+2017,43,Rua vs. Villante,UFC Fight Night 106,Mar 2017,43,True
+2017,45,Oleinik vs. Pešta,UFC Fight Night 103,Jan 2017,45,True
+2017,46,Ortiz vs. Moreno,UFC Fight Night 108,Apr 2017,46,True
+2017,48,Henry vs. Teymur,UFC Fight Night 113,Jul 2017,48,True
+2017,47,Sanchez vs. Janes,The Ultimate Fighter 26 Finale,Dec 2017,47,False
+2017,49,Jacobsen vs. Wilde,Cage Warriors 80,Feb 2017,49,False
+2017,50,Jung vs. Bermudez,UFC Fight Night 104,Feb 2017,50,True
+2017,51,Girtz vs. Campos III,Bellator 181,Jul 2017,51,False
+2017,52,Błachowicz vs. Cummins,UFC 210,Apr 2017,52,True
+2017,55,Davíðsdóttir vs. Martin,Invicta FC 22,Mar 2017,55,False
+2017,54,Tybura vs. Barbosa,UFC 209,Mar 2017,54,True
+2017,53,Shelton vs. Pantoja,UFC on FOX 23,Jan 2017,53,True
+2017,57,Pettis vs. Moreno,UFC Fight Night 114,Aug 2017,57,True
+2017,56,O'Malley vs. Khashakyan,DW's Contender Series 2017,Jul 2017,56,False
+2017,59,Costa vs. Bamgbose,UFC 212,Jun 2017,59,True
+2017,58,Marshman vs. Santos,UFC Fight Night 105,Feb 2017,58,True
+2017,61,Stephens vs. Melendez,UFC 215,Sep 2017,61,True
+2017,60,Griffin vs. Zaleski,UFC Fight Night 119,Oct 2017,60,True
+2017,62,Jędrzejczyk vs. Andrade,UFC 211,May 2017,62,True
+2017,63,Lawler vs. dos Anjos,UFC on FOX 26,Dec 2017,63,True
+2017,64,Hardy vs. Yauger,Bellator NYC,Jun 2017,64,False
+2017,67,Medeiros vs. Silva,UFC 212,Jun 2017,67,True
+2017,66,Kiełek vs. Shaipov,ACB 53,Feb 2017,66,False
+2017,65,Lauzon vs. Ray,UFC Fight Night 108,Apr 2017,65,True
+2017,72,Browne vs. Oleinik,UFC 213,Jul 2017,72,True
+2017,71,Li vs. Camacho,UFC Fight Night 111,Jun 2017,71,True
+2017,70,Diakiese vs. Klose,The Ultimate Fighter 25 Finale,Jul 2017,70,False
+2017,69,Cyborg vs. Holm,UFC 219,Dec 2017,69,True
+2017,68,Swanson vs. Lobov,UFC Fight Night 108,Apr 2017,68,True
+2017,73,Brooks vs. Lentz,UFC Fight Night 121,Nov 2017,73,True
+2017,74,Sasaki vs. Scoggins,UFC Fight Night 111,Jun 2017,74,True
+2017,76,Magomedov vs. Yan II,ACB 57,Apr 2017,76,False
+2017,75,Alcântara vs. Sanders,UFC 209,Mar 2017,75,True
+2017,77,Jędrzejczyk vs. Namajunas,UFC 217,Nov 2017,77,True
+2022,1,Teixeira vs. Procházka,UFC 275,Jun 2022,1,True
+2022,2,Burns vs. Chimaev,UFC 273,Apr 2022,2,True
+2022,3,Poirier vs. Chandler,UFC 281,Nov 2022,3,True
+2022,4,Moreno vs. Figueiredo III,UFC 270,Jan 2022,4,True
+2022,5,Schnell vs. Sumudaerji,UFC on ABC 3,Jul 2022,5,True
+2022,6,Oliveira vs. Gaethje,UFC 274,May 2022,6,True
+2022,7,Kattar vs. Chikadze,UFC Fight Night,Jan 2022,7,True
+2022,8,Tsarukyan vs. Gamrot,UFC Fight Night,Jun 2022,8,True
+2022,9,Gane vs. Tuivasa,UFC Fight Night,Sep 2022,9,True
+2022,10,Font vs. Vera,UFC Fight Night,Apr 2022,10,True
+2022,11,Adesanya vs. Pereira,UFC 281,Nov 2022,11,True
+2022,12,Onama vs. Landwehr,UFC Fight Night,Aug 2022,12,True
+2022,13,Erosa vs. Peterson,UFC Fight Night,Feb 2022,13,True
+2022,15,Yan vs. O'Malley,UFC 280,Oct 2022,15,True
+2022,14,Herbert vs. Topuria,UFC Fight Night,Mar 2022,14,True
+2022,16,Dober vs. McKinney,UFC Fight Night,Mar 2022,16,True
+2022,17,Lewis vs. Tuivasa,UFC 271,Feb 2022,17,True
+2022,18,Silva de Andrade vs. Morozov,UFC 271,Feb 2022,18,True
+2022,19,Brown vs. Barberena,UFC Fight Night,Mar 2022,19,True
+2022,20,Chandler vs. Ferguson,UFC 274,May 2022,20,True
+2022,21,Cannonier vs. Brunson,UFC 271,Feb 2022,21,True
+2022,22,Costa vs. Rockhold,UFC 278,Aug 2022,22,True
+2022,23,Thompson vs. Holland,UFC Fight Night,Dec 2022,23,True
+2022,24,Barcelos vs. Henry,UFC 270,Jan 2022,24,True
+2022,25,Moraes vs. Johnson II,ONE Fight Night 1,Aug 2022,25,False
+2022,26,Frevola vs. Valdéz,UFC 270,Jan 2022,26,True
+2022,27,Vera vs. Cruz,UFC Fight Night,Aug 2022,27,True
+2022,28,Lawler vs. Barberena,UFC 276,Jul 2022,28,True
+2022,30,Moreno vs. Kara-France II,UFC 277,Jul 2022,30,True
+2022,29,Usman vs. Edwards II,UFC 278,Aug 2022,29,True
+2022,31,NGannou vs. Gane,UFC 270,Jan 2022,31,True
+2022,33,Peña vs. Nunes II,UFC 277,Jul 2022,33,True
+2022,32,Zhang vs. Jędrzejczyk II,UFC 275,Jun 2022,32,True
+2022,34,Oliveira vs. Makhachev,UFC 280,Oct 2022,34,True
+2022,35,Covington vs. Masvidal,UFC 272,Mar 2022,35,True
+2022,36,Royval vs. Bontorin,UFC Fight Night,Jan 2022,36,True
+2022,37,Bush vs. Borshchev,UFC Fight Night,Jan 2022,37,True
+2022,38,dos Anjos vs. Moicano,UFC 272,Mar 2022,38,True
+2022,39,Adesanya vs. Whittaker II,UFC 271,Feb 2022,39,True
+2022,40,Demopoulos vs. Juárez,UFC 270,Jan 2022,40,True
+2022,41,Pereira vs. Fialho,UFC 270,Jan 2022,41,True
+2022,42,Ismagulov vs. Kutateladze,UFC Fight Night,Jun 2022,42,True
+2022,43,Dober vs. Green,UFC Fight Night,Dec 2022,43,True
+2022,44,Cachoeira vs. Kim,UFC Fight Night,Feb 2022,44,True
+2022,45,Johnson vs. Mota,LFA 122,Jan 2022,45,False
+2022,47,Jauregui vs. Lucindo,UFC Fight Night,Aug 2022,47,True
+2022,46,Brito vs. Algeo,UFC Fight Night,Jan 2022,46,True
+2022,48,Sandhagen vs. Song,UFC Fight Night,Sep 2022,48,True
+2022,49,Tavares vs. Du Plessis,UFC 276,Jul 2022,49,True
+2022,50,Collard vs. Stephens,PFL 1,Apr 2022,50,False
+2022,51,Kattar vs. Emmett,UFC Fight Night,Jun 2022,51,True
+2022,52,Hernandez vs. Moicano,UFC 271,Feb 2022,52,True
+2022,53,Marquez vs. Rodrigues,UFC Fight Night,Jun 2022,53,True
+2022,54,Volkanovski vs. Holloway III,UFC 276,Jul 2022,54,True
+2022,55,Lawrence vs. Martinez,UFC 271,Feb 2022,55,True
+2022,56,Rodrigues vs. Petrosyan,UFC Fight Night,Feb 2022,56,True
+2022,57,Campbell vs. Duncan,Contender Series 2022,Aug 2022,57,False
+2022,58,Njokuani vs. Rodrigues,UFC Fight Night,Sep 2022,58,True
+2022,59,Diaz vs. Ferguson,UFC 279,Sep 2022,59,True
+2022,60,Silva vs. Pereira,UFC Fight Night,Mar 2022,60,True
+2022,61,Sterling vs. Yan II,UFC 273,Apr 2022,61,True
+2022,63,Burgos vs. Jourdain,UFC on ABC 3,Jul 2022,63,True
+2022,62,Dariush vs. Gamrot,UFC 280,Oct 2022,62,True
+2022,64,Hernandez vs. Luna,Bellator 277,Apr 2022,64,False
+2022,66,Johnson vs. Mullarkey,UFC Fight Night,Jul 2022,66,True
+2022,65,Maddalena vs. Rodriguez,UFC 270,Jan 2022,65,True
+2022,67,Bahamondes vs. Rongzhu,UFC Fight Night,Feb 2022,67,True
+2022,69,Barriault vs. Njokuani,UFC Fight Night,Feb 2022,69,True
+2022,68,Trizano vs. Choi,UFC 281,Nov 2022,68,True
+2022,70,Ponzinibbio vs. Pereira,UFC Fight Night,May 2022,70,True
+2022,71,Smolka vs. Grant,UFC Fight Night,May 2022,71,True
+2022,72,Allen vs. Hooker,UFC Fight Night,Mar 2022,72,True
+2022,73,Ross vs. Salvador,Contender Series 2022,Aug 2022,73,False
+2022,74,Collier vs. Barnett,UFC 279,Sep 2022,74,True
+2022,75,Marques vs. Almeida,UFC Fight Night,Feb 2022,75,True
+2022,77,Trizano vs. Almeida,UFC Fight Night,Jun 2022,77,True
+2022,76,Camacho vs. Torres,UFC Fight Night,May 2022,76,True
+2022,78,Chimaev vs. Holland,UFC 279,Sep 2022,78,True
+2022,80,Hooper vs. Garcia,UFC Fight Night,Oct 2022,80,True
+2022,79,Vucenic vs. Hughes,Cage Warriors 145,Nov 2022,79,False
+2022,82,Jauregui vs. Nunes,UFC Fight Night,Dec 2022,82,True
+2022,81,Morales vs. Giles,UFC 270,Jan 2022,81,True
+2022,84,Benítez vs. Onama,UFC Fight Night,Feb 2022,84,True
+2022,83,Turcios vs. Natividad,UFC Fight Night,Nov 2022,83,True
+2022,85,Page vs. Perry,BKFC 27,Aug 2022,85,False
+2022,86,Haqparast vs. Green,UFC 271,Feb 2022,86,True
+2022,87,Elkins vs. Connelly,UFC Fight Night,Apr 2022,87,True
+2022,89,Means vs. Holland,UFC Fight Night,Jun 2022,89,True
+2022,88,Dober vs. Alves,UFC 277,Jul 2022,88,True
+2022,90,Esparza vs. Zhang,UFC 281,Nov 2022,90,True
+2022,91,McKee Jr. vs. Carlyle,Bellator 286,Oct 2022,91,False
+2022,93,Ok vs. Lee II,ONE Championship 160,Aug 2022,93,False
+2022,92,Harrison vs. Pacheco III,PFL 10,Nov 2022,92,False
+2022,94,Luque vs. Neal,UFC Fight Night,Aug 2022,94,True
+2022,96,Santos vs. Hill,UFC Fight Night,Aug 2022,96,True
+2022,95,Miller vs. Motta,UFC Fight Night,Feb 2022,95,True
+2022,97,Yanez vs. Kelley,UFC Fight Night,Jun 2022,97,True
+2022,99,Grant vs. Khandozhko,UFC Fight Night,Apr 2022,99,True
+2022,98,Cyborg vs. Blencowe II,Bellator 279,Apr 2022,98,False
+2022,100,Borg vs. Gibson,Eagle FC 44,Jan 2022,100,False
+2022,102,Brahimaj vs. McGee,UFC Fight Night,Jan 2022,102,True
+2022,101,Sherman vs. Collier,UFC Fight Night,Jan 2022,101,True
+2022,105,Ramirez vs. Aguirre Muñoz,Chacal Fighting Championship,Jul 2022,105,False
+2022,104,Rountree Jr. vs. Roberson,UFC Fight Night,Mar 2022,104,True
+2022,103,Mitchell vs. Topuria,UFC 282,Dec 2022,103,True
+2022,108,Gafencu vs. Amaritei,Colosseum Tournament 34,Aug 2022,108,False
+2022,107,Sousa vs. Ollison,CFFC 105,Jan 2022,107,False
+2022,106,Le vs. Tonon,ONE Championship,Mar 2022,106,False
+2022,110,Amaya vs. Alva Purizaca,KO Showtime 1,Mar 2022,110,False
+2022,109,Fernandes vs. Lineker,ONE Championship,Mar 2022,109,False
+2022,112,Anderson vs. Molinero,Prueba Final,Oct 2022,112,False
+2022,111,Gracie vs. Yamauchi,Bellator 284,Aug 2022,111,False
+2022,116,Anderson vs. Quintero,Zona de Impacto II,Mar 2022,116,False
+2022,115,Price vs. Rowe,UFC Fight Night,Dec 2022,115,True
+2022,114,Danaa vs. Gutierrez,UFC Fight Night,Mar 2022,114,True
+2022,113,Loughnane vs. Jenkins,PFL 10,Nov 2022,113,False
+2022,118,Bassani vs. Lima,Presas Combat 1,Aug 2022,118,False
+2022,117,Magny vs. Griffin,UFC Fight Night,Mar 2022,117,True
+2022,120,Rodrigues vs. Vergara,UFC 274,May 2022,120,True
+2022,119,Bastida vs. Corona,JFL 34,Oct 2022,119,False
+2022,123,Boricic vs. Bastien,MFL 25,Nov 2022,123,False
+2022,122,Namajunas vs. Esparza II,UFC 274,May 2022,122,True
+2022,121,Coria vs. Cyr,LFA 121,Jan 2022,121,False
+2022,128,Bastrygin vs. Lesnikov,Fight Club Champion,May 2022,128,False
+2022,127,Pham vs. Boynazarov,LFA 121,Jan 2022,127,False
+2022,126,Pimblett vs. Vargas,UFC Fight Night,Mar 2022,126,True
+2022,125,Reed vs. McKenna,UFC Fight Night,Mar 2022,125,True
+2022,124,Choi vs. Culibao,UFC 275,Jun 2022,124,True
+2022,131,Bautista vs. Squires,AFC 11,Jul 2022,131,False
+2022,130,Royval vs. Schnell,UFC 274,May 2022,130,True
+2022,129,McCormack vs. Page,Bellator 275,Feb 2022,129,False
+2022,134,Cisneros vs. Bernal,Melee FC 1,Sep 2022,134,False
+2022,133,Vanderaa vs. Sherman,UFC Fight Night,Jul 2022,133,True
+2022,132,Shore vs. Valiev,UFC Fight Night,Mar 2022,132,True
+2022,136,Borics vs. Burnell,Bellator 276,Mar 2022,136,False
+2022,135,Askarov vs. Kara-France,UFC Fight Night,Mar 2022,135,True
+2022,138,Cruz vs. Aguilar,Fighting Warriors Championship 2,Jul 2022,138,False
+2022,137,Till vs. Du Plessis,UFC 282,Dec 2022,137,True
+2022,139,Espinoza vs. Romero,Quorom Quito Fight Night III,Oct 2022,139,False
+2022,142,Esquivel vs. Montoya,CFC 5,Mar 2022,142,False
+2022,141,Jasudavicius vs. Hansen,UFC 270,Jan 2022,141,True
+2022,140,Collier vs. Arlovski,UFC Fight Night,Apr 2022,140,True
+2022,144,Estevez vs. Sanchez,Supreme Warriors 8,Apr 2022,144,False
+2022,143,Zappitella vs. Delboni II,Invicta FC 45,Jan 2022,143,False
+2022,148,Estevez vs. Paz,UFS 15,Aug 2022,148,False
+2022,147,Imavov vs. Buckley,UFC Fight Night,Sep 2022,147,True
+2022,146,Teo vs. Meng,ONE Championship,Jan 2022,146,False
+2022,145,Aldana vs. Chiasson,UFC 279,Sep 2022,145,True
+2022,152,Estevez vs. Almada,Cobra Fighter 3,Jun 2022,152,False
+2022,151,Xiong vs. Miura,ONE Championship,Jan 2022,151,False
+2022,150,Semelsberger vs. Fletcher,UFC Fight Night,Mar 2022,150,True
+2022,149,Peralta vs. Pone,Invicta FC 45,Jan 2022,149,False
+2022,158,Makhachev vs. Green,UFC Fight Night,Feb 2022,158,True
+2022,157,Krylov vs. Craig,UFC Fight Night,Mar 2022,157,True
+2022,156,Johnson vs. Patrick,UFC Fight Night,May 2022,156,True
+2022,155,dos Anjos vs. Fiziev,UFC Fight Night,Jul 2022,155,True
+2022,154,Arlovski vs. Vanderaa,UFC 271,Feb 2022,154,True
+2022,153,Lee vs. Bang,Road To Brave: Korea,Jan 2022,153,False
+2022,160,Pimblett vs. Leavitt,UFC Fight Night,Jul 2022,160,True
+2022,159,Curtis vs. Buckley,UFC 282,Dec 2022,159,True
+2022,161,Xiong vs. Lee III,ONE Fight Night 2,Sep 2022,161,False
+2011,1,Rua vs. Henderson,UFC 139,Nov 2011,1,True
+2011,2,Diaz vs. Daley,Strikeforce,Apr 2011,2,False
+2011,3,Edgar vs. Maynard II,UFC 125,Jan 2011,3,True
+2011,4,Barry vs. Kongo,UFC on Versus 4,Jun 2011,4,True
+2011,5,Alvarez vs. Chandler,Bellator 58,Nov 2011,5,False
+2011,6,Edgar vs. Maynard III,UFC 136,Oct 2011,6,True
+2011,7,Cruz vs. Faber II,UFC 132,Jul 2011,7,True
+2011,8,Penn vs. Diaz,UFC 137,Oct 2011,8,True
+2011,9,Rua vs. Jones,UFC 128,Mar 2011,9,True
+2011,10,Sanchez vs. Kampmann,UFC on Versus 3,Mar 2011,10,True
+2011,11,Aldo vs. Hominick,UFC 129,Apr 2011,11,True
+2011,12,Silva vs. Belfort,UFC 126,Feb 2011,12,True
+2011,13,Cerrone vs. Diaz,UFC 141,Dec 2011,13,True
+2011,14,Emelianenko vs. Henderson,Strikeforce,Jul 2011,14,False
+2011,15,Mir vs. Nogueira II,UFC 140,Dec 2011,15,True
+2011,16,Guida vs. Henderson,UFC on FOX 1,Nov 2011,16,True
+2011,17,Jones vs. Machida,UFC 140,Dec 2011,17,True
+2011,18,Diaz vs. Santos,Strikeforce,Jan 2011,18,False
+2011,19,Leben vs. Stann,UFC 125,Jan 2011,19,True
+2011,20,Couture vs. Machida,UFC 129,Apr 2011,20,True
+2011,21,Le vs. Silva,UFC 139,Nov 2011,21,True
+2011,22,Hardy vs. Lytle,UFC on Versus 5,Aug 2011,22,True
+2011,23,Garcia vs. Jung II,UFC Fight Night 24,Mar 2011,23,True
+2011,24,Guida vs. Gomi,UFC 125,Jan 2011,24,True
+2011,25,Jones vs. Bader,UFC 126,Feb 2011,25,True
+2011,26,Emelianenko vs. Silva,Strikeforce,Feb 2011,26,False
+2011,27,Brandão vs. Bermudez,The Ultimate Fighter 14 Finale,Dec 2011,27,False
+2011,28,Penn vs. Fitch,UFC 127,Feb 2011,28,True
+2011,29,Stephens vs. Davis,UFC 125,Jan 2011,29,True
+2011,30,Velasquez vs. dos Santos,UFC on FOX 1,Nov 2011,30,True
+2011,31,Njokuani vs. Barboza,UFC 128,Mar 2011,31,True
+2011,32,Henderson vs. Miller,UFC on Versus 5,Aug 2011,32,True
+2011,33,Carwin vs. dos Santos,UFC 131,Jun 2011,33,True
+2011,34,Souza vs. Lawler,Strikeforce,Jan 2011,34,False
+2011,35,Garcia vs. Phan II,UFC 136,Oct 2011,35,True
+2011,36,Jones vs. Jackson,UFC 135,Sep 2011,36,True
+2011,37,Evans vs. Ortiz II,UFC 133,Aug 2011,37,True
+2011,40,Einemo vs. Herman,UFC 131,Jun 2011,40,True
+2011,39,Barboza vs. Pearson,UFC 134,Aug 2011,39,True
+2011,38,Griggs vs. Villante,Strikeforce,Feb 2011,38,False
+2011,41,Diaz vs. MacDonald,UFC 129,Apr 2011,41,True
+2011,42,Dunham vs. Guillard,UFC Fight Night 23,Jan 2011,42,True
+2011,43,Lytle vs. Ebersole,UFC 127,Feb 2011,43,True
+2011,44,Edwards vs. McKenzie,UFC Fight Night 23,Jan 2011,44,True
+2011,45,Kelly vs. Cerrone,UFC 126,Feb 2011,45,True
+2011,47,Grispi vs. Poirier,UFC 125,Jan 2011,47,True
+2011,46,Silva vs. Leben,UFC 132,Jul 2011,46,True
+2011,48,McDonald vs. Figueroa,UFC Fight Night 24,Mar 2011,48,True
+2011,49,Nogueira vs. Schaub,UFC 134,Aug 2011,49,True
+2011,50,Ellenberger vs. Rocha,UFC 126,Feb 2011,50,True
+2011,51,Franklin vs. Griffin,UFC 126,Feb 2011,51,True
+2011,52,Aldo vs. Florian,UFC 136,Oct 2011,52,True
+2011,53,Maldonado vs. Kingsbury,The Ultimate Fighter 13 Finale,Jun 2011,53,False
+2011,54,Barão vs. Pickett,UFC 138,Nov 2011,54,True
+2011,55,Diaz vs. Kim,UFC 125,Jan 2011,55,True
+2011,56,Omigawa vs. Mendes,UFC 126,Feb 2011,56,True
+2011,58,Cruz vs. Johnson,UFC on Versus 6,Oct 2011,58,True
+2011,57,Shlemenko vs. Rogers,Bellator 54,Oct 2011,57,False
+2011,59,Vera vs. Silva I,UFC 125,Jan 2011,59,True
+2011,60,Silva vs. Okami II,UFC 134,Aug 2011,60,True
+2011,62,Hominick vs. Roop,UFC Fight Night 23,Jan 2011,62,True
+2011,61,Lentz vs. Oliveira,UFC on Versus 4,Jun 2011,61,True
+2011,63,Barry vs. Beltran,UFC Fight Night 23,Jan 2011,63,True
+2011,64,Sotiropoulos vs. Siver,UFC 127,Feb 2011,64,True
+2011,65,Lesnar vs. Overeem,UFC 141,Dec 2011,65,True
+2011,66,Jung vs. Hominick,UFC 140,Dec 2011,66,True
+2011,67,Ortiz vs. Bader,UFC 132,Jul 2011,67,True
+2011,68,Diaz vs. Gomi,UFC 135,Sep 2011,68,True
+2011,69,Danzig vs. Wiman II,UFC on Versus 6,Oct 2011,69,True
+2011,70,Siver vs. Cerrone,UFC 137,Oct 2011,70,True
+2011,71,Nelson vs. Filipović,UFC 137,Oct 2011,71,True
+2011,73,Dillashaw vs. Dodson,The Ultimate Fighter 14 Finale,Dec 2011,73,False
+2011,72,Bisping vs. Rivera,UFC 127,Feb 2011,72,True
+2011,74,Hunt vs. Tuchscherer,UFC 127,Feb 2011,74,True
+2011,75,St. Preux vs. Humphrey,Strikeforce Challengers 13,Jan 2011,75,False
+2011,76,Walker vs. Carson,Strikeforce,Jan 2011,76,False
+2011,78,Poirier vs. Garza,UFC on FOX 1,Nov 2011,78,True
+2011,77,Mitrione vs. Hague,UFC Fight Night 23,Jan 2011,77,True
+2011,79,Ortiz vs. Nogueira,UFC 140,Dec 2011,79,True
+2011,80,Barnett vs. Rogers,Strikeforce,Jun 2011,80,False
+2011,81,Miller vs. Shalorus,UFC 128,Mar 2011,81,True
+2011,83,Schaub vs. Filipović,UFC 128,Mar 2011,83,True
+2011,82,Baroni vs. Tavares,UFC 125,Jan 2011,82,True
+2011,84,Rua vs. Griffin II,UFC 134,Aug 2011,84,True
+2011,85,Guillard vs. Roller,UFC 132,Jul 2011,85,True
+2011,86,Belfort vs. Akiyama,UFC 133,Aug 2011,86,True
+2011,87,Torres vs. Johnson,UFC 130,May 2011,87,True
+2011,88,Mitrione vs. Morecraft,UFC on Versus 4,Jun 2011,88,True
+2011,89,Guillard vs. Lauzon,UFC 136,Oct 2011,89,True
+2011,90,Souza vs. Rockhold,Strikeforce,Sep 2011,90,False
+2011,91,Beerbohm vs. Healy,Strikeforce Challengers 14,Feb 2011,91,False
+2011,92,Palhares vs. Miller,UFC 134,Aug 2011,92,True
+2011,93,Kingsbury vs. Romero,UFC 126,Feb 2011,93,True
+2011,94,Garza vs. Jabouin,UFC 129,Apr 2011,94,True
+2011,95,Struve vs. Browne,UFC 130,May 2011,95,True
+2011,98,Stout vs. Edwards,UFC 131,Jun 2011,98,True
+2011,97,Sonnen vs. Stann,UFC 136,Oct 2011,97,True
+2011,96,Cavalcante vs. Henderson,Strikeforce,Mar 2011,96,False
+2011,99,Johnson vs. Faaloloto,UFC on Versus 4,Jun 2011,99,True
+2011,100,Menjivar vs. Valencia,UFC 129,Apr 2011,100,True
+2011,101,Makdessi vs. Watson,UFC 129,Apr 2011,101,True
+2011,102,Matyushenko vs. Brilz,UFC 129,Apr 2011,102,True
+2011,103,Ferguson vs. Nijem,The Ultimate Fighter 13 Finale,Jun 2011,103,False
+2011,104,Sotiropoulos vs. dos Anjos,UFC 132,Jul 2011,104,True
+2011,106,Condit vs. Kim,UFC 132,Jul 2011,106,True
+2011,105,Coenen vs. Carmouche,Strikeforce,Mar 2011,105,False
+2011,107,Roller vs. Tavares,UFC on Versus 3,Mar 2011,107,True
+2011,108,Stann vs. Santiago,UFC 130,May 2011,108,True
+2011,109,Weidman vs. Bongfeldt,UFC 131,Jun 2011,109,True
+2011,110,Cerrone vs. Oliveira,UFC on Versus 5,Aug 2011,110,True
+2011,111,Mir vs. Nelson,UFC 130,May 2011,111,True
+2011,112,Miller vs. Bisping,The Ultimate Fighter 14 Finale,Dec 2011,112,False
+2011,113,Barry vs. Struve,UFC on Versus 6,Oct 2011,113,True
+2011,114,Edwards vs. Oliveira,UFC on Versus 6,Oct 2011,114,True
+2011,115,Nedkov vs. Cané,UFC 134,Aug 2011,115,True
+2011,116,Riddle vs. Benoist,UFC Fight Night 25,Sep 2011,116,True
+2011,117,Ebersole vs. Hallman,UFC 133,Aug 2011,117,True
+2011,118,Pyle vs. MacDonald,UFC 133,Aug 2011,118,True
+2011,119,Hughes vs. Koscheck,UFC 135,Sep 2011,119,True
+2011,120,Arlovski vs. Kharitonov,Strikeforce,Feb 2011,120,False
+2011,121,Melendez vs. Kawajiri II,Strikeforce,Apr 2011,121,False
+2011,122,Larkin vs. Lighty,Strikeforce Challengers 15,Apr 2011,122,False
+2011,123,Faber vs. Bowles,UFC 139,Nov 2011,123,True
+2011,125,Budd vs. Nunes,Strikeforce Challengers 13,Jan 2011,125,False
+2011,124,Grove vs. Jensen,Bellator 47,Jul 2011,124,False
+2011,126,Edwards vs. Ferguson,The Ultimate Fighter 14 Finale,Dec 2011,126,False
+2011,127,Swanson vs. Lamas,UFC on FOX 1,Nov 2011,127,True
+2011,128,Lawlor vs. Weidman,UFC 139,Nov 2011,128,True
+2011,129,Pokrajac vs. Soszynski,UFC 140,Dec 2011,129,True
+2011,130,Etim vs. Faaloloto,UFC 138,Nov 2011,130,True
+2011,131,Masvidal vs. Noons,Strikeforce,Jun 2011,131,False
+2011,132,McDonald vs. Soto,UFC 139,Nov 2011,132,True
+2011,134,Rothwell vs. Hunt,UFC 135,Sep 2011,134,True
+2011,133,Miller vs. Wiman,UFC Fight Night 23,Jan 2011,133,True
+2011,135,Koch vs. Assunção,UFC 128,Mar 2011,135,True
+2011,136,Beltran vs. Rosa,UFC 131,Jun 2011,136,True
+2011,137,Hamman vs. Dollaway,UFC on Versus 5,Aug 2011,137,True
+2011,138,Dexter vs. Gauron,Victory MMA 2,Aug 2011,138,False
+2011,139,Cote vs. Portieous,Ringside MMA 12,Oct 2011,139,False
+2011,142,Dexter vs. Papineau,Hybrid 9,Jun 2011,142,False
+2011,141,Barnett vs. Kharitonov,Strikeforce,Sep 2011,141,False
+2011,140,Maia vs. Muñoz,UFC 131,Jun 2011,140,True
+2011,143,Cerrone vs. Rocha,UFC 131,Jun 2011,143,True
+2011,144,Howard vs. Brown,UFC on Versus 4,Jun 2011,144,True
+2011,145,Cormier vs. Monson,Strikeforce,Jun 2011,145,False
+2011,147,Lentz vs. Lowe,UFC Fight Night 24,Mar 2011,147,True
+2011,146,Fisher vs. Pearson,UFC 127,Feb 2011,146,True
+2011,148,Cormier vs. Cole,Strikeforce Challengers 13,Jan 2011,148,False
+2011,150,Simpson vs. Schafer,UFC 136,Oct 2011,150,True
+2011,149,Brown vs. Nunes,UFC 125,Jan 2011,149,True
+2011,151,Hamman vs. Philippou,UFC 140,Dec 2011,151,True
+2011,152,Makdessi vs. Hallman,UFC 140,Dec 2011,152,True
+2011,154,St-Pierre vs. Shields,UFC 129,Apr 2011,154,True
+2011,153,Escovedo vs. Mizugaki,UFC 135,Sep 2011,153,True
+2011,156,Pettis vs. Guida,The Ultimate Fighter 13 Finale,Jun 2011,156,False
+2011,155,Ruediger vs. Taylor,UFC 126,Feb 2011,155,True
+2011,157,Johnson vs. Yamamoto,UFC 126,Feb 2011,157,True
+2011,158,Sakara vs. Weidman,UFC on Versus 3,Mar 2011,158,True
+2011,159,Bader vs. Brilz,UFC 139,Nov 2011,159,True
+2011,160,Overeem vs. Werdum II,Strikeforce,Jun 2011,160,False
+2011,161,dos Anjos vs. Tibau,UFC 139,Nov 2011,161,True
+2011,163,Grove vs. Boetsch,UFC 130,May 2011,163,True
+2011,162,Coenen vs. Tate,Strikeforce,Jul 2011,162,False
+2011,164,Silva vs. Cormier,Strikeforce,Sep 2011,164,False
+2021,1,Gaethje vs. Chandler,UFC 268,Nov 2021,1,True
+2021,2,Volkanovski vs. Ortega,UFC 266,Sep 2021,2,True
+2021,3,Reyes vs. Procházka,UFC Fight Night,May 2021,3,True
+2021,4,Holloway vs. Kattar,UFC on ABC 1,Jan 2021,4,True
+2021,5,Oliveira vs. Chandler,UFC 262,May 2021,5,True
+2021,6,Yan vs. Sandhagen,UFC 267,Oct 2021,6,True
+2021,7,Poirier vs. McGregor II,UFC 257,Jan 2021,7,True
+2021,8,Holloway vs. Rodriguez,UFC Fight Night,Nov 2021,8,True
+2021,9,Usman vs. Burns,UFC 258,Feb 2021,9,True
+2021,10,Davis vs. Jones,UFC Fight Night,Jan 2021,10,True
+2021,11,Ponzinibbio vs. Baeza,UFC Fight Night,Jun 2021,11,True
+2021,12,Burgos vs. Barboza,UFC 262,May 2021,12,True
+2021,13,Ferreira vs. Dariush II,UFC Fight Night,Feb 2021,13,True
+2021,14,Sandhagen vs. Dillashaw,UFC Fight Night,Jul 2021,14,True
+2021,15,Dober vs. Riddell,UFC 263,Jun 2021,15,True
+2021,16,Woodley vs. Luque,UFC 260,Mar 2021,16,True
+2021,17,Usman vs. Covington II,UFC 268,Nov 2021,17,True
+2021,18,Munhoz vs. Rivera II,UFC Fight Night,Feb 2021,18,True
+2021,19,Oliveira vs. Poirier,UFC 269,Dec 2021,19,True
+2021,20,Tafa vs. Felipe,UFC on ABC 1,Jan 2021,20,True
+2021,21,Ferreira vs. Gillespie,UFC Fight Night,May 2021,21,True
+2021,22,Murphy vs. Silva de Andrade,UFC Fight Night,Jan 2021,22,True
+2021,23,Condit vs. Brown,UFC on ABC 1,Jan 2021,23,True
+2021,24,Chiesa vs. Magny,UFC Fight Night,Jan 2021,24,True
+2021,25,Ulberg vs. Nzechukwu,UFC 259,Mar 2021,25,True
+2021,26,Yan vs. Sterling,UFC 259,Mar 2021,26,True
+2021,27,Miocic vs. NGannou II,UFC 260,Mar 2021,27,True
+2021,28,Moraes vs. Dvalishvili,UFC 266,Sep 2021,28,True
+2021,29,Alves vs. Lazzez,UFC Fight Night,Jan 2021,29,True
+2021,30,Martinez vs. Grant,UFC Fight Night,Mar 2021,30,True
+2021,31,Burgos vs. Quarantillo,UFC 268,Nov 2021,31,True
+2021,32,Erosa vs. Landwehr,UFC Fight Night,Feb 2021,32,True
+2021,33,Fiziev vs. Green,UFC 265,Aug 2021,33,True
+2021,34,Makdessi vs. Bahamondes,UFC on ABC 2,Apr 2021,34,True
+2021,35,Price vs. Pereira,UFC 264,Jul 2021,35,True
+2021,36,Błachowicz vs. Adesanya,UFC 259,Mar 2021,36,True
+2021,37,Soriano vs. Todorović,UFC on ABC 1,Jan 2021,37,True
+2021,38,Poirier vs. McGregor III,UFC 264,Jul 2021,38,True
+2021,39,Vieira vs. Hernandez,UFC 258,Feb 2021,39,True
+2021,40,Costa vs. Vettori,UFC Fight Night,Oct 2021,40,True
+2021,41,Cruz vs. Kenney,UFC 259,Mar 2021,41,True
+2021,42,Jourdain vs. Rojo,UFC Fight Night,Mar 2021,42,True
+2021,43,Lawler vs. Diaz II,UFC 266,Sep 2021,43,True
+2021,44,Whittaker vs. Gastelum,UFC Fight Night,Apr 2021,44,True
+2021,46,Kilburn vs. Lingo,UFC on ABC 1,Jan 2021,46,True
+2021,45,Tsarukyan vs. Frevola,UFC 257,Jan 2021,45,True
+2021,47,Edwards vs. Diaz,UFC 263,Jun 2021,47,True
+2021,48,Yanez vs. Costa,UFC Fight Night,Jul 2021,48,True
+2021,49,Alvey vs. Marquez,UFC on ABC 2,Apr 2021,49,True
+2021,50,Nunes vs. Peña,UFC 269,Dec 2021,50,True
+2021,51,Barboza vs. Chikadze,UFC Fight Night,Aug 2021,51,True
+2021,52,Pettis vs. Collard,PFL 2021 #1,Apr 2021,52,False
+2021,53,Tuivasa vs. Hardy,UFC 264,Jul 2021,53,True
+2021,55,Quarantillo vs. Benítez,UFC Fight Night,Jul 2021,55,True
+2021,54,Kim vs. McCann,UFC Fight Night,Sep 2021,54,True
+2021,56,Dawson vs. Santos,UFC Fight Night,Mar 2021,56,True
+2021,57,Yanez vs. Lopez,UFC Fight Night,Mar 2021,57,True
+2021,58,Lee vs. Rodriguez,UFC Fight Night,Aug 2021,58,True
+2021,60,Carnelossi vs. Liang,UFC 261,Apr 2021,60,True
+2021,59,Figueiredo vs. Moreno II,UFC 263,Jun 2021,59,True
+2021,61,Kara-France vs. Bontorin,UFC 259,Mar 2021,61,True
+2021,64,Pantoja vs. Kape,UFC Fight Night,Feb 2021,64,True
+2021,63,Guida vs. Santos,UFC Fight Night,Dec 2021,63,True
+2021,62,Turcios vs. Hiestand,UFC Fight Night,Aug 2021,62,True
+2021,67,Hernandez vs. Moisés,UFC Fight Night,Feb 2021,67,True
+2021,66,Luque vs. Chiesa,UFC 265,Aug 2021,66,True
+2021,65,Nam vs. Schnell,UFC Fight Night,Jan 2021,65,True
+2021,68,Phillips vs. Song,UFC 259,Mar 2021,68,True
+2021,70,Akhmedov vs. Breese,UFC Fight Night,Jan 2021,70,True
+2021,69,Vlismas vs. Conejo Ruiz,UFC Fight Night,Mar 2021,69,True
+2021,73,O'Malley vs. Moutinho,UFC 264,Jul 2021,73,True
+2021,72,Moras vs. Melo,UFC on ABC 1,Jan 2021,72,True
+2021,71,Yanez vs. Grant,UFC Fight Night,Nov 2021,71,True
+2021,74,Artis vs. Golden Jr.,CFFC 100,Sep 2021,74,False
+2021,76,Tafa vs. Vanderaa,UFC Fight Night,May 2021,76,True
+2021,75,Smith vs. Spann,UFC Fight Night,Sep 2021,75,True
+2021,79,Vera vs. Grant II,UFC Fight Night,Jun 2021,79,True
+2021,78,White vs. Valdéz,Contender Series 2021,Oct 2021,78,False
+2021,77,Ponzinibbio vs. Li,UFC on ABC 1,Jan 2021,77,True
+2021,80,Roberts vs. Bahamondes,UFC Fight Night,Aug 2021,80,True
+2021,81,Soriano vs. Allen,UFC Fight Night,Jul 2021,81,True
+2021,83,Fiziev vs. Riddell,UFC Fight Night,Dec 2021,83,True
+2021,82,de Paula vs. Vlismas,UFC Fight Night,Jul 2021,82,True
+2021,84,Johnson vs. Guida,UFC Fight Night,Feb 2021,84,True
+2021,85,Rodriguez vs. Ribas,UFC 257,Jan 2021,85,True
+2021,86,Abdurakhimov vs. Daukaus,UFC 266,Sep 2021,86,True
+2021,88,Jourdain vs. Ewell,UFC Fight Night,Dec 2021,88,True
+2021,87,MacDonald vs. Cooper III,PFL 2021 #7,Aug 2021,87,False
+2021,89,Marques vs. Nzechukwu,UFC Fight Night,Jun 2021,89,True
+2021,92,Gastelum vs. Heinisch,UFC 258,Feb 2021,92,True
+2021,91,Blaydes vs. Lewis,UFC Fight Night,Feb 2021,91,True
+2021,90,Elkins vs. Minner,UFC Fight Night,Jul 2021,90,True
+2021,94,Green vs. Rowe,UFC 258,Feb 2021,94,True
+2021,93,Cirkunov vs. Spann,UFC Fight Night,Mar 2021,93,True
+2021,97,Leonardo vs. Fiorot,UFC Fight Night,Jan 2021,97,True
+2021,96,Font vs. Aldo,UFC Fight Night,Dec 2021,96,True
+2021,95,Shields vs. Elkin,PFL 2021 #4,Jun 2021,95,False
+2021,98,Edgar vs. Vera,UFC 268,Nov 2021,98,True
+2021,100,Ewell vs. Gutierrez,UFC 258,Feb 2021,100,True
+2021,99,Puelles vs. Gruetzemacher,UFC Fight Night,Dec 2021,99,True
+2021,104,Zawada vs. Emeev,UFC on ABC 1,Jan 2021,104,True
+2021,103,Sumudaerji vs. Adashev,UFC Fight Night,Jan 2021,103,True
+2021,102,Trinaldo vs. Salikhov,UFC Fight Night,Jun 2021,102,True
+2021,101,Cutelaba vs. Jacoby,UFC Fight Night,May 2021,101,True
+2021,105,Ontiveros vs. Garcia,UFC Fight Night,Oct 2021,105,True
+2021,106,Barber vs. Grasso,UFC 258,Feb 2021,106,True
+2021,107,Almeida vs. Nasrudinov,Contender Series 2021,Sep 2021,107,False
+2021,109,Minner vs. Rosa,UFC Fight Night,Feb 2021,109,True
+2021,108,Barberena vs. Witt,UFC Fight Night,Jul 2021,108,True
+2021,110,Rivera vs. Figueiredo,UFC Fight Night,Jan 2021,110,True
+2021,114,Vendramini vs. Pimblett,UFC Fight Night,Sep 2021,114,True
+2021,113,Viana vs. Martin,UFC 258,Feb 2021,113,True
+2021,112,Palmer vs. Jenkins,PFL 2021 #1,Apr 2021,112,False
+2021,111,Daley vs. Homasi,Bellator 257,Apr 2021,111,False
+2021,119,Wineland vs. Castañeda,UFC Fight Night,Feb 2021,119,True
+2021,118,Kamaka III vs. Brown,UFC Fight Night,May 2021,118,True
+2021,117,Edwards vs. Parrish,Bellator 266,Sep 2021,117,False
+2021,116,Du Plessis vs. Giles,UFC 264,Jul 2021,116,True
+2021,115,Hooker vs. Chandler,UFC 257,Jan 2021,115,True
+2021,122,Kilburn vs. Jenkins,PFL 2021 #9,Aug 2021,122,False
+2021,121,Kongo vs. Kharitonov,Bellator 265,Aug 2021,121,False
+2021,120,Sandhagen vs. Edgar,UFC Fight Night,Feb 2021,120,True
+2021,125,Sanchez vs. Muradov,UFC 257,Jan 2021,125,True
+2021,124,Maness vs. Gravely,UFC Fight Night,Sep 2021,124,True
+2021,123,Overeem vs. Volkov,UFC Fight Night,Feb 2021,123,True
+2021,126,Magomedov vs. Stots,Bellator 264,Aug 2021,126,False
+2021,127,Meza vs. Lewis,LFA 102,Mar 2021,127,False
+2021,129,Munhoz vs. Cruz,UFC 269,Dec 2021,129,True
+2021,128,Smith vs. Crute,UFC 261,Apr 2021,128,True
+2021,131,Wu vs. Edwards,UFC on ABC 1,Jan 2021,131,True
+2021,130,Cutelaba vs. Clark,UFC Fight Night,Sep 2021,130,True
+2021,135,Zhang vs. Namajunas,UFC 261,Apr 2021,135,True
+2021,134,Zalal vs. Choi,UFC Fight Night,Feb 2021,134,True
+2021,133,Carlyle vs. Moret,Bellator 272,Dec 2021,133,False
+2021,132,Hall vs. Topuria,UFC 264,Jul 2021,132,True
+2021,139,Shevchenko vs. Andrade,UFC 261,Apr 2021,139,True
+2021,138,Tavares vs. Júnior,UFC 257,Jan 2021,138,True
+2021,137,Medic vs. Turner,UFC 266,Sep 2021,137,True
+2021,136,Buckley vs. Di Chirico,UFC on ABC 1,Jan 2021,136,True
+2021,143,Shevchenko vs. Murphy,UFC 266,Sep 2021,143,True
+2021,142,McMann vs. Peña,UFC 257,Jan 2021,142,True
+2021,141,Lentz vs. Evloev,UFC 257,Jan 2021,141,True
+2021,140,Molina vs. Aoriqileng,UFC 261,Apr 2021,140,True
+2021,144,Kianzad vs. Pennington,UFC Fight Night,Sep 2021,144,True
+2021,145,Aldana vs. Santos,UFC 264,Jul 2021,145,True
+2024,1,Gaethje vs. Holloway,UFC 300,Apr 2024,1,True
+2024,2,Zellhuber vs. Ribovics,UFC 306,Sep 2024,2,True
+2024,3,Makhachev vs. Poirier,UFC 302,Jun 2024,3,True
+2024,4,Pereira vs. Rountree Jr.,UFC 307,Oct 2024,4,True
+2024,5,Procházka vs. Rakić,UFC 300,Apr 2024,5,True
+2024,6,Poirier vs. Saint-Denis,UFC 299,Mar 2024,6,True
+2024,7,Gamrot vs. Hooker,UFC 305,Aug 2024,7,True
+2024,8,Orolbai vs. Rębecki,UFC 308,Oct 2024,8,True
+2024,9,Du Plessis vs. Adesanya,UFC 305,Aug 2024,9,True
+2024,10,Whittaker vs. Costa,UFC 298,Feb 2024,10,True
+2024,11,Dober vs. Silva,UFC Fight Night,Jul 2024,11,True
+2024,12,Sidey vs. Taveras II,UFC 297,Jan 2024,12,True
+2024,13,Topuria vs. Holloway,UFC 308,Oct 2024,13,True
+2024,14,Strickland vs. Du Plessis,UFC 297,Jan 2024,14,True
+2024,15,Oliveira vs. Sopaj,UFC Fight Night,Mar 2024,15,True
+2024,16,Burns vs. Maddalena,UFC 299,Mar 2024,16,True
+2024,17,Cháirez vs. Van,UFC 306,Sep 2024,17,True
+2024,18,Royval vs. Taira,UFC Fight Night,Oct 2024,18,True
+2024,19,McGhee vs. Bolaños,UFC Fight Night,Jan 2024,19,True
+2024,20,Oliveira vs. Chandler II,UFC 309,Nov 2024,20,True
+2024,21,Rodriguez vs. Ortega II,UFC Fight Night,Feb 2024,21,True
+2024,22,Yan vs. Figueiredo,UFC Fight Night,Nov 2024,22,True
+2024,23,Green vs. Miller,UFC 300,Apr 2024,23,True
+2024,24,Volkanovski vs. Topuria,UFC 298,Feb 2024,24,True
+2024,25,Yan vs. Song,UFC 299,Mar 2024,25,True
+2024,26,Swanson vs. Quarantillo,UFC Fight Night,Dec 2024,26,True
+2024,27,Nguyen vs. Errens,UFC Fight Night,Mar 2024,27,True
+2024,28,Lemos vs. Dern,UFC 298,Feb 2024,28,True
+2024,29,Magny vs. Malott,UFC 297,Jan 2024,29,True
+2024,31,Simón vs. Bautista,UFC Fight Night,Jan 2024,31,True
+2024,30,Miller vs. Benítez,UFC Fight Night,Jan 2024,30,True
+2024,32,Pereira vs. Procházka II,UFC 303,Jun 2024,32,True
+2024,33,Schnell vs. Durden,UFC Fight Night,Sep 2024,33,True
+2024,35,Pantoja vs. Erceg,UFC 301,May 2024,35,True
+2024,34,Cannonier vs. Borralho,UFC Fight Night,Aug 2024,34,True
+2024,36,Zellhuber vs. Prado,UFC Fight Night,Feb 2024,36,True
+2024,37,Waters vs. Goff,UFC Fight Night,May 2024,37,True
+2024,38,Pereira vs. Hill,UFC 300,Apr 2024,38,True
+2024,39,Romero vs. Onama,UFC 309,Nov 2024,39,True
+2024,40,Oliveira vs. Tsarukyan,UFC 300,Apr 2024,40,True
+2024,41,Amil vs. Lee,UFC Fight Night,Jul 2024,41,True
+2024,42,Allen vs. Curtis II,UFC Fight Night,Apr 2024,42,True
+2024,43,Allen vs. Evloev,UFC 297,Jan 2024,43,True
+2024,44,Aslan vs. Turkalj II,UFC Fight Night,Mar 2024,44,True
+2024,45,Nolan vs. Motta,UFC Fight Night,Jan 2024,45,True
+2024,46,Durden vs. Silva,UFC Fight Night,Jul 2024,46,True
+2024,48,O'Malley vs. Vera II,UFC 299,Mar 2024,48,True
+2024,47,Landwehr vs. Emmers,UFC Fight Night,Mar 2024,47,True
+2024,49,Elkins vs. Pineda,UFC Fight Night,Oct 2024,49,True
+2024,50,Talbott vs. Saaiman,UFC Fight Night,Mar 2024,50,True
+2024,51,Xiao vs. Le,UFC Fight Night,Nov 2024,51,True
+2024,52,Yusuff vs. Lopes,UFC 300,Apr 2024,52,True
+2024,53,Turner vs. Moicano,UFC 300,Apr 2024,53,True
+2024,54,Hernandez vs. Kopylov,UFC 298,Feb 2024,54,True
+2024,55,Covington vs. Buckley,UFC Fight Night,Dec 2024,55,True
+2024,56,Holland vs. Page,UFC 299,Mar 2024,56,True
+2024,58,Kasanganay vs. Nedoh,PFL 5,Jun 2024,58,False
+2024,57,Tavares vs. Rodrigues,UFC Fight Night,Feb 2024,57,True
+2024,59,Holland vs. Oleksiejczuk,UFC 302,Jun 2024,59,True
+2024,60,Aspinall vs. Blaydes II,UFC 304,Jul 2024,60,True
+2024,61,Johnson vs. Maksum,UFC Fight Night,Feb 2024,61,True
+2024,62,Van vs. Johnson,UFC Fight Night,Jul 2024,62,True
+2024,63,Green vs. Pimblett,UFC 304,Jul 2024,63,True
+2024,64,Jousset vs. Battle,UFC Fight Night,Sep 2024,64,True
+2024,65,Charriere vs. Mariscal,UFC Fight Night,Apr 2024,65,True
+2024,67,Zhang vs. Ribeiro,UFC 298,Feb 2024,67,True
+2024,66,Whittaker vs. Aliskerov,UFC Fight Night,Jun 2024,66,True
+2024,68,Lewis vs. Nascimento,UFC Fight Night,May 2024,68,True
+2024,69,Garcia vs. Choi,UFC Fight Night,Jul 2024,69,True
+2024,70,Wilson vs. Silva,UFC Fight Night,Jan 2024,70,True
+2024,72,Li vs. Prates,UFC 305,Aug 2024,72,True
+2024,71,Martinez vs. Aldo,UFC 301,May 2024,71,True
+2024,73,Jones vs. Miocic,UFC 309,Nov 2024,73,True
+2024,74,Jasudavicius vs. Cachoeira,UFC 297,Jan 2024,74,True
+2024,76,Kara-France vs. Erceg,UFC 305,Aug 2024,76,True
+2024,75,McGrillen-Evans vs. Garnett,PFL Europe 3,Sep 2024,75,False
+2024,77,Alvarez vs. Brener,UFC Fight Night,Aug 2024,77,True
+2024,78,Aswell vs. Grad,Contender Series 2024,Aug 2024,78,False
+2024,79,Nelson vs. Garcia,UFC Fight Night,Sep 2024,79,True
+2024,80,Ferreira vs. Stoltzfus,UFC Fight Night,Jun 2024,80,True
+2024,81,Robertson vs. Viana,UFC 297,Jan 2024,81,True
+2024,82,Rodriguez vs. Erosa,UFC Fight Night,Jul 2024,82,True
+2024,83,Rodríguez vs. Osbourne,UFC 306,Sep 2024,83,True
+2024,84,Ramos vs. Erosa,UFC Fight Night,Mar 2024,84,True
+2024,85,Ferreira vs. Rębecki,UFC Fight Night,May 2024,85,True
+2024,86,Reyes vs. Jacoby,UFC Fight Night,Jun 2024,86,True
+2024,87,Torres vs. Bahamondes,UFC 306,Sep 2024,87,True
+2024,88,Curtis vs. Barriault,UFC 297,Jan 2024,88,True
+2024,89,DiFrancesco vs. David,LFA 176,Feb 2024,89,False
+2024,90,Figueiredo vs. Garbrandt,UFC 300,Apr 2024,90,True
+2024,91,Walker vs. Oezdemir,UFC Fight Night,Jun 2024,91,True
+2024,92,Duben vs. Clark,Contender Series 2024,Sep 2024,92,False
+2024,94,McIntyre vs. Legorreta,LFA 182,Apr 2024,94,False
+2024,93,Thompson vs. Buckley,UFC 307,Oct 2024,93,True
+2024,95,Johnson vs. Azaitar,UFC Fight Night,Dec 2024,95,True
+2024,97,Ki vs. Saika,Road to UFC,May 2024,97,True
+2024,96,Holobaugh vs. Kruschewsky,UFC Fight Night,Jul 2024,96,True
+2024,98,Nolan vs. Martinez,UFC Fight Night,May 2024,98,True
+2024,99,Xie vs. Kawana,Road to UFC,Aug 2024,99,True
+2024,100,Pereira vs. Oleksiejczuk,UFC 299,Mar 2024,100,True
+2024,101,Hasan vs. Romano,CFFC 129,Feb 2024,101,False
+2024,102,Kavanagh vs. Blencowe II,Bellator Champions Series,Jun 2024,102,False
+2024,104,Ziam vs. Frevola,UFC Fight Night,Sep 2024,104,True
+2024,103,Zhang vs. Yan,UFC 300,Apr 2024,103,True
+2024,105,Naimov vs. Lima,UFC Fight Night,Jun 2024,105,True
+2024,108,Bowers vs. Borisova,LFA 193,Sep 2024,108,False
+2024,107,Choi vs. Algeo,UFC Fight Night,Jul 2024,107,True
+2024,106,Ankalaev vs. Walker II,UFC Fight Night,Jan 2024,106,True
+2024,109,Collard vs. Pitbull,PFL 2,Apr 2024,109,False
+2024,110,Menifield vs. Ulberg,UFC Fight Night,May 2024,110,True
+2024,112,Hayisaer vs. Motta,UFC Fight Night,Nov 2024,112,True
+2024,111,Doumbé vs. Willis,Bellator Champions Series,May 2024,111,False
+2024,113,Radtke vs. Prates,UFC Fight Night,Jun 2024,113,True
+2024,114,Usmonov vs. Ramaska,The Ultimate Fighter 32,Mar 2024,114,False
+2024,115,Goltsov vs. Popov,PFL 2024 Championships,Nov 2024,115,False
+2024,116,Bellagouit vs. Al-Qahtani,PFL 2024 Championships,Nov 2024,116,False
+2024,117,Umalatov vs. Musaev,PFL 2024 Championships,Nov 2024,117,False
+2024,118,Adjoudj vs. Perez,PFL 2024 Championships,Nov 2024,118,False
+2024,119,van Steenis vs. Dantas,PFL 2024 Championships,Nov 2024,119,False
+2024,121,Kasanganay vs. Yagshimuradov,PFL 2024 Championships,Nov 2024,121,False
+2024,120,Munhoz vs. Phillips,UFC 299,Mar 2024,120,True
+2024,123,Wang vs. Fernandes,UFC Fight Night,Nov 2024,123,True
+2024,122,Haqparast vs. Gordon,UFC Fight Night,Jun 2024,122,True
+2024,124,Ditcheva vs. Bishop,PFL 7,Aug 2024,124,False
+2024,125,Henrique vs. Siqueira,LFA 190,Aug 2024,125,False
+2024,127,Francischinelli vs. Kuiks,LFA 190,Aug 2024,127,False
+2024,126,Moicano vs. Saint-Denis,UFC Fight Night,Sep 2024,126,True
+2024,128,Douglas vs. Reyes,LFA 190,Aug 2024,128,False
+2024,129,Vera vs. Figueiredo,UFC Fight Night,Aug 2024,129,True
+2024,131,Dern vs. Godinez,UFC Fight Night,Aug 2024,131,True
+2024,130,Bueno Silva vs. Chiasson,UFC 303,Jun 2024,130,True
+2024,133,Tuan Ho vs. Kavanagh,Contender Series 2024,Aug 2024,133,False
+2024,132,Shahbazyan vs. Dobson,UFC Fight Night,Mar 2024,132,True
+2024,134,de Queiroz vs. Yokubov,LFA 196,Nov 2024,134,False
+2024,135,Pires vs. Rodriguez Tacha,LFA 197,Nov 2024,135,False
+2024,136,Moraes vs. Kingad,ONE 169,Nov 2024,136,False
+2024,137,Amil vs. Garcia,UFC Fight Night,Feb 2024,137,True
+2024,138,Ruotolo vs. Mujtaba,ONE 169,Nov 2024,138,False
+2024,140,Radzhabov vs. Al-Selwady,UFC Fight Night,Mar 2024,140,True
+2024,139,Shahbazyan vs. Meerschaert,UFC Fight Night,Aug 2024,139,True
+2024,141,Pitbull vs. Kennedy,Bellator Champions Series,Mar 2024,141,False
+2024,142,Holm vs. Harrison,UFC 300,Apr 2024,142,True
+2024,143,McCann vs. Belbiţă II,UFC Fight Night,Feb 2024,143,True
+2024,145,Loder vs. Valentin,UFC Fight Night,Aug 2024,145,True
+2024,144,Ige vs. Lopes,UFC 303,Jun 2024,144,True
+2024,146,Ofli vs. Santos,UFC Fight Night,Aug 2024,146,True
+2024,148,Dvalishvili vs. Cejudo,UFC 298,Feb 2024,148,True
+2024,147,Bunes vs. Van,UFC Fight Night,Jan 2024,147,True
+2024,149,Luque vs. Gorimbo,UFC 310,Dec 2024,149,True
+2024,150,Basharat vs. Lapilus,UFC Fight Night,Jan 2024,150,True
+2024,151,Tulio vs. Duclos,Contender Series 2024,Aug 2024,151,False
+2024,152,Delgado vs. Juarez,Contender Series 2024,Aug 2024,152,False
+2024,153,Means vs. McGee,UFC 307,Oct 2024,153,True
+2024,154,Buzukja vs. Marshall,UFC Fight Night,Aug 2024,154,True
+2024,155,Lopes vs. Sazhiniani,Contender Series 2024,Aug 2024,155,False
+2024,156,Burnell vs. Dufort,PFL 2,Apr 2024,156,False
+2024,157,Ferreira vs. Bader,PFL vs. Bellator,Feb 2024,157,False
+2024,159,Torres vs. Duncan,UFC Fight Night,Feb 2024,159,True
+2024,158,Wood vs. Moroz II,UFC 299,Mar 2024,158,True
+2024,160,Kelleher vs. Gibson,UFC Fight Night,Jul 2024,160,True
+2024,161,Gorimbo vs. Rodriguez,UFC Fight Night,Feb 2024,161,True
+2024,162,Marquez vs. Reese,UFC Fight Night,Jun 2024,162,True
+2024,163,Larkin vs. Chokheli,Bellator Champions Series,Sep 2024,163,False
+2024,165,Hill vs. Pinheiro,UFC Fight Night,May 2024,165,True
+2024,164,Hawes vs. Ferreira,UFC Fight Night,Jan 2024,164,True
+2024,166,Hughes vs. King,Bellator Champions Series,Jun 2024,166,False
+2024,167,Talbott vs. Ghemmouri,UFC 303,Jun 2024,167,True
+2024,168,Ditcheva vs. Hackett,PFL 4,Jun 2024,168,False
+2024,169,Marshall vs. Vargas,PFL Europe 2,Jun 2024,169,False
+2024,170,Bumina-ang vs. Xie,ONE Friday Fights 50,Feb 2024,170,False
+2024,171,Oliveira vs. Gama,LFA 179,Mar 2024,171,False
+2024,172,Algeo vs. Nelson,UFC Fight Night,Mar 2024,172,True
+2024,173,Feng vs. Shi,UFC Fight Night,Nov 2024,173,True
+2024,174,Er-Ramy vs. Finney,Contender Series 2024,Oct 2024,174,False
+2024,175,Shore vs. Zalal,UFC Fight Night,Nov 2024,175,True
+2024,176,Jourdain vs. Henry,UFC Fight Night,Nov 2024,176,True
+2024,177,de Abreu vs. Fujimoto,LFA 191,Aug 2024,177,False
+2024,178,Katona vs. Matsumoto,UFC Fight Night,Oct 2024,178,True
+2024,179,Magny vs. Prates,UFC Fight Night,Nov 2024,179,True
+2024,181,Namajunas vs. Blanchfield,UFC Fight Night,Nov 2024,181,True
+2024,180,Peek vs. Campbell,UFC Fight Night,Apr 2024,180,True
+2024,182,Rabadanov vs. Dufort,PFL 8,Aug 2024,182,False
+2024,183,Despaigne vs. Parisian,UFC 299,Mar 2024,183,True
+2024,184,Kasanganay vs. Eblen,PFL vs. Bellator,Feb 2024,184,False
+2024,185,Quarantillo vs. Zalal,UFC Fight Night,Mar 2024,185,True
+2024,186,Marques vs. Johnson,PFL 4,Jun 2024,186,False
+2024,187,NGannou vs. Ferreira,PFL Super Fights,Oct 2024,187,False
+2024,188,Larkin vs. Domínguez,PFL 6,Jun 2024,188,False
+2024,189,Nicholson vs. Seumanutafa,XFC,May 2024,189,False
+2024,190,Pereira vs. Aranguren,UAE Warriors 48,Mar 2024,190,False
+2024,191,Poles vs. Garagorri,UAE Warriors 48,Mar 2024,191,False
+2024,193,Ramazanov vs. Musaev,PFL 6,Jun 2024,193,False
+2024,192,Magomedov vs. Petrosyan,UFC 308,Oct 2024,192,True
+2024,194,Grigoriou vs. Kazama,UFC Fight Night,Aug 2024,194,True
+2024,195,Luster vs. Karabulut,PFL Europe 2,Jun 2024,195,False
+2024,197,Chouchane vs. Capella,PFL Europe 1,Mar 2024,197,False
+2024,196,Webb vs. Kophamel,Eternal MMA 87,Aug 2024,196,False
+2024,198,Safari vs. Koren,LFA 178,Mar 2024,198,False
+2024,199,McCourt vs. Collins,Bellator Champions Series,Sep 2024,199,False
+2024,200,Schoenfelder vs. Voievodkin,Contender Series 2024,Sep 2024,200,False
+2024,201,Attif vs. Santos,UAE Warriors 48,Mar 2024,201,False
+2024,203,Menezes vs. Luna,UAE Warriors 48,Mar 2024,203,False
+2024,202,Gordon vs. Flick,UFC 297,Jan 2024,202,True
+2024,204,Jackson vs. Blackshear,UFC Fight Night,Jul 2024,204,True
+2024,206,Scott vs. Hart,LFA 185,Jun 2024,206,False
+2024,205,Borshchev vs. Llontop,UFC Fight Night,Aug 2024,205,True
+2024,207,Herculano vs. Douglas,LFA 179,Mar 2024,207,False
+2024,209,Lopez vs. Luster,PFL Europe 3,Sep 2024,209,False
+2024,208,Ortega vs. Lopes,UFC 306,Sep 2024,208,True
+2024,210,Madge vs. Ward,PFL 3,Apr 2024,210,False
+2024,211,Carmouche vs. Watanabe II,PFL 4,Jun 2024,211,False
+2024,212,Laurenço vs. Pereira,LFA 175,Jan 2024,212,False
+2024,213,Anderson vs. Morris,LFA 177,Feb 2024,213,False
+2024,214,Grant vs. Leary,PFL Europe 2,Jun 2024,214,False
+2024,216,Pat vs. Queiroz,LFA 191,Aug 2024,216,False
+2024,215,Moreno vs. Royval II,UFC Fight Night,Feb 2024,215,True
+2024,217,Quiñonez vs. Barcelos,UFC Fight Night,Feb 2024,217,True
+2024,218,Nickal vs. Brundage,UFC 300,Apr 2024,218,True
+2024,219,Klein vs. Cunningham,UFC Fight Night,Mar 2024,219,True
+2024,221,Brown vs. Zaleski,UFC 302,Jun 2024,221,True
+2024,220,Armfield vs. Hiestand,UFC Fight Night,Jun 2024,220,True
+2024,223,Diniz vs. Lane,UFC Fight Night,Apr 2024,223,True
+2024,222,Durden vs. Van,UFC 310,Dec 2024,222,True
+2024,224,Semelsberger vs. Parsons,UFC Fight Night,Jan 2024,224,True
+2024,225,Mafileo vs. Vanderaa,Fierce FC 30,Feb 2024,225,False
+2024,226,Douglas vs. Ghareeb,LFA 184,May 2024,226,False
+2024,228,Steele vs. Blair,Contender Series 2024,Oct 2024,228,False
+2024,227,Emerson vs. Acosta,Aries Fight Series 23,Jan 2024,227,False
+2024,229,Pearce vs. Sabatini,UFC Fight Night,Oct 2024,229,True
+2024,233,Haney vs. Garcia,Haney vs. Garcia,Apr 2024,233,False
+2024,232,Dulatov vs. Antunes,Contender Series 2024,Oct 2024,232,False
+2024,231,Ruffy vs. Llontop,UFC 309,Nov 2024,231,True
+2024,230,Barez vs. Altamirano,UFC Fight Night,Sep 2024,230,True
+2024,234,Zhu vs. Ando,Road to UFC,May 2024,234,True
+2024,236,Jauregui vs. Souza,UFC 306,Sep 2024,236,True
+2024,235,Kape vs. Silva,UFC Fight Night,Dec 2024,235,True
+2024,237,Moicano vs. Dober,UFC Fight Night,Feb 2024,237,True
+2024,238,Siqueira vs. Hernandez,LFA 181,Apr 2024,238,False
+2024,239,Velasquez vs. Mauldin,PFL 4,Jun 2024,239,False
+2024,240,Bernardo vs. Rubin,Invicta FC 55,Jun 2024,240,False
+2024,242,Joshua vs. Dubois,Joshua vs. Dubois,Sep 2024,242,False
+2024,241,Willis vs. Ivy,PFL 7,Aug 2024,241,False
+2024,243,Dorzhiev vs. Galvan,CFFC 130,Mar 2024,243,False
+2024,246,Stewart vs. Pereira,Cage Warriors 169,Mar 2024,246,False
+2024,245,Lainesse vs. Patterson,UFC 297,Jan 2024,245,True
+2024,244,Jourdain vs. Woodson,UFC 297,Jan 2024,244,True
+2024,247,Abdul-Malik vs. Todorović,UFC Fight Night,Nov 2024,247,True
+2024,248,Young vs. Bóveda Aguirre,Invicta FC 58,Nov 2024,248,False
+2024,249,Leonardo vs. Torres,Invicta FC 58,Nov 2024,249,False
+2024,250,Nolan vs. Tavarres,CFFC 137,Oct 2024,250,False
+2024,402,Mané vs. Noso Pedro,PFL Europe 1,Mar 2024,402,False
+2024,401,Pereira vs. Hernandez,UFC Fight Night,Oct 2024,401,True
+2024,406,McKinney vs. Ribovics,UFC Fight Night,May 2024,406,True
+2024,405,Aldo vs. Bautista,UFC 307,Oct 2024,405,True
+2024,404,Xiao vs. Lee,UFC Fight Night,Jun 2024,404,True
+2024,403,Ibragimov vs. Wamytan,AEF 6,May 2024,403,False
+2024,410,Strickland vs. Costa,UFC 302,Jun 2024,410,True
+2024,409,Landwehr vs. Choi,UFC 310,Dec 2024,409,True
+2024,408,O'Malley vs. Dvalishvili,UFC 306,Sep 2024,408,True
+2024,407,Lessou vs. Boukichou,Ares FC 24,Sep 2024,407,False
+2024,413,Nicholson vs. Sherman,Gamebred Bareknuckle MMA,Mar 2024,413,False
+2024,412,Grant vs. Taveras,UFC Fight Night,Dec 2024,412,True
+2024,411,Quinlan vs. Barlow,UFC 298,Feb 2024,411,True
+2024,418,Jenkins vs. Hill,Gamebred Bareknuckle MMA,Mar 2024,418,False
+2024,417,Marcos vs. Yanez,UFC Fight Night,Dec 2024,417,True
+2024,416,Tau vs. Smith,Contender Series 2024,Sep 2024,416,False
+2024,415,Dolidze vs. Imavov,UFC Fight Night,Feb 2024,415,True
+2024,414,Červinský vs. Koziorzębski,KSW 91,Feb 2024,414,False
+2024,421,Boynazarov vs. Gonzales,Gamebred Bareknuckle MMA,Mar 2024,421,False
+2024,420,Ashizawa vs. Tanaka,Super RIZIN 3,Jul 2024,420,False
+2024,419,Duncan vs. Rodrigues,UFC 304,Jul 2024,419,True
+2024,425,Weems vs. Brown,Gamebred Bareknuckle MMA,Mar 2024,425,False
+2024,424,Cutelaba vs. Erslan,UFC Fight Night,Sep 2024,424,True
+2024,423,Grasso vs. Shevchenko III,UFC 306,Sep 2024,423,True
+2024,422,Malykhin vs. Kane,ONE 169,Nov 2024,422,False
+2024,428,Schnell vs. Erceg,UFC Fight Night,Mar 2024,428,True
+2024,427,Bennett vs. Penafiel,Gamebred Bareknuckle MMA,Mar 2024,427,False
+2024,426,Ribas vs. Namajunas,UFC Fight Night,Mar 2024,426,True
+2024,429,Zukhurov vs. Khabibulin,ACA 178,Aug 2024,429,False
+2009,1,Guida vs. Sanchez,The Ultimate Fighter 9 Finale,Jun 2009,1,False
+2009,2,Henderson vs. Bisping,UFC 100,Jul 2009,2,True
+2009,3,Cerrone vs. Henderson I,WEC 43,Oct 2009,3,False
+2009,4,Machida vs. Rua I,UFC 104,Oct 2009,4,True
+2009,5,St-Pierre vs. Penn II,UFC 94,Jan 2009,5,True
+2009,6,Couture vs. Nogueira,UFC 102,Aug 2009,6,True
+2009,7,Penn vs. Sanchez,UFC 107,Dec 2009,7,True
+2009,8,Jones vs. Bonnar,UFC 94,Jan 2009,8,True
+2009,9,Condit vs. Kampmann,UFC Fight Night 18,Apr 2009,9,True
+2009,10,Evans vs. Machida,UFC 98,May 2009,10,True
+2009,11,Akiyama vs. Belcher,UFC 100,Jul 2009,11,True
+2009,12,Griffin vs. Silva,UFC 101,Aug 2009,12,True
+2009,13,Arlovski vs. Emelianenko,Affliction 2,Jan 2009,13,False
+2009,14,Torres vs. Mizugaki,WEC 40,Apr 2009,14,False
+2009,15,Shamrock vs. Diaz,Strikeforce,Apr 2009,15,False
+2009,16,Condit vs. Ellenberger,UFC Fight Night 19,Sep 2009,16,True
+2009,17,Lesnar vs. Mir II,UFC 100,Jul 2009,17,True
+2009,18,dos Santos vs. Filipović,UFC 103,Sep 2009,18,True
+2009,19,Emelianenko vs. Rogers,Strikeforce,Nov 2009,19,False
+2009,20,Credeur vs. Quarry,UFC Fight Night 19,Sep 2009,20,True
+2009,21,Carano vs. Cyborg,Strikeforce,Aug 2009,21,False
+2009,22,Silva vs. Franklin,UFC 99,Jun 2009,22,True
+2009,23,Ortiz vs. Griffin II,UFC 106,Nov 2009,23,True
+2009,24,Faber vs. Brown II,WEC 41,Jun 2009,24,False
+2009,25,Penn vs. Florian,UFC 101,Aug 2009,25,True
+2009,26,Liddell vs. Rua,UFC 97,Apr 2009,26,True
+2009,27,Brown vs. Aldo,WEC 44,Nov 2009,27,False
+2009,28,Hardy vs. Davis,UFC 99,Jun 2009,28,True
+2009,29,Machida vs. Silva,UFC 94,Jan 2009,29,True
+2009,30,Barry vs. Hardonk,UFC 104,Oct 2009,30,True
+2009,31,Melendez vs. Thomson II,Strikeforce,Dec 2009,31,False
+2009,32,Carwin vs. Gonzaga,UFC 96,Mar 2009,32,True
+2009,33,Diaz vs. Guillard,UFC Fight Night 19,Sep 2009,33,True
+2009,34,Le vs. Smith I,Strikeforce,Dec 2009,34,False
+2009,35,Henderson vs. Franklin,UFC 93,Jan 2009,35,True
+2009,36,Lauzon vs. Stephens,UFC Fight Night 17,Feb 2009,36,True
+2009,37,Jackson vs. Jardine,UFC 96,Mar 2009,37,True
+2009,38,Varner vs. Cerrone I,WEC 38,Jan 2009,38,False
+2009,39,Belfort vs. Franklin,UFC 103,Sep 2009,39,True
+2009,41,Diaz vs. Stevenson,The Ultimate Fighter 9 Finale,Jun 2009,41,False
+2009,40,Bisping vs. Kang,UFC 105,Nov 2009,40,True
+2009,42,Koscheck vs. Johnson,UFC 106,Nov 2009,42,True
+2009,43,Maia vs. Sonnen,UFC 95,Feb 2009,43,True
+2009,44,Hughes vs. Serra,UFC 98,May 2009,44,True
+2009,45,Rua vs. Coleman II,UFC 93,Jan 2009,45,True
+2009,46,Stojnić vs. Struve,UFC 99,Jun 2009,46,True
+2009,47,Jardine vs. Silva,UFC 102,Aug 2009,47,True
+2009,48,Santiago vs. Misaki I,Sengoku no Ran 2009,Jan 2009,48,False
+2009,50,Hansen vs. Aoki III,Dream 11,Oct 2009,50,False
+2009,49,Kelly vs. Siver,UFC 105,Nov 2009,49,True
+2009,51,Tokoro vs. Cullum,Dream 9,May 2009,51,False
+2009,52,Sakurai vs. Žaromskis,Dream 10,Jul 2009,52,False
+2009,53,Neer vs. Danzig,UFC Fight Night 17,Feb 2009,53,True
+2009,54,Foster vs. Story,UFC 103,Sep 2009,54,True
+2009,55,Sanchez vs. Stevenson,UFC 95,Feb 2009,55,True
+2009,56,Radach vs. Smith,Strikeforce,Apr 2009,56,False
+2009,57,Kongo vs. Mir,UFC 107,Dec 2009,57,True
+2009,58,Okami vs. Sonnen,UFC 104,Oct 2009,58,True
+2009,59,Lytle vs. Davis,UFC 93,Jan 2009,59,True
+2009,60,Veach vs. Grice,UFC Fight Night 17,Feb 2009,60,True
+2009,61,St-Pierre vs. Alves,UFC 100,Jul 2009,61,True
+2009,62,Sakuraba vs. Galešić,Dream 12,Oct 2009,62,False
+2009,63,Sell vs. Brown,UFC 96,Mar 2009,63,True
+2009,64,Hardy vs. Markham,UFC 95,Feb 2009,64,True
+2009,65,dos Santos vs. Struve,UFC 95,Feb 2009,65,True
+2009,66,Kampmann vs. Daley,UFC 103,Sep 2009,66,True
+2009,67,Buchholz vs. Stephens,UFC Fight Night 19,Sep 2009,67,True
+2009,68,Aoki vs. Gardner,Dream 7,Mar 2009,68,False
+2009,70,Johnson vs. Yoshida,UFC 104,Oct 2009,70,True
+2009,69,Hardy vs. Swick,UFC 105,Nov 2009,69,True
+2009,71,Hamill vs. Muñoz,UFC 96,Mar 2009,71,True
+2009,73,Barry vs. Hague,UFC 98,May 2009,73,True
+2009,72,Florian vs. Guida,UFC 107,Dec 2009,72,True
+2009,74,Burns vs. Lytle,The Ultimate Fighter 9 Finale,Jun 2009,74,False
+2009,76,Catone vs. Credeur,UFC Fight Night 18,Apr 2009,76,True
+2009,75,Dollaway vs. Lawlor,UFC 100,Jul 2009,75,True
+2009,77,Vera vs. Patt,UFC 96,Mar 2009,77,True
+2009,78,Etim vs. Cobb,UFC 95,Feb 2009,78,True
+2009,80,Osterneck vs. Rivera,UFC Fight Night 18,Apr 2009,80,True
+2009,79,Gomi vs. Kitaoka,Sengoku no Ran 2009,Jan 2009,79,False
+2009,82,Sadollah vs. Hendricks,UFC 101,Aug 2009,82,True
+2009,81,Kanehara vs. Jung,Sengoku 8,May 2009,81,False
+2009,83,Maia vs. Marquardt,UFC 102,Aug 2009,83,True
+2009,84,Jones vs. O'Brien,UFC 100,Jul 2009,84,True
+2009,85,Ciesnolevicz vs. Drwal,The Ultimate Fighter 9 Finale,Jun 2009,85,False
+2009,86,Buchholz vs. Etim,UFC 99,Jun 2009,86,True
+2009,89,Duffee vs. Hague,UFC 102,Aug 2009,89,True
+2009,88,Buentello vs. Struve,UFC 107,Dec 2009,88,True
+2009,87,Stout vs. Wiman,UFC 97,Apr 2009,87,True
+2009,90,Drwal vs. McFedries,UFC 103,Sep 2009,90,True
+2009,92,França vs. Griffin,UFC 103,Sep 2009,92,True
+2009,91,Johnson vs. Fioravanti,UFC Fight Night 17,Feb 2009,91,True
+2009,93,Roop vs. Sotiropoulos,UFC 101,Aug 2009,93,True
+2009,94,Gonzaga vs. Tuchscherer,UFC 102,Aug 2009,94,True
+2009,95,Koscheck vs. Trigg,UFC 103,Sep 2009,95,True
+2009,99,Escudero vs. Miller,UFC 103,Sep 2009,99,True
+2009,98,Buentello vs. Sidelnikov,Affliction 2,Jan 2009,98,False
+2009,97,Lindland vs. Belfort,Affliction 2,Jan 2009,97,False
+2009,96,Vera vs. Smith,Bellator 7,May 2009,96,False
+2009,100,Nelson vs. Schaub,The Ultimate Fighter 10 Finale,Dec 2009,100,False
+2009,101,Hallman vs. Howard,The Ultimate Fighter 10 Finale,Dec 2009,101,False
+2009,102,Nogueira vs. Cané,UFC 106,Nov 2009,102,True
+2009,104,Davis vs. Saunders,UFC 106,Nov 2009,104,True
+2009,103,Marquardt vs. Gouveia,UFC 95,Feb 2009,103,True
+2009,107,Velasquez vs. Rothwell,UFC 104,Oct 2009,107,True
+2009,106,Velasquez vs. Stojnić,UFC Fight Night 17,Feb 2009,106,True
+2009,105,Hirota vs. Kitaoka,Sengoku 9,Aug 2009,105,False
+2009,108,Melendez vs. Damm,Strikeforce,Apr 2009,108,False
+2009,109,Herman vs. Simpson,UFC 102,Aug 2009,109,True
+2009,110,Johnson vs. Wilks,The Ultimate Fighter 9 Finale,Jun 2009,110,False
+2009,112,Bonnar vs. Coleman,UFC 100,Jul 2009,112,True
+2009,111,Gurgel vs. Heun,Strikeforce Challengers 2,Jun 2009,111,False
+2009,113,Sherk vs. Edgar,UFC 98,May 2009,113,True
+2009,114,Howard vs. Wilson,UFC 94,Jan 2009,114,True
+2009,115,Belcher vs. Gouveia,UFC 107,Dec 2009,115,True
+2009,116,Johnson vs. Garcia,UFC 107,Dec 2009,116,True
+2009,119,Kelly vs. Mandaloniz,UFC 95,Feb 2009,119,True
+2009,118,Miller vs. Rosholt,UFC Fight Night 17,Feb 2009,118,True
+2009,117,Nickels vs. Heath,MFC 22,Oct 2009,117,False
+2009,120,Osipczak vs. Lester,The Ultimate Fighter 9 Finale,Jun 2009,120,False
+2009,121,Hathaway vs. Egan,UFC 93,Jan 2009,121,True
+2009,122,High vs. Hieron,Affliction 2,Jan 2009,122,False
+2009,123,Siver vs. Mohr,UFC 93,Jan 2009,123,True
+2009,125,Couture vs. Vera,UFC 105,Nov 2009,125,True
+2009,124,Lauzon vs. Green,Affliction 2,Jan 2009,124,False
+2009,126,Brown vs. Wilks,UFC 105,Nov 2009,126,True
+2009,127,Akano vs. Cyborg,Strikeforce,Apr 2009,127,False
+2009,129,Etim vs. Gugerty,UFC 105,Nov 2009,129,True
+2009,128,Griffin vs. dos Anjos,UFC Fight Night 18,Apr 2009,128,True
+2009,130,Schafer vs. Mendes,UFC 93,Jan 2009,130,True
+2009,131,Drwal vs. Serati,UFC 93,Jan 2009,131,True
+2009,132,Rogers vs. Humphrey,Strikeforce,Apr 2009,132,False
+2009,133,Ciesnolevicz vs. Grove,UFC 95,Feb 2009,133,True
+2009,135,dos Anjos vs. Emerson,UFC 103,Sep 2009,135,True
+2009,134,Silva vs. Leites,UFC 97,Apr 2009,134,True
+2009,136,Huerta vs. Maynard,UFC Fight Night 19,Sep 2009,136,True
+2009,137,Nelson vs. Wiman,UFC 107,Dec 2009,137,True
+2009,138,Penn vs. Valentin,United States Fight League,Apr 2009,138,False
+2009,139,Belcher vs. Kang,UFC 93,Jan 2009,139,True
+2010,1,Silva vs. Sonnen,UFC 117,Aug 2010,1,True
+2010,2,Henderson vs. Pettis,WEC 53,Dec 2010,2,False
+2010,3,MacDonald vs. Condit,UFC 115,Jun 2010,3,True
+2010,4,Lesnar vs. Carwin,UFC 116,Jul 2010,4,True
+2010,5,Garcia vs. Jung I,WEC 48,Apr 2010,5,False
+2010,6,Lesnar vs. Velasquez,UFC 121,Oct 2010,6,True
+2010,7,Akiyama vs. Leben,UFC 116,Jul 2010,7,True
+2010,8,Faber vs. Aldo,WEC 48,Apr 2010,8,False
+2010,9,Emelianenko vs. Werdum,Strikeforce,Jun 2010,9,False
+2010,10,Machida vs. Rua II,UFC 113,May 2010,10,True
+2010,11,Diaz vs. Noons II,Strikeforce,Oct 2010,11,False
+2010,12,Silva vs. Bisping,UFC 110,Feb 2010,12,True
+2010,13,Lawler vs. Manhoef,Strikeforce,Jan 2010,13,False
+2010,14,Liddell vs. Franklin,UFC 115,Jun 2010,14,True
+2010,15,Soszynski vs. Bonnar II,UFC 116,Jul 2010,15,True
+2010,16,Hardy vs. Condit,UFC 120,Oct 2010,16,True
+2010,17,Santiago vs. Misaki II,Sengoku 14,Aug 2010,17,False
+2010,18,Varner vs. Cerrone II,WEC 51,Sep 2010,18,False
+2010,19,St-Pierre vs. Koscheck II,UFC 124,Dec 2010,19,True
+2010,20,Sanchez vs. Thiago,UFC 121,Oct 2010,20,True
+2010,21,Dunham vs. Sherk,UFC 119,Sep 2010,21,True
+2010,22,St-Pierre vs. Hardy,UFC 111,Mar 2010,22,True
+2010,23,Morecraft vs. Struve,UFC 117,Aug 2010,23,True
+2010,24,Barry vs. Filipović,UFC 115,Jun 2010,24,True
+2010,25,Grove vs. Muñoz,UFC 112,Apr 2010,25,True
+2010,26,Nogueira vs. Velasquez,UFC 110,Feb 2010,26,True
+2010,27,Hughes vs. Penn III,UFC 123,Nov 2010,27,True
+2010,28,Sotiropoulos vs. Stevenson,UFC 110,Feb 2010,28,True
+2010,29,dos Santos vs. Nelson,UFC 117,Aug 2010,29,True
+2010,30,Marquardt vs. Sonnen,UFC 109,Feb 2010,30,True
+2010,31,Davis vs. Diaz,UFC 118,Aug 2010,31,True
+2010,32,Lytle vs. Serra II,UFC 119,Sep 2010,32,True
+2010,33,Henderson vs. Shields,Strikeforce,Apr 2010,33,False
+2010,34,Duffee vs. Russow,UFC 114,May 2010,34,True
+2010,35,Garcia vs. Phan,The Ultimate Fighter 12 Finale,Dec 2010,35,False
+2010,37,dos Santos vs. Gonzaga,UFC on Versus 1,Mar 2010,37,True
+2010,36,Hominick vs. Jabouin,WEC 49,Jun 2010,36,False
+2010,38,Couture vs. Coleman,UFC 109,Feb 2010,38,True
+2010,39,Serra vs. Trigg,UFC 109,Feb 2010,39,True
+2010,41,Brown vs. Lytle II,UFC 116,Jul 2010,41,True
+2010,40,Penn vs. Edgar I,UFC 112,Apr 2010,40,True
+2010,42,Mir vs. Carwin,UFC 111,Mar 2010,42,True
+2010,43,Cruz vs. Benavidez II,WEC 50,Aug 2010,43,False
+2010,44,Penn vs. Edgar II,UFC 118,Aug 2010,44,True
+2010,45,Jones vs. Matyushenko,UFC on Versus 2,Aug 2010,45,True
+2010,46,dos Santos vs. Yvel,UFC 108,Jan 2010,46,True
+2010,47,Evans vs. Jackson,UFC 114,May 2010,47,True
+2010,48,Toney vs. Couture,UFC 118,Aug 2010,48,True
+2010,50,Howard vs. Roberts,UFC on Versus 1,Mar 2010,50,True
+2010,49,Jorgensen vs. Pickett,WEC 50,Aug 2010,49,False
+2010,51,Lytle vs. Foster,UFC 110,Feb 2010,51,True
+2010,52,Diaz vs. Markham,UFC 111,Mar 2010,52,True
+2010,53,Benavidez vs. Torres,WEC 47,Mar 2010,53,False
+2010,55,Bader vs. Jardine,UFC 110,Feb 2010,55,True
+2010,54,Davis vs. Goulet,UFC 113,May 2010,54,True
+2010,56,Hughes vs. Gracie,UFC 112,Apr 2010,56,True
+2010,57,Pickett vs. Menjivar,WEC 53,Dec 2010,57,False
+2010,59,Slice vs. Mitrione,UFC 113,May 2010,59,True
+2010,58,Diaz vs. Žaromskis,Strikeforce,Jan 2010,58,False
+2010,60,Bonnar vs. Soszynski I,UFC 110,Feb 2010,60,True
+2010,62,Jones vs. Vera,UFC on Versus 1,Mar 2010,62,True
+2010,61,Stout vs. Lauzon,UFC 108,Jan 2010,61,True
+2010,63,Struve vs. Nelson,UFC Fight Night 21,Mar 2010,63,True
+2010,64,Quarry vs. Rivera,UFC Fight Night 21,Mar 2010,64,True
+2010,65,Varner vs. Henderson,WEC 46,Jan 2010,65,False
+2010,66,Miller vs. Oliveira,UFC 124,Dec 2010,66,True
+2010,67,Cerrone vs. Henderson II,WEC 48,Apr 2010,67,False
+2010,68,Garza vs. Paixão,The Ultimate Fighter 12 Finale,Dec 2010,68,False
+2010,70,Semerzier vs. Swanson,WEC 52,Nov 2010,70,False
+2010,69,Sotiropoulos vs. Lauzon,UFC 123,Nov 2010,69,True
+2010,71,Mir vs. Filipović,UFC 119,Sep 2010,71,True
+2010,72,Stout vs. Stephens,UFC 113,May 2010,72,True
+2010,73,Almeida vs. Hughes,UFC 117,Aug 2010,73,True
+2010,75,Griffin vs. Gomi,UFC on Versus 2,Aug 2010,75,True
+2010,74,Overeem vs. Rogers,Strikeforce,May 2010,74,False
+2010,76,Struve vs. McCorkle,UFC 124,Dec 2010,76,True
+2010,77,Barboza vs. Lullo,UFC 123,Nov 2010,77,True
+2010,78,Okami vs. Linhares,UFC Fight Night 21,Mar 2010,78,True
+2010,79,Escudero vs. Oliveira,UFC Fight Night 22,Sep 2010,79,True
+2010,80,Warren vs. Pitbull,Bellator 23,Jun 2010,80,False
+2010,81,Lauzon vs. Ruediger,UFC 118,Aug 2010,81,True
+2010,82,Escudero vs. Dunham,UFC Fight Night 20,Jan 2010,82,True
+2010,83,McGee vs. Jensen,UFC 121,Oct 2010,83,True
+2010,85,Guymon vs. MacDonald,UFC Fight Night 20,Jan 2010,85,True
+2010,84,Mitrione vs. Beltran,UFC 119,Sep 2010,84,True
+2010,86,Miller vs. Ludwig,UFC 108,Jan 2010,86,True
+2010,89,Miller vs. Lauzon,UFC 108,Jan 2010,89,True
+2010,88,Lawal vs. Cavalcante,Strikeforce,Aug 2010,88,False
+2010,87,Jung vs. Roop,WEC 51,Sep 2010,87,False
+2010,90,Muñoz vs. Simpson,UFC 123,Nov 2010,90,True
+2010,91,McGee vs. McCray,The Ultimate Fighter 11 Finale,Jun 2010,91,False
+2010,92,Leben vs. Simpson,The Ultimate Fighter 11 Finale,Jun 2010,92,False
+2010,94,Diabate vs. Gustafsson,UFC 120,Oct 2010,94,True
+2010,93,Bisping vs. Akiyama,UFC 120,Oct 2010,93,True
+2010,95,Pearson vs. Miller,UFC Fight Night 22,Sep 2010,95,True
+2010,97,Guymon vs. Roberts,UFC 121,Oct 2010,97,True
+2010,96,Etim vs. dos Anjos,UFC 112,Apr 2010,96,True
+2010,98,Schaub vs. Gormley,UFC on Versus 1,Mar 2010,98,True
+2010,99,Guida vs. Gugerty,UFC on Versus 1,Mar 2010,99,True
+2010,100,Almeida vs. Brown,UFC 111,Mar 2010,100,True
+2010,101,Faber vs. Mizugaki,WEC 52,Nov 2010,101,False
+2010,102,Elkins vs. Oliveira,UFC on Versus 2,Aug 2010,102,True
+2010,103,Sandro vs. Hioki,Sengoku 16,Dec 2010,103,False
+2010,104,Guida vs. dos Anjos,UFC 117,Aug 2010,104,True
+2010,105,Drwal vs. Palhares,UFC 111,Mar 2010,105,True
+2010,106,Siver vs. Winner,UFC 122,Nov 2010,106,True
+2010,107,Stann vs. Massenzio,UFC on Versus 2,Aug 2010,107,True
+2010,109,Boetsch vs. Davis,UFC 123,Nov 2010,109,True
+2010,108,Pearson vs. Siver,UFC Fight Night 21,Mar 2010,108,True
+2010,110,McSweeney vs. Maldonado,UFC 120,Oct 2010,110,True
+2010,111,Hunt vs. McCorkle,UFC 119,Sep 2010,111,True
+2010,112,Davis vs. Gustafsson,UFC 112,Apr 2010,112,True
+2010,113,Campuzano vs. Pace,The Ultimate Fighter 12 Finale,Dec 2010,113,False
+2010,114,Maynard vs. Diaz,UFC Fight Night 20,Jan 2010,114,True
+2010,116,Florian vs. Gomi,UFC Fight Night 21,Mar 2010,116,True
+2010,115,Wallace vs. Hamman,UFC 111,Mar 2010,115,True
+2010,119,Tibau vs. Uno,UFC Fight Night 21,Mar 2010,119,True
+2010,118,Nogueira vs. Brilz,UFC 114,May 2010,118,True
+2010,117,Swick vs. Thiago,UFC 109,Feb 2010,117,True
+2010,120,Pyle vs. Lennox,UFC 115,Jun 2010,120,True
+2010,121,Miller vs. Bocek,UFC 111,Mar 2010,121,True
+2010,122,Silva vs. Kyle,Strikeforce,Dec 2010,122,False
+2010,124,Elkins vs. Ludwig,UFC on Versus 1,Mar 2010,124,True
+2010,123,Alvarez vs. Huerta,Bellator 33,Oct 2010,123,False
+2010,125,Branch vs. Harris,UFC 116,Jul 2010,125,True
+2010,127,Stephens vs. Guillard,UFC 119,Sep 2010,127,True
+2010,126,Hamill vs. Jardine,The Ultimate Fighter 11 Finale,Jun 2010,126,False
+2010,128,Brenneman vs. Hendricks,UFC 117,Aug 2010,128,True
+2010,129,Machida vs. Jackson,UFC 123,Nov 2010,129,True
+2010,130,Cané vs. Diabate,UFC 114,May 2010,130,True
+2010,131,Mousasi vs. Lawal,Strikeforce,Apr 2010,131,False
+2010,133,Lowe vs. Guillard,UFC 114,May 2010,133,True
+2010,132,Campuzano vs. Wheeler,WEC 46,Jan 2010,132,False
+2010,135,Forbes vs. Jensen,UFC 114,May 2010,135,True
+2010,134,Lawlor vs. Simpson,UFC Fight Night 20,Jan 2010,134,True
+2010,138,Blackburn vs. Johnson,UFC 112,Apr 2010,138,True
+2010,137,Silva vs. Maia,UFC 112,Apr 2010,137,True
+2010,136,Daley vs. Smith,Strikeforce,Dec 2010,136,False
+2010,139,Irvin vs. Pokrajac,UFC on Versus 2,Aug 2010,139,True
+2010,140,Shamrock vs. Rizzo,Impact FC 2,Jul 2010,140,False
+2010,143,Howard vs. Ellenberger,UFC on Versus 2,Aug 2010,143,True
+2010,142,Sotiropoulos vs. Pellegrino,UFC 116,Jul 2010,142,True
+2010,141,Kingsbury vs. Hamman,UFC Fight Night 22,Sep 2010,141,True
+2010,144,Evangelista vs. Spiritwolf,Strikeforce Challengers 11,Oct 2010,144,False
+2010,145,Shalorus vs. Varner,WEC 49,Jun 2010,145,False
+2010,146,Florian vs. Maynard,UFC 118,Aug 2010,146,True
+2010,147,Aldo vs. Gamburyan,WEC 51,Sep 2010,147,False
+2018,1,Gaethje vs. Poirier,UFC on FOX 29,Apr 2018,1,True
+2018,2,Whittaker vs. Romero II,UFC 225,Jun 2018,2,True
+2018,3,Ferguson vs. Pettis,UFC 229,Oct 2018,3,True
+2018,4,Holloway vs. Ortega,UFC 231,Dec 2018,4,True
+2018,5,Jung vs. Rodriguez,UFC Fight Night 139,Nov 2018,5,True
+2018,6,Johnson vs. Cejudo II,UFC 227,Aug 2018,6,True
+2018,7,Nurmagomedov vs. McGregor,UFC 229,Oct 2018,7,True
+2018,8,Weidman vs. Souza,UFC 230,Nov 2018,8,True
+2018,9,Magomedsharipov vs. Bochniak,UFC 223,Apr 2018,9,True
+2018,10,Alvarez vs. Poirier II,UFC on FOX 30,Jul 2018,10,True
+2018,11,Burgos vs. Kattar,UFC 220,Jan 2018,11,True
+2018,12,Namajunas vs. Jędrzejczyk II,UFC 223,Apr 2018,12,True
+2018,13,Santos vs. Manuwa,UFC 231,Dec 2018,13,True
+2018,14,Simón vs. Dvalishvili,UFC Fight Night 128,Apr 2018,14,True
+2018,15,Dober vs. Camacho,UFC on FOX 27,Jan 2018,15,True
+2018,16,Green vs. Koch,UFC on FOX 27,Jan 2018,16,True
+2018,17,Dillashaw vs. Garbrandt,UFC 227,Aug 2018,17,True
+2018,18,Lewis vs. Volkov,UFC 229,Oct 2018,18,True
+2018,19,Santos vs. Smith,UFC Fight Night 125,Feb 2018,19,True
+2018,20,Leites vs. Hermansson,UFC 224,May 2018,20,True
+2018,21,Stephens vs. Choi,UFC Fight Night 124,Jan 2018,21,True
+2018,22,Costa vs. Hall,UFC 226,Jul 2018,22,True
+2018,23,Johnson vs. Elkins,UFC Fight Night 124,Jan 2018,23,True
+2018,24,Lewis vs. Tybura,UFC Fight Night 126,Feb 2018,24,True
+2018,25,Aldo vs. Stephens,UFC on FOX 30,Jul 2018,25,True
+2018,26,Souza vs. Brunson II,UFC on FOX 27,Jan 2018,26,True
+2018,27,O'Malley vs. Soukhamthath,UFC 222,Mar 2018,27,True
+2018,28,Felder vs. Perry,UFC 226,Jul 2018,28,True
+2018,29,Perry vs. Griffin,UFC on FOX 28,Feb 2018,29,True
+2018,30,Barboza vs. Lee,UFC Fight Night 128,Apr 2018,30,True
+2018,31,Stephens vs. Emmett,UFC on FOX 28,Feb 2018,31,True
+2018,32,Souza vs. Gastelum,UFC 224,May 2018,32,True
+2018,33,Yan vs. Son,UFC Fight Night 136,Sep 2018,33,True
+2018,34,Manuwa vs. Błachowicz II,UFC Fight Night 127,Mar 2018,34,True
+2018,35,Santos vs. Anders,UFC Fight Night 137,Sep 2018,35,True
+2018,37,Mendes vs. Volkanovski,UFC 232,Dec 2018,37,True
+2018,36,Miocic vs. NGannou,UFC 220,Jan 2018,36,True
+2018,38,Lima vs. MacDonald,Bellator 192,Jan 2018,38,False
+2018,40,Aldana vs. Pudilová,UFC 228,Sep 2018,40,True
+2018,39,Barão vs. Kelleher,UFC on FOX 28,Feb 2018,39,True
+2018,41,Eduardo vs. Wood,UFC Fight Night 131,Jun 2018,41,True
+2018,42,Burgos vs. Holobaugh,UFC 230,Nov 2018,42,True
+2018,44,Frevola vs. Vannata,UFC 230,Nov 2018,44,True
+2018,43,Ortiz vs. Pantoja,UFC 220,Jan 2018,43,True
+2018,45,Condit vs. Oliveira,UFC on FOX 29,Apr 2018,45,True
+2018,47,Cerrone vs. Medeiros,UFC Fight Night 126,Feb 2018,47,True
+2018,46,Silva vs. Gordon,UFC on FOX 31,Dec 2018,46,True
+2018,48,Fili vs. Bermudez,UFC on FOX 27,Jan 2018,48,True
+2018,49,Matthews vs. Li,UFC 221,Feb 2018,49,True
+2018,50,Moreno vs. Pantoja II,UFC Fight Night 129,May 2018,50,True
+2018,51,Nguyen vs. Formiga,UFC 221,Feb 2018,51,True
+2018,52,Cormier vs. Oezdemir,UFC 220,Jan 2018,52,True
+2018,53,McMann vs. Reneau,UFC on FOX 28,Feb 2018,53,True
+2018,54,Silva vs. Puelles,UFC Fight Night 129,May 2018,54,True
+2018,55,dos Anjos vs. Covington,UFC 225,Jun 2018,55,True
+2018,57,Moras vs. Pudilová,UFC Fight Night 126,Feb 2018,57,True
+2018,56,Holobaugh vs. Barcelos,UFC Fight Night 133,Jul 2018,56,True
+2018,58,Santos vs. Holland,UFC 227,Aug 2018,58,True
+2018,59,Oliveira vs. Nelson,UFC 231,Dec 2018,59,True
+2018,60,Pedro vs. Safarov,UFC 221,Feb 2018,60,True
+2018,61,Piechota vs. Meerschaert,The Ultimate Fighter 27 Finale,Jul 2018,61,False
+2018,62,Means vs. Moraes,UFC Fight Night 125,Feb 2018,62,True
+2018,63,Alcântara vs. Sandhagen,UFC Fight Night 135,Aug 2018,63,True
+2018,64,Shevchenko vs. Cachoeira,UFC Fight Night 125,Feb 2018,64,True
+2018,65,Waterson-Gomez vs. Casey,UFC on FOX 29,Apr 2018,65,True
+2018,67,Rockhold vs. Romero,UFC 221,Feb 2018,67,True
+2018,66,Torres vs. Perez,UFC 227,Aug 2018,66,True
+2018,68,Lineker vs. Kelleher,UFC 224,May 2018,68,True
+2018,70,Chandler vs. Yamauchi,Bellator 192,Jan 2018,70,False
+2018,69,Peterson vs. Davis,UFC Fight Night 126,Feb 2018,69,True
+2018,71,Ige vs. Arce,UFC 220,Jan 2018,71,True
+2018,72,Dern vs. Yoder,UFC 222,Mar 2018,72,True
+2018,73,Makdessi vs. Pearson,UFC on FOX 30,Jul 2018,73,True
+2018,74,Bahadurzada vs. Chagas,UFC Fight Night 128,Apr 2018,74,True
+2018,75,Brooks vs. Torres,UFC Fight Night 131,Jun 2018,75,True
+2018,76,Andrade vs. Pennington,UFC on FOX 28,Feb 2018,76,True
+2018,77,Duquesnoy vs. Ware,UFC Fight Night 127,Mar 2018,77,True
+2018,78,Brown vs. Ma,UFC 221,Feb 2018,78,True
+2018,80,Pettis vs. Chiesa,UFC 226,Jul 2018,80,True
+2018,79,Wilkinson vs. Adesanya,UFC 221,Feb 2018,79,True
+2018,81,Herrig vs. Kowalkiewicz,UFC 223,Apr 2018,81,True
+2018,84,Lee vs. Iaquinta II,UFC on FOX 31,Dec 2018,84,True
+2018,83,Almeida vs. Font,UFC 220,Jan 2018,83,True
+2018,82,Moraga vs. Reis,UFC on FOX 29,Apr 2018,82,True
+2018,85,Gadelha vs. Esparza,UFC 225,Jun 2018,85,True
+2018,87,Holm vs. Anderson,UFC 225,Jun 2018,87,True
+2018,86,Machida vs. Anders,UFC Fight Night 125,Feb 2018,86,True
+2018,89,Arlovski vs. Tuivasa,UFC 225,Jun 2018,89,True
+2018,88,Dobson vs. Mueller,UFC on FOX 29,Apr 2018,88,True
+2018,90,Antigulov vs. Cutelaba,UFC on FOX 30,Jul 2018,90,True
+2018,92,Asakura vs. Kape,RIZIN 10,May 2018,92,False
+2018,91,Pettis vs. Benavidez,UFC 225,Jun 2018,91,True
+2018,94,Northcutt vs. Ottow,UFC Fight Night 133,Jul 2018,94,True
+2018,93,Jędrzejczyk vs. Shevchenko,UFC 231,Dec 2018,93,True
+2018,95,Vera vs. Wulijiburen,UFC 227,Aug 2018,95,True
+2018,97,Yusuff vs. Davis,DW's Contender Series 2018,Jul 2018,97,False
+2018,96,Pitbull vs. Huerta,Bellator 205,Sep 2018,96,False
+2018,98,Gilpin vs. Coughran,DW's Contender Series 2018,Aug 2018,98,False
+2018,101,Camacho vs. Neal,UFC 228,Sep 2018,101,True
+2018,100,Ankalaev vs. Craig,UFC Fight Night 127,Mar 2018,100,True
+2018,99,Arnett vs. Sandhagen,UFC on FOX 27,Jan 2018,99,True
+2018,102,Sterling vs. Stamann,UFC 228,Sep 2018,102,True
+2018,103,Henderson vs. Huerta,Bellator 196,Apr 2018,103,False
+2018,104,Branch vs. Cannonier,UFC 230,Nov 2018,104,True
+2018,105,Zaleski vs. Vendramini,UFC Fight Night 137,Sep 2018,105,True
+2018,106,Mattos vs. Galaev,ACB 82,Mar 2018,106,False
+2018,108,Werdum vs. Volkov,UFC Fight Night 127,Mar 2018,108,True
+2018,107,Jouban vs. Saunders,UFC on FOX 28,Feb 2018,107,True
+2018,112,Cyborg vs. Nunes,UFC 232,Dec 2018,112,True
+2018,111,Brunson vs. Adesanya,UFC 230,Nov 2018,111,True
+2018,110,Bandenay vs. Benítez,UFC Fight Night 129,May 2018,110,True
+2018,109,Munhoz vs. Johns,UFC 227,Aug 2018,109,True
+2018,117,Jumeau vs. Abe,UFC 221,Feb 2018,117,True
+2018,116,Vera vs. Cannetti,UFC Fight Night 140,Nov 2018,116,True
+2018,115,Dyczka vs. Gane,TKO 44,Sep 2018,115,False
+2018,114,Cormier vs. Lewis,UFC 230,Nov 2018,114,True
+2018,113,Ikeda vs. Wakamatsu,Pancrase 293,Feb 2018,113,False
+2018,119,Miocic vs. Cormier,UFC 226,Jul 2018,119,True
+2018,118,Barboza vs. Hooker,UFC on FOX 31,Dec 2018,118,True
+2018,120,Emelianenko vs. Sonnen,Bellator 208,Oct 2018,120,False
+2018,121,Nurmagomedov vs. Iaquinta,UFC 223,Apr 2018,121,True
+2019,1,Gastelum vs. Adesanya,UFC 236,Apr 2019,1,True
+2019,2,Usman vs. Covington,UFC 245,Dec 2019,2,True
+2019,3,Holloway vs. Poirier II,UFC 236,Apr 2019,3,True
+2019,4,Romero vs. Costa,UFC 241,Aug 2019,4,True
+2019,5,Cormier vs. Miocic II,UFC 241,Aug 2019,5,True
+2019,6,Barberena vs. Luque,UFC on ESPN 1,Feb 2019,6,True
+2019,7,Cejudo vs. Moraes,UFC 238,Jun 2019,7,True
+2019,8,Ferguson vs. Cerrone,UFC 238,Jun 2019,8,True
+2019,9,Till vs. Masvidal,UFC on ESPN+ 5,Mar 2019,9,True
+2019,10,Luque vs. Perry,UFC on ESPN+ 14,Aug 2019,10,True
+2019,11,Garbrandt vs. Munhoz,UFC 235,Mar 2019,11,True
+2019,12,Rodriguez vs. Stephens,UFC on ESPN 6,Oct 2019,12,True
+2019,13,Lawler vs. Askren,UFC 235,Mar 2019,13,True
+2019,14,Makhachev vs. Tsarukyan,UFC on ESPN+ 7,Apr 2019,14,True
+2019,15,Barboza vs. Gaethje,UFC on ESPN 2,Mar 2019,15,True
+2019,16,Masvidal vs. Diaz,UFC 244,Nov 2019,16,True
+2019,17,Cerrone vs. Hernandez,UFC on ESPN+ 1,Jan 2019,17,True
+2019,18,Iaquinta vs. Cerrone,UFC on ESPN+ 9,May 2019,18,True
+2019,19,Lineker vs. Sandhagen,UFC on ESPN+ 8,Apr 2019,19,True
+2019,20,Thompson vs. Pettis,UFC on ESPN+ 6,Mar 2019,20,True
+2019,21,Maia vs. Askren,UFC on ESPN+ 20,Oct 2019,21,True
+2019,22,Muhammad vs. Neal,UFC on ESPN+ 1,Jan 2019,22,True
+2019,23,Namajunas vs. Andrade,UFC 237,May 2019,23,True
+2019,24,Oliveira vs. Teymur,UFC on ESPN+ 2,Feb 2019,24,True
+2019,25,Price vs. Means,UFC on ESPN+ 4,Mar 2019,25,True
+2019,26,Diaz vs. Pettis,UFC 241,Aug 2019,26,True
+2019,27,Whittaker vs. Adesanya,UFC 243,Oct 2019,27,True
+2019,28,Riddell vs. Mullarkey,UFC 243,Oct 2019,28,True
+2019,30,Lewis vs. dos Santos,UFC on ESPN+ 4,Mar 2019,30,True
+2019,29,Silva vs. Adesanya,UFC 234,Feb 2019,29,True
+2019,31,Benavidez vs. Ortiz II,UFC on ESPN+ 1,Jan 2019,31,True
+2019,32,Moffett vs. Mitchell,UFC on ESPN+ 6,Mar 2019,32,True
+2019,33,Teixeira vs. Roberson,UFC on ESPN+ 1,Jan 2019,33,True
+2019,34,Thompson vs. Luque,UFC 244,Nov 2019,34,True
+2019,35,Yahya vs. Simón,UFC 234,Feb 2019,35,True
+2019,36,Perry vs. Oliveira,UFC on ESPN+ 8,Apr 2019,36,True
+2019,37,Jones vs. Santos,UFC 239,Jul 2019,37,True
+2019,38,Pico vs. Corrales,Bellator 214,Jan 2019,38,False
+2019,39,Swanson vs. Gracie,UFC on ESPN+ 19,Oct 2019,39,True
+2019,40,Ishihara vs. Kang,UFC 234,Feb 2019,40,True
+2019,41,Pantoja vs. Figueiredo,UFC 240,Jul 2019,41,True
+2019,42,Winn vs. Spicely,UFC on ESPN+ 12,Jun 2019,42,True
+2019,43,Stephens vs. Magomedsharipov,UFC 235,Mar 2019,43,True
+2019,44,Choi vs. Jourdain,UFC on ESPN+ 23,Dec 2019,44,True
+2019,46,Nurmagomedov vs. Poirier,UFC 242,Sep 2019,46,True
+2019,45,Xiong vs. Lee,ONE Championship,Mar 2019,45,False
+2019,47,Holland vs. Allen,UFC on ESPN 6,Oct 2019,47,True
+2019,49,Aldo vs. Moicano,UFC on ESPN+ 2,Feb 2019,49,True
+2019,48,Pereira vs. Connelly,UFC on ESPN+ 16,Sep 2019,48,True
+2019,50,Ladd vs. Eubanks II,UFC on ESPN+ 10,May 2019,50,True
+2019,51,Dariush vs. Dober,UFC on ESPN+ 4,Mar 2019,51,True
+2019,52,Askren vs. Masvidal,UFC 239,Jul 2019,52,True
+2019,53,dos Anjos vs. Lee,UFC on ESPN+ 10,May 2019,53,True
+2019,54,Awad vs. Girtz,Bellator 219,Mar 2019,54,False
+2019,55,Jones vs. Smith,UFC 235,Mar 2019,55,True
+2019,56,Souza vs. Hermansson,UFC on ESPN+ 8,Apr 2019,56,True
+2019,57,Neal vs. Price,UFC 240,Jul 2019,57,True
+2019,58,Rivera vs. Yan,UFC 238,Jun 2019,58,True
+2019,59,Magomedsharipov vs. Kattar,UFC on ESPN+ 21,Nov 2019,59,True
+2019,60,Sanchez vs. Gall,UFC 235,Mar 2019,60,True
+2019,61,Balaev vs. Zhamaldaev,ACA 93,Mar 2019,61,False
+2019,62,Teixeira vs. Cutelaba,UFC on ESPN+ 8,Apr 2019,62,True
+2019,63,Arnett vs. Young,UFC 234,Feb 2019,63,True
+2019,65,Teymur vs. Fishgold,UFC on ESPN+ 3,Feb 2019,65,True
+2019,64,Gaol vs. Tomar,ONE Championship,Jan 2019,64,False
+2019,66,Font vs. Simón,UFC on ESPN 7,Dec 2019,66,True
+2019,67,Bandejas vs. Archuleta,Bellator 214,Jan 2019,67,False
+2019,68,Lee vs. Evans-Smith,UFC on ESPN 1,Feb 2019,68,True
+2019,69,Munhoz vs. Sterling,UFC 238,Jun 2019,69,True
+2019,70,Dalby vs. Houston,Cage Warriors 106,Jun 2019,70,False
+2019,71,Bautista vs. Son,UFC on ESPN 4,Jul 2019,71,True
+2019,72,Dawson vs. Erosa,UFC on ESPN+ 4,Mar 2019,72,True
+2019,73,Shevchenko vs. Pudilová,UFC on ESPN 5,Aug 2019,73,True
+2019,74,Pantoja vs. Schnell,UFC on ESPN+ 23,Dec 2019,74,True
+2019,75,Ige vs. Aguilar,UFC on ESPN+ 12,Jun 2019,75,True
+2019,77,Schulte vs. Aliev,PFL 2019 #8,Oct 2019,77,False
+2019,76,Felder vs. Barboza II,UFC 242,Sep 2019,76,True
+2019,78,Esparza vs. Grasso,UFC on ESPN+ 17,Sep 2019,78,True
+2019,80,dos Anjos vs. Edwards,UFC on ESPN 4,Jul 2019,80,True
+2019,79,Roberts vs. Silva,UFC on ESPN+ 5,Mar 2019,79,True
+2019,83,Covington vs. Lawler,UFC on ESPN 5,Aug 2019,83,True
+2019,82,Formiga vs. Benavidez II,UFC on ESPN 3,Jun 2019,82,True
+2019,81,Danaa vs. Alatengheili,UFC on ESPN+ 15,Aug 2019,81,True
+2019,84,Uchimura vs. Kamei,Pancrase 304,Apr 2019,84,False
+2019,87,Holtzman vs. Ma,UFC on ESPN 5,Aug 2019,87,True
+2019,86,Woodley vs. Usman,UFC 235,Mar 2019,86,True
+2019,85,Silva vs. Mashrapov,Titan FC 52,Jan 2019,85,False
+2019,88,Bravo vs. Peterson,UFC on ESPN+ 17,Sep 2019,88,True
+2019,89,Holtzman vs. Lentz,UFC on ESPN 1,Feb 2019,89,True
+2019,91,Yusuff vs. Benítez,UFC 241,Aug 2019,91,True
+2019,90,Bibulatov vs. Bontorin,UFC on ESPN+ 2,Feb 2019,90,True
+2019,92,Shevchenko vs. Eye,UFC 238,Jun 2019,92,True
+2013,1,Jones vs. Gustafsson,UFC 165,Sep 2013,1,True
+2013,2,Hunt vs. Silva,UFC Fight Night 33,Dec 2013,2,True
+2013,3,Silva vs. Stann,UFC on FUEL TV 8,Mar 2013,3,True
+2013,4,Melendez vs. Sanchez,UFC 166,Oct 2013,4,True
+2013,5,St-Pierre vs. Hendricks,UFC 167,Nov 2013,5,True
+2013,6,Silva vs. Weidman,UFC 162,Jul 2013,6,True
+2013,7,Condit vs. Hendricks,UFC 158,Mar 2013,7,True
+2013,8,Tate vs. Zingano,The Ultimate Fighter 17 Finale,Apr 2013,8,False
+2013,9,Aldo vs. Edgar,UFC 156,Feb 2013,9,True
+2013,10,Johnson vs. Dodson,UFC on FOX 6,Jan 2013,10,True
+2013,11,dos Santos vs. Hunt,UFC 160,May 2013,11,True
+2013,12,Grice vs. Bermudez,UFC 157,Feb 2013,12,True
+2013,13,Rousey vs. Tate II,UFC 168,Dec 2013,13,True
+2013,14,Velasquez vs. dos Santos III,UFC 166,Oct 2013,14,True
+2013,15,Struve vs. Hunt,UFC on FUEL TV 8,Mar 2013,15,True
+2013,16,Rousey vs. Carmouche,UFC 157,Feb 2013,16,True
+2013,17,Swanson vs. Poirier,UFC on FUEL TV 7,Feb 2013,17,True
+2013,18,Belfort vs. Bisping,UFC on FX 7,Jan 2013,18,True
+2013,19,Mein vs. Brown,UFC on FOX 7,Apr 2013,19,True
+2013,20,Overeem vs. Silva,UFC 156,Feb 2013,20,True
+2013,21,MacDonald vs. Lawler,UFC 167,Nov 2013,21,True
+2013,22,Teixeira vs. Bader,UFC Fight Night 28,Sep 2013,22,True
+2013,24,Johnson vs. Madadi,UFC on FUEL TV 9,Apr 2013,24,True
+2013,23,Silva vs. Kim,UFC Fight Night 29,Oct 2013,23,True
+2013,25,Pettis vs. Cerrone,UFC on FOX 6,Jan 2013,25,True
+2013,26,Hall vs. Gastelum,The Ultimate Fighter 17 Finale,Apr 2013,26,False
+2013,27,McDonald vs. Pickett,UFC Fight Night 26,Aug 2013,27,True
+2013,28,Henderson vs. Melendez,UFC on FOX 7,Apr 2013,28,True
+2013,29,Weidman vs. Silva II,UFC 168,Dec 2013,29,True
+2013,30,Diaz vs. Maynard III,The Ultimate Fighter 18 Finale,Nov 2013,30,False
+2013,31,Nogueira vs. Werdum II,UFC on FUEL TV 10,Jun 2013,31,True
+2013,32,Jackson vs. Teixeira,UFC on FOX 6,Jan 2013,32,True
+2013,33,Jones vs. Sonnen,UFC 159,Apr 2013,33,True
+2013,34,Henderson vs. Pettis II,UFC 164,Aug 2013,34,True
+2013,36,Rua vs. Te Huna,UFC Fight Night 33,Dec 2013,36,True
+2013,35,Curran vs. Pitbull,Bellator 85,Jan 2013,35,False
+2013,37,Johnson vs. Benavidez II,UFC on FOX 9,Dec 2013,37,True
+2013,38,Overeem vs. Browne,UFC Fight Night 26,Aug 2013,38,True
+2013,39,Poirier vs. Brandão,UFC 168,Dec 2013,39,True
+2013,40,Belfort vs. Rockhold,UFC on FX 8,May 2013,40,True
+2013,41,Teixeira vs. Te Huna,UFC 160,May 2013,41,True
+2013,44,Maynard vs. Grant,UFC 160,May 2013,44,True
+2013,43,Lineker vs. Tomé,UFC 163,Aug 2013,43,True
+2013,42,Silva vs. Cavalcante,UFC on FUEL TV 10,Jun 2013,42,True
+2013,45,Browne vs. Barnett,UFC 168,Dec 2013,45,True
+2013,47,Brimage vs. McGregor,UFC on FUEL TV 9,Apr 2013,47,True
+2013,46,Condit vs. Kampmann II,UFC Fight Night 27,Aug 2013,46,True
+2013,48,Velasquez vs. Silva II,UFC 160,May 2013,48,True
+2013,49,Evans vs. Sonnen,UFC 167,Nov 2013,49,True
+2013,50,Belfort vs. Henderson II,UFC Fight Night 32,Nov 2013,50,True
+2013,51,Barnett vs. Mir,UFC 164,Aug 2013,51,True
+2013,52,Koscheck vs. Woodley,UFC 167,Nov 2013,52,True
+2013,53,Mendes vs. Guida,UFC 164,Aug 2013,53,True
+2013,54,Hieron vs. Woodley,UFC 156,Feb 2013,54,True
+2013,55,Pennington vs. VanZant,Invicta FC 4,Jan 2013,55,False
+2013,56,Bader vs. Matyushenko,UFC on FOX 6,Jan 2013,56,True
+2013,57,Herman vs. Smith,UFC on FOX 8,Jul 2013,57,True
+2013,58,Brown vs. Pyle,UFC Fight Night 26,Aug 2013,58,True
+2013,59,Edwards vs. Medeiros,UFC Fight Night 31,Nov 2013,59,True
+2013,60,Starks vs. Romero,UFC on FOX 7,Apr 2013,60,True
+2013,61,Lineker vs. Harris,UFC Fight Night 30,Oct 2013,61,True
+2013,62,Gonzaga vs. Browne,The Ultimate Fighter 17 Finale,Apr 2013,62,False
+2013,63,Faber vs. McDonald,UFC on FOX 9,Dec 2013,63,True
+2013,65,Lawler vs. Voelker,UFC on FOX 8,Jul 2013,65,True
+2013,64,Cerrone vs. Dunham,UFC 167,Nov 2013,64,True
+2013,66,Figueroa vs. Rivera Jr.,UFC 156,Feb 2013,66,True
+2013,68,Brunson vs. Houston,UFC Fight Night 31,Nov 2013,68,True
+2013,67,McGee vs. Neer,UFC 157,Feb 2013,67,True
+2013,69,Machida vs. Muñoz,UFC Fight Night 30,Oct 2013,69,True
+2013,70,Roop vs. Bowles,UFC 160,May 2013,70,True
+2013,71,Johnson vs. Tibau,UFC 168,Dec 2013,71,True
+2013,73,Dillashaw vs. Viana,UFC on FOX 7,Apr 2013,73,True
+2013,72,Martins vs. Larsen,UFC on FX 8,May 2013,72,True
+2013,74,Koscheck vs. Lawler,UFC 157,Feb 2013,74,True
+2013,75,Gagnon vs. Kimura,UFC 165,Sep 2013,75,True
+2013,76,Swanson vs. Siver,UFC 162,Jul 2013,76,True
+2013,78,Souza vs. Camozzi,UFC on FX 8,May 2013,78,True
+2013,77,Volkmann vs. Green,UFC 156,Feb 2013,77,True
+2013,79,Lineker vs. Gashimov,UFC on FX 8,May 2013,79,True
+2013,80,Edgar vs. Oliveira,UFC 162,Jul 2013,80,True
+2013,81,Nelson vs. Kongo,UFC 159,Apr 2013,81,True
+2013,82,Kaufman vs. Smith,Invicta FC 5,Apr 2013,82,False
+2013,83,Faber vs. Menjivar II,UFC 157,Feb 2013,83,True
+2013,84,Masvidal vs. Chiesa,UFC on FOX 8,Jul 2013,84,True
+2013,85,Benavidez vs. Uyenoyama,UFC on FOX 7,Apr 2013,85,True
+2013,87,Barão vs. Wineland,UFC 165,Sep 2013,87,True
+2013,86,Diaz vs. Thomson,UFC on FOX 7,Apr 2013,86,True
+2013,89,Macário vs. Santos,UFC on FUEL TV 10,Jun 2013,89,True
+2013,88,Chandler vs. Alvarez II,Bellator 106,Nov 2013,88,False
+2013,90,Danzig vs. Guillard,UFC on FOX 8,Jul 2013,90,True
+2013,91,Rua vs. Sonnen,UFC Fight Night 26,Aug 2013,91,True
+2013,92,Brown vs. Siler,UFC Fight Night 26,Aug 2013,92,True
+2013,93,Thompson vs. Clements,UFC 165,Sep 2013,93,True
+2013,94,Martins vs. Hernandez,UFC Fight Night 28,Sep 2013,94,True
+2013,95,Tavares vs. Nurmagomedov,UFC on FX 7,Jan 2013,95,True
+2013,96,Vémola vs. Magalhães,UFC on FUEL TV 10,Jun 2013,96,True
+2013,97,Johnson vs. Moraga,UFC on FOX 8,Jul 2013,97,True
+2013,99,Lombard vs. Marquardt,UFC 166,Oct 2013,99,True
+2013,98,Namajunas vs. Pennington,Invicta FC 6,Jul 2013,98,False
+2013,101,Fili vs. Larsen,UFC 166,Oct 2013,101,True
+2013,100,Mongeon vs. Leroux III,Challenge MMA 1,May 2013,100,False
+2013,102,Rivera Jr. vs. Roop,UFC Fight Night 31,Nov 2013,102,True
+2013,103,Jason vs. Stephens,UFC Fight Night 32,Nov 2013,103,True
+2013,104,Maruyama vs. Choi,DEEP Cage Impact 2013,Jun 2013,104,False
+2013,106,Jordan vs. Gonzaga,UFC 166,Oct 2013,106,True
+2013,105,Siler vs. Holobaugh,UFC 159,Apr 2013,105,True
+2013,108,Montague vs. Dodson,UFC 166,Oct 2013,108,True
+2013,107,Whittaker vs. Smith,UFC 160,May 2013,107,True
+2013,109,Benavidez vs. McCall,UFC 156,Feb 2013,109,True
+2013,110,Couture vs. Pearson,UFC on FUEL TV 9,Apr 2013,110,True
+2013,111,Hester vs. Marunde,The Ultimate Fighter 17 Finale,Apr 2013,111,False
+2013,112,Prado vs. Alcântara,UFC on FX 7,Jan 2013,112,True
+2013,113,Trinaldo vs. Keith,UFC on FX 7,Jan 2013,113,True
+2013,115,Mendes vs. Elkins,UFC on FOX 7,Apr 2013,115,True
+2013,114,Barão vs. McDonald,UFC on FUEL TV 7,Feb 2013,114,True
+2013,116,Mizugaki vs. Perez,UFC Fight Night 27,Aug 2013,116,True
+2013,118,Barry vs. Jordan,UFC 161,Jun 2013,118,True
+2013,117,Noons vs. Couture,Strikeforce,Jan 2013,117,False
+2013,119,Krause vs. Green,UFC Fight Night 31,Nov 2013,119,True
+2013,120,McDaniel vs. Smith,The Ultimate Fighter 17 Finale,Apr 2013,120,False
+2013,121,Henderson vs. Machida,UFC 157,Feb 2013,121,True
+2013,123,Masvidal vs. Means,UFC on FOX 7,Apr 2013,123,True
+2013,122,Rogers vs. Cramer,Bellator 89,Feb 2013,122,False
+2013,124,Nunes vs. Gaff,UFC 163,Aug 2013,124,True
+2013,126,Barboza vs. Oliveira,UFC 162,Jul 2013,126,True
+2013,125,Poirier vs. Koch,UFC 164,Aug 2013,125,True
+2013,127,Lauzon vs. Johnson,UFC Fight Night 26,Aug 2013,127,True
+2013,130,Ferguson vs. Rio,UFC 166,Oct 2013,130,True
+2013,129,Gomes vs. Amaya,Bellator 86,Jan 2013,129,False
+2013,128,Perpétuo vs. Akhmedov,UFC Fight Night 32,Nov 2013,128,True
+2013,132,Sakara vs. Musoke,UFC Fight Night 30,Oct 2013,132,True
+2013,131,Mizugaki vs. Phan,UFC Fight Night 33,Dec 2013,131,True
+2013,134,Baczynski vs. Melancon,UFC 162,Jul 2013,134,True
+2013,133,Penne vs. Waterson-Gomez,Invicta FC 5,Apr 2013,133,False
+2013,136,Smith vs. Neto,UFC on FUEL TV 10,Jun 2013,136,True
+2013,135,Chandler vs. Hawn,Bellator 85,Jan 2013,135,False
+2013,137,McMann vs. Gaff,UFC 159,Apr 2013,137,True
+2013,139,Herman vs. Gonzaga,UFC 162,Jul 2013,139,True
+2013,138,McCall vs. Santos,UFC 163,Aug 2013,138,True
+2013,141,Albert vs. Meza,UFC on FOX 8,Jul 2013,141,True
+2013,140,Miller vs. Healy,UFC 159,Apr 2013,140,True
+2013,142,Leben vs. Hall,UFC 168,Dec 2013,142,True
+2013,143,McGregor vs. Holloway,UFC Fight Night 26,Aug 2013,143,True
+2013,144,Andrade vs. Sexton,UFC Fight Night 30,Oct 2013,144,True
+2013,146,Nunes vs. de Randamie,UFC Fight Night 31,Nov 2013,146,True
+2013,145,Brandão vs. Pineda,UFC Fight Night 26,Aug 2013,145,True
+2013,148,Aldo vs. Jung,UFC 163,Aug 2013,148,True
+2013,147,Fodor vs. Yang,ONE FC 10,Sep 2013,147,False
+2013,150,Maia vs. Shields,UFC Fight Night 29,Oct 2013,150,True
+2013,149,Mousasi vs. Kyle,Strikeforce,Jan 2013,149,False
+2013,152,Casey vs. Samman,The Ultimate Fighter 17 Finale,Apr 2013,152,False
+2013,151,Kennedy vs. Smith,Strikeforce,Jan 2013,151,False
+2013,154,Faber vs. Jorgensen,The Ultimate Fighter 17 Finale,Apr 2013,154,False
+2013,153,Bisping vs. Belcher,UFC 159,Apr 2013,153,True
+2013,156,Assunção vs. Lee,UFC on FUEL TV 10,Jun 2013,156,True
+2013,155,Watson vs. Nedkov,UFC on FUEL TV 7,Feb 2013,155,True
+2013,158,Garcia vs. Wall,UFC Fight Night 33,Dec 2013,158,True
+2013,157,Sanchez vs. Gomi,UFC on FUEL TV 8,Mar 2013,157,True
+2013,160,Holdsworth vs. Grant,The Ultimate Fighter 18 Finale,Nov 2013,160,False
+2013,159,Sarafian vs. Dollaway,UFC on FX 7,Jan 2013,159,True
+2013,163,Barry vs. Palelei,UFC Fight Night 33,Dec 2013,163,True
+2013,162,Davis vs. Baszler II,Invicta FC 4,Jan 2013,162,False
+2013,161,Te Huna vs. Jimmo,UFC on FUEL TV 7,Feb 2013,161,True
+2013,164,Shlemenko vs. Cooper II,Bellator 98,Sep 2013,164,False
+2013,166,Healy vs. Holobaugh,Strikeforce,Jan 2013,166,False
+2013,165,Natal vs. Troéng,UFC Fight Night 28,Sep 2013,165,True
+2013,167,Cote vs. Voelker,UFC 158,Mar 2013,167,True
+2013,169,Kennedy vs. Natal,UFC Fight Night 31,Nov 2013,169,True
+2013,168,Wood vs. von Plettenberg,Invicta FC 4,Jan 2013,168,False
+2013,171,Arantes vs. Pepey,UFC on FUEL TV 10,Jun 2013,171,True
+2013,170,Askren vs. Amoussou,Bellator 86,Jan 2013,170,False
+2013,172,Ponzinibbio vs. LaFlare,UFC Fight Night 32,Nov 2013,172,True
+2013,173,Patino vs. Ferreira,Legacy FC 25,Nov 2013,173,False
+2013,175,Lawlor vs. Kuiper,UFC on FUEL TV 9,Apr 2013,175,True
+2013,174,Wilcox vs. Stepanyan,Bellator 99,Sep 2013,174,False
+2013,178,Stephens vs. Payan,UFC 160,May 2013,178,True
+2013,177,D'Alelio vs. Nunes,Invicta FC 4,Jan 2013,177,False
+2013,176,Fitch vs. Maia,UFC 156,Feb 2013,176,True
+2013,179,Cariaso vs. Santos,UFC Fight Night 29,Oct 2013,179,True
+2013,183,Assunção vs. Dillashaw,UFC Fight Night 29,Oct 2013,183,True
+2013,182,Ferreira vs. Santos,UFC 163,Aug 2013,182,True
+2013,181,Smith vs. Pennington,Invicta FC 4,Jan 2013,181,False
+2013,180,Blanco vs. Sicilia,The Ultimate Fighter 17 Finale,Apr 2013,180,False
+2013,185,Stout vs. Krause,UFC 161,Jun 2013,185,True
+2013,184,Žaromskis vs. Weedman,Bellator 86,Jan 2013,184,False
+2013,188,Andrews vs. Abedi,UFC Fight Night 27,Aug 2013,188,True
+2013,187,Parke vs. Tokudome,UFC 162,Jul 2013,187,True
+2013,186,Souza vs. Herman,Strikeforce,Jan 2013,186,False
+2013,189,Masvidal vs. Khabilov,UFC Fight Night 31,Nov 2013,189,True
+2013,191,Gracie vs. Smith,Strikeforce,Jan 2013,191,False
+2013,190,Elliott vs. Bagautinov,UFC 167,Nov 2013,190,True
+2013,193,Payan vs. Peralta,UFC 168,Dec 2013,193,True
+2013,192,Carmouche vs. Andrade,UFC on FOX 8,Jul 2013,192,True
+2013,195,Caraway vs. Bedford,UFC 159,Apr 2013,195,True
+2013,194,Burrell vs. Villefort,UFC 157,Feb 2013,194,True
+2013,196,Barnatt vs. Craig,UFC Fight Night 30,Oct 2013,196,True
+2013,197,Pierce vs. Palhares,UFC Fight Night 29,Oct 2013,197,True
+2015,1,Lawler vs. MacDonald II,UFC 189,Jul 2015,1,True
+2015,2,Jones vs. Cormier,UFC 182,Jan 2015,2,True
+2015,3,Ferguson vs. Barboza,The Ultimate Fighter 22 Finale,Dec 2015,3,False
+2015,4,McGregor vs. Mendes,UFC 189,Jul 2015,4,True
+2015,5,Browne vs. Arlovski,UFC 187,May 2015,5,True
+2015,6,Cormier vs. Gustafsson,UFC 192,Oct 2015,6,True
+2015,7,Rousey vs. Holm,UFC 193,Nov 2015,7,True
+2015,8,Gaethje vs. Palomino,WSOF 19,Mar 2015,8,False
+2015,9,Bermudez vs. Stephens,UFC 189,Jul 2015,9,True
+2015,10,Henderson vs. Thatch,UFC Fight Night 60,Feb 2015,10,True
+2015,11,Weidman vs. Rockhold,UFC 194,Dec 2015,11,True
+2015,12,Lineker vs. Rivera Jr.,UFC 191,Sep 2015,12,True
+2015,13,Diaz vs. Johnson,UFC on FOX 17,Dec 2015,13,True
+2015,14,Velasquez vs. Werdum,UFC 188,Jun 2015,14,True
+2015,15,Tavares vs. Ortega,UFC Fight Night 68,Jun 2015,15,True
+2015,16,Johnson vs. Cormier,UFC 187,May 2015,16,True
+2015,17,Brimage vs. Garbrandt,UFC 182,Jan 2015,17,True
+2015,18,Almeida vs. Pickett,UFC 189,Jul 2015,18,True
+2015,19,Barboza vs. Felder,UFC on FOX 16,Jul 2015,19,True
+2015,20,Esparza vs. Jędrzejczyk,UFC 185,Mar 2015,20,True
+2015,21,Weidman vs. Belfort,UFC 187,May 2015,21,True
+2015,22,McGregor vs. Siver,UFC Fight Night 59,Jan 2015,22,True
+2015,23,Jędrzejczyk vs. Penne,UFC Fight Night 69,Jun 2015,23,True
+2015,24,Oliveira vs. Lentz II,UFC Fight Night 67,May 2015,24,True
+2015,25,Cerrone vs. Henderson III,UFC Fight Night 59,Jan 2015,25,True
+2015,26,Gustafsson vs. Johnson,UFC on FOX 14,Jan 2015,26,True
+2015,27,Jouban vs. Dwyer,UFC Fight Night 71,Jul 2015,27,True
+2015,28,Davis vs. Tokoro,Bellator 135,Mar 2015,28,False
+2015,29,Silva vs. Diaz,UFC 183,Jan 2015,29,True
+2015,30,Gonzaga vs. Filipović II,UFC Fight Night 64,Apr 2015,30,True
+2015,31,Thomson vs. Ferguson,UFC Fight Night 71,Jul 2015,31,True
+2015,32,Cote vs. Burkman,UFC Fight Night 74,Aug 2015,32,True
+2015,34,Grasso vs. Inoue,Invicta FC 11,Feb 2015,34,False
+2015,33,Mir vs. Duffee,UFC Fight Night 71,Jul 2015,33,True
+2015,36,Jędrzejczyk vs. Létourneau,UFC 193,Nov 2015,36,True
+2015,35,Newton vs. McGeary,Bellator 134,Feb 2015,35,False
+2015,37,Anderson vs. Villante,UFC on FOX 15,Apr 2015,37,True
+2015,38,Cerrone vs. Jury,UFC 182,Jan 2015,38,True
+2015,39,Leites vs. Boetsch,UFC 183,Jan 2015,39,True
+2015,40,Rousey vs. Zingano,UFC 184,Feb 2015,40,True
+2015,41,Bisping vs. Dollaway,UFC 186,Apr 2015,41,True
+2015,42,Lauzon vs. Iaquinta,UFC 183,Jan 2015,42,True
+2015,43,Musoke vs. Tumenov,UFC on FOX 14,Jan 2015,43,True
+2015,44,Wood vs. Casey,UFC Fight Night 72,Jul 2015,44,True
+2015,45,Materla vs. Drwal,KSW 31,May 2015,45,False
+2015,47,Rosa vs. Rodriguez,UFC 188,Jun 2015,47,True
+2015,46,Pitbull vs. Straus III,Bellator 145,Nov 2015,46,False
+2015,48,Gastelum vs. Magny,UFC Fight Night 78,Nov 2015,48,True
+2015,49,Holm vs. Pennington,UFC 184,Feb 2015,49,True
+2015,53,Till vs. Dalby,UFC Fight Night 76,Oct 2015,53,True
+2015,52,Tate vs. McMann,UFC 183,Jan 2015,52,True
+2015,51,Pitbull vs. Straus,Bellator 132,Jan 2015,51,False
+2015,50,Seery vs. Smolka,UFC 189,Jul 2015,50,True
+2015,54,Pitbull vs. Weichel,Bellator 138,Jun 2015,54,False
+2015,55,Pettis vs. dos Anjos,UFC 185,Mar 2015,55,True
+2015,56,Makovsky vs. Elliott,UFC Fight Night 60,Feb 2015,56,True
+2015,57,Shimuk vs. Paduch,Fight Exclusive Night 5,Jan 2015,57,False
+2015,60,Kowalkiewicz vs. Faria,KSW 30,Feb 2015,60,False
+2015,59,Larkin vs. Ponzinibbio,UFC Fight Night 70,Jun 2015,59,True
+2015,58,Brown vs. Means,UFC 189,Jul 2015,58,True
+2015,62,Maia vs. Nelson,UFC 194,Dec 2015,62,True
+2015,61,Rosa vs. Soriano,UFC Fight Night 59,Jan 2015,61,True
+2015,63,Pietraszek vs. Zontek,Fight Exclusive Night 5,Jan 2015,63,False
+2015,65,Aldo vs. McGregor,UFC 194,Dec 2015,65,True
+2015,64,Procházka vs. Nemkov,RIZIN Fighting World Grand Prix 2015,Dec 2015,64,False
+2015,66,Danelski vs. Meek,Arena Berserkerów 7,Mar 2015,66,False
+2015,68,Andrade vs. Pennington II,UFC 191,Sep 2015,68,True
+2015,67,Henderson vs. Masvidal,UFC Fight Night 79,Nov 2015,67,True
+2015,71,Condit vs. Alves,UFC Fight Night 67,May 2015,71,True
+2015,70,Li vs. Nakamura,UFC Fight Night 75,Sep 2015,70,True
+2015,69,Miller vs. Chiesa,UFC Fight Night 80,Dec 2015,69,True
+2015,74,Nelson vs. Thatch,UFC 189,Jul 2015,74,True
+2015,73,Hall vs. Whittaker,UFC 193,Nov 2015,73,True
+2015,72,Hirota vs. Ishihara,UFC Fight Night 75,Sep 2015,72,True
+2015,77,Barboza vs. Johnson,UFC Fight Night 61,Feb 2015,77,True
+2015,76,VanZant vs. Namajunas,UFC Fight Night 80,Dec 2015,76,True
+2015,75,Kato vs. Manhoef,Bellator 146,Nov 2015,75,False
+2015,78,Rousey vs. Correia,UFC 190,Aug 2015,78,True
