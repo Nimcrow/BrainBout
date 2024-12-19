@@ -1,0 +1,39 @@
+Model: Logistic Regression
+Best Parameters:
+{'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}
+
+Performance Metrics:
+Accuracy: 0.994535519125683
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+ROC AUC: 0.9078268670105404
+
+==================================================
+
+Model: Random Forest
+Best Parameters:
+{'max_depth': None, 'min_samples_split': 2, 'n_estimators': 50}
+
+Performance Metrics:
+Accuracy: 0.9960967993754879
+Precision: 1.0
+Recall: 0.2857142857142857
+F1 Score: 0.4444444444444444
+ROC AUC: 0.8035994617627271
+
+==================================================
+
+Model: SVM
+Best Parameters:
+{'C': 100, 'gamma': 'scale', 'kernel': 'rbf'}
+
+Performance Metrics:
+Accuracy: 0.9898516783762685
+Precision: 0.125
+Recall: 0.14285714285714285
+F1 Score: 0.13333333333333333
+ROC AUC: 0.8367346938775511
+
+==================================================
+
